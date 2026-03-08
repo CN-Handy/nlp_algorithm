@@ -1,0 +1,28 @@
+name: xxx  # 环境名称，可自定义
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  # 基础Python版本（建议指定，避免版本冲突）
+  - python=3.10
+  
+  # Conda官方源可直接安装的包（优先用conda安装，兼容性更好）
+  - numpy=1.26.4
+  - pandas=2.2.2
+  - matplotlib=3.9.2
+  - scikit-learn=1.5.1
+  - pytorch  # 根据系统自动适配CPU/GPU版本，如需指定版本可加==x.x.x
+  - gensim   # conda源已收录，无需pip
+  
+  # Conda源没有或建议用pip安装的包
+  - pip
+  - pip:
+    - jieba
+    - peft==0.15.0
+    - transformers==4.56.2
+    - fastapi[standard]  # Windows/Mac通用（conda会自动适配）
+    - mypy
+    # 指定清华源（pip安装时自动使用）
+    - --index-url https://pypi.tuna.tsinghua.edu.cn/simple
+    - --trusted-host pypi.tuna.tsinghua.edu.cn
