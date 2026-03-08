@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../02-joint-bert-training-only/.idea/02-joint-bert-training-only.iml" filepath="$PROJECT_DIR$/../02-joint-bert-training-only/.idea/02-joint-bert-training-only.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/04-government-advanced-rag.iml" filepath="$PROJECT_DIR$/.idea/04-government-advanced-rag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Week03/.idea/Week03.iml" filepath="$PROJECT_DIR$/../../Week03/.idea/Week03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Week06/.idea/Week06.iml" filepath="$PROJECT_DIR$/../../Week06/.idea/Week06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Week07/.idea/Week07.iml" filepath="$PROJECT_DIR$/../../Week07/.idea/Week07.iml" />
+    </modules>
+  </component>
+</project>
