@@ -6,10 +6,13 @@ import openai
 import json
 
 client = openai.OpenAI(
-    api_key="sk-78cc4e9ac8f44efdb207b7232e1ae6d8", # https://bailian.console.aliyun.com/?tab=model#/api-key
+    api_key="sk-f0ab3fca58044adcb75b5a60974549b3", # https://bailian.console.aliyun.com/?tab=model#/api-key
     base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
 )
 
+# 本质是function call
+# 可以传入多个待选函数，让大模型选择其中一个
+# 传的是我们的函数的描述，让大模型选择，生成调用这个函数的传入参数
 tools = [
     {
         "type": "function",
@@ -48,6 +51,7 @@ messages = [
     }
 ]
 
+# 大模型选择了一个函数，生成了函数的调用过程， 这也是agent 的核心功能
 response = client.chat.completions.create(
     model="qwen-plus",
     messages=messages,
@@ -58,7 +62,8 @@ print(response.choices[0].message.tool_calls[0].function)
 
 
 """
-这个智能体（不是满足agent的功能），能自动生成tools的json，实现信息信息抽取
+这个智能体（不是满足agent所有的功能），能自动生成tools的json，实现信息信息抽取
+指定写的tool的格式
 """
 class ExtractionAgent:
     def __init__(self, model_name: str):
@@ -71,6 +76,7 @@ class ExtractionAgent:
                 "content": user_prompt
             }
         ]
+        # 传入需要提取的内容，自己写了一个tool格式
         tools = [
             {
                 "type": "function",
@@ -93,7 +99,10 @@ class ExtractionAgent:
             tool_choice="auto",
         )
         try:
+            # 提取的参数（json格式）
             arguments = response.choices[0].message.tool_calls[0].function.arguments
+
+            # 参数转换为datamodel，关注想要的参数
             return response_model.model_validate_json(arguments)
         except:
             print('ERROR', response.choices[0].message)

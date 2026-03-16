@@ -1,0 +1,43 @@
+2026-03-15 00:09:38 | INFO     | Starting FAQ智能问答系统 v1.0.0
+2026-03-15 00:09:38 | INFO     | Elasticsearch index initialized
+2026-03-15 00:09:42 | INFO     | Embedding model verified
+2026-03-15 00:09:53 | INFO     | [1773504593606] Incoming request: GET /api/v1/admin/categories | IP: 127.0.0.1 | Params: env=TEST&page=1&page_size=100
+2026-03-15 00:09:53 | INFO     | [1773504593606] Response: GET /api/v1/admin/categories | Status: 200 | Duration: 28.06ms | IP: 127.0.0.1
+2026-03-15 00:09:53 | INFO     | [1773504593642] Incoming request: GET /api/v1/admin/categories/tree | IP: 127.0.0.1 | Params: env=TEST
+2026-03-15 00:09:53 | INFO     | [1773504593642] Response: GET /api/v1/admin/categories/tree | Status: 200 | Duration: 4.31ms | IP: 127.0.0.1
+2026-03-15 00:09:55 | INFO     | [1773504595738] Incoming request: GET /api/v1/admin/categories | IP: 127.0.0.1 | Params: env=TEST&page=1&page_size=100
+2026-03-15 00:09:55 | INFO     | [1773504595738] Response: GET /api/v1/admin/categories | Status: 200 | Duration: 5.56ms | IP: 127.0.0.1
+2026-03-15 00:09:55 | INFO     | [1773504595754] Incoming request: GET /api/v1/admin/categories/tree | IP: 127.0.0.1 | Params: env=TEST
+2026-03-15 00:09:55 | INFO     | [1773504595754] Response: GET /api/v1/admin/categories/tree | Status: 200 | Duration: 2.80ms | IP: 127.0.0.1
+2026-03-15 00:10:02 | INFO     | [1773504602757] Incoming request: GET /api/v1/admin/categories | IP: 127.0.0.1 | Params: env=TEST&page=1&page_size=100
+2026-03-15 00:10:02 | INFO     | [1773504602757] Response: GET /api/v1/admin/categories | Status: 200 | Duration: 4.89ms | IP: 127.0.0.1
+2026-03-15 00:10:02 | INFO     | [1773504602815] Incoming request: GET /api/v1/admin/categories | IP: 127.0.0.1 | Params: env=TEST&page=1&page_size=100
+2026-03-15 00:10:02 | INFO     | [1773504602815] Response: GET /api/v1/admin/categories | Status: 200 | Duration: 4.25ms | IP: 127.0.0.1
+2026-03-15 00:10:02 | INFO     | [1773504602828] Incoming request: GET /api/v1/admin/categories/tree | IP: 127.0.0.1 | Params: env=TEST
+2026-03-15 00:10:02 | INFO     | [1773504602828] Response: GET /api/v1/admin/categories/tree | Status: 200 | Duration: 2.57ms | IP: 127.0.0.1
+2026-03-15 00:10:12 | INFO     | [1773504612391] Incoming request: GET /api/v1/admin/categories | IP: 127.0.0.1 | Params: env=TEST&page=1&page_size=100
+2026-03-15 00:10:12 | INFO     | [1773504612391] Response: GET /api/v1/admin/categories | Status: 200 | Duration: 5.47ms | IP: 127.0.0.1
+2026-03-15 00:10:12 | INFO     | [1773504612410] Incoming request: GET /api/v1/admin/categories/tree | IP: 127.0.0.1 | Params: env=TEST
+2026-03-15 00:10:12 | INFO     | [1773504612410] Response: GET /api/v1/admin/categories/tree | Status: 200 | Duration: 2.90ms | IP: 127.0.0.1
+2026-03-15 00:10:12 | INFO     | [1773504612849] Incoming request: GET /api/v1/admin/faqs | IP: 127.0.0.1 | Params: env=TEST&page=1&page_size=20&category_id=1
+2026-03-15 00:10:12 | INFO     | [1773504612849] Response: GET /api/v1/admin/faqs | Status: 200 | Duration: 13.34ms | IP: 127.0.0.1
+2026-03-15 00:10:12 | INFO     | [1773504612872] Incoming request: GET /api/v1/admin/categories | IP: 127.0.0.1 | Params: env=TEST&page=1&page_size=100
+2026-03-15 00:10:12 | INFO     | [1773504612872] Response: GET /api/v1/admin/categories | Status: 200 | Duration: 4.00ms | IP: 127.0.0.1
+2026-03-15 00:10:23 | INFO     | [1773504623598] Incoming request: POST /api/v1/service/ask | IP: 127.0.0.1 | Params: 
+2026-03-15 00:10:23 | INFO     | [1773504623598] Response: POST /api/v1/service/ask | Status: 422 | Duration: 2.57ms | IP: 127.0.0.1
+2026-03-15 00:10:31 | INFO     | [1773504631166] Incoming request: POST /api/v1/service/ask | IP: 127.0.0.1 | Params: 
+2026-03-15 00:10:31 | INFO     | [1773504631166] Response: POST /api/v1/service/ask | Status: 422 | Duration: 1.62ms | IP: 127.0.0.1
+2026-03-15 00:10:41 | INFO     | [1773504641572] Incoming request: GET /api/v1/service/nav | IP: 127.0.0.1 | Params: 
+2026-03-15 00:10:41 | INFO     | [1773504641572] Response: GET /api/v1/service/nav | Status: 404 | Duration: 0.41ms | IP: 127.0.0.1
+2026-03-15 00:10:44 | INFO     | [1773504644504] Incoming request: GET /api/v1/service/nav | IP: 127.0.0.1 | Params: 
+2026-03-15 00:10:44 | INFO     | [1773504644504] Response: GET /api/v1/service/nav | Status: 404 | Duration: 0.37ms | IP: 127.0.0.1
+2026-03-15 00:10:44 | INFO     | [1773504644603] Incoming request: GET /api/v1/service/search | IP: 127.0.0.1 | Params: q=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0&channel=default&limit=10
+2026-03-15 00:10:44 | INFO     | [1773504644603] Response: GET /api/v1/service/search | Status: 200 | Duration: 20.08ms | IP: 127.0.0.1
+2026-03-15 00:10:44 | INFO     | [1773504644632] Incoming request: GET /api/v1/service/nav | IP: 127.0.0.1 | Params: 
+2026-03-15 00:10:44 | INFO     | [1773504644632] Response: GET /api/v1/service/nav | Status: 404 | Duration: 0.29ms | IP: 127.0.0.1
+2026-03-15 00:10:55 | INFO     | [1773504655538] Incoming request: GET /api/v1/service/nav | IP: 127.0.0.1 | Params: 
+2026-03-15 00:10:55 | INFO     | [1773504655538] Response: GET /api/v1/service/nav | Status: 404 | Duration: 0.38ms | IP: 127.0.0.1
+2026-03-15 09:26:48 | INFO     | [1773538008228] Incoming request: POST /api/v1/admin/categories | IP: 127.0.0.1 | Params: 
+2026-03-15 09:26:48 | INFO     | [1773538008228] Response: POST /api/v1/admin/categories | Status: 200 | Duration: 24.91ms | IP: 127.0.0.1
+2026-03-15 09:26:58 | INFO     | [1773538018027] Incoming request: GET /api/v1/admin/categories | IP: 127.0.0.1 | Params: env=TEST&page=1&page_size=20
+2026-03-15 09:26:58 | INFO     | [1773538018027] Response: GET /api/v1/admin/categories | Status: 200 | Duration: 6.67ms | IP: 127.0.0.1

@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "/root/miniconda3/bin/python3.12",
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.activateEnvInCurrentTerminal": true
+}

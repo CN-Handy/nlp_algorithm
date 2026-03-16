@@ -1,0 +1,205 @@
+# FAQ System Configuration
+# 应用配置文件
+
+app:
+  # 应用基础配置
+  name: "FAQ智能问答系统"
+  version: "1.0.0"
+  debug: false
+  host: "0.0.0.0"
+  port: 8090
+
+  # API 配置
+  api:
+    prefix: "/api/v1"
+    title: "FAQ智能问答系统API"
+    description: "客服工作台与智能问答系统"
+    docs_url: "/docs"
+    redoc_url: "/redoc"
+
+  # CORS 配置
+  cors:
+    enabled: true
+    allow_origins:
+      - "http://localhost:3000"
+      - "http://localhost:8080"
+    allow_methods:
+      - "GET"
+      - "POST"
+      - "PUT"
+      - "PATCH"
+      - "DELETE"
+    allow_headers:
+      - "*"
+    allow_credentials: true
+
+# 数据库配置
+database:
+  # MySQL 配置
+  mysql:
+    host: "localhost"
+    port: 3306
+    user: "admin"
+    password: "admin123456"
+    database: "faq_db"
+    charset: "utf8mb4"
+
+    # 连接池配置
+    pool_size: 10
+    max_overflow: 20
+    pool_recycle: 3600
+    pool_pre_ping: true
+    echo: false
+
+# 搜索引擎配置 (Elasticsearch - 支持全文检索和向量搜索)
+elasticsearch:
+  hosts:
+    - "http://localhost:9200"
+  index_prefix: "faq_"
+  timeout: 30
+  max_retries: 3
+  retry_on_timeout: true
+
+  # ES 索引配置
+  settings:
+    number_of_shards: 1
+    number_of_replicas: 0
+    refresh_interval: "1s"
+
+  # IK 分词器配置 (中文分词)
+  ik_analyzer:
+    enabled: true
+    max_word_length: 50
+
+  # 向量搜索配置 (使用 ES 的 dense_vector)
+  vector:
+    enabled: true
+    dimension: 512  # 向量维度 (all-MiniLM-L6-v2 为 384)
+    similarity: "cosine"  # 相似度算法: cosine, dot_product, euclidean
+    m: 16              # HNSW 算法参数
+    ef_construction: 256  # HNSW 算法参数
+    ef: 128            # HNSW 搜索参数
+
+# Embedding 模型配置 (用于生成向量)
+embedding:
+  # 本地模型或 API
+  provider: "local"  # "local" | "openai" | "azure"
+
+  # 本地模型配置
+  local:
+    model_name: "/root/models/BAAI/bge-small-zh-v1.5/"
+    device: "cpu"  # "cpu" | "cuda"
+    normalize_embeddings: true
+    batch_size: 512
+
+# 搜索配置
+search:
+  # 多路召回配置
+  multi_way_recall:
+    semantic_weight: 0.4      # 向量搜索权重
+    keyword_weight: 0.3       # 关键词搜索权重
+    exact_match_weight: 0.3   # 精确匹配权重
+
+  # 向量搜索
+  vector:
+    top_k: 5
+    score_threshold: 0.5
+
+  # 关键词搜索
+  keyword:
+    top_k: 10
+    fuzziness: "AUTO"
+
+  # 最终重排序
+  rerank:
+    enabled: false
+    model: "cross-encoder"
+
+# FAQ 配置
+faq:
+  # 分页配置
+  pagination:
+    default_page_size: 20
+    max_page_size: 100
+
+  # 批量操作限制
+  batch:
+    import_limit: 3000
+    export_limit: 50000
+
+  # 答案类型配置
+  answer_types:
+    - "TEXT"      # 纯文本
+    - "RICH"      # 富文本
+    - "CARD"      # 交互卡片
+
+  # 渠道配置
+  channels:
+    - code: "default"
+      name: "默认"
+      is_active: true
+    - code: "wechat"
+      name: "微信"
+      is_active: true
+    - code: "app"
+      name: "App"
+      is_active: true
+    - code: "web"
+      name: "网页"
+      is_active: true
+
+  # 环境配置
+  environments:
+    - code: "TEST"
+      name: "测试环境"
+    - code: "PROD"
+      name: "正式环境"
+
+  # FAQ 状态
+  status:
+    - "ENABLE"
+    - "DISABLE"
+
+# 日志配置
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR, CRITICAL
+
+  # 日志文件目录
+  dir: "./logs"
+
+  # 按级别分文件存储
+  # 文件名格式: {level}_{date}.log
+  # 每天自动滚动
+  # 保留14天
+  separate:
+    - level: "DEBUG"
+      filename: "debug"
+    - level: "INFO"
+      filename: "info"
+    - level: "WARNING"
+      filename: "warning"
+    - level: "ERROR"
+      filename: "error"
+    - level: "CRITICAL"
+      filename: "critical"
+
+  # 访问日志
+  access:
+    enabled: true
+    filename: "access"
+
+  # 保留天数
+  retention_days: 14
+
+# 监控配置
+monitoring:
+  enabled: false
+  prometheus:
+    enabled: false
+    port: 9090
+
+# 缓存配置
+cache:
+  enabled: true
+  ttl: 3600  # 秒
+  prefix: "faq:"
