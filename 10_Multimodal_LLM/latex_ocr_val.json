@@ -1,0 +1,54 @@
+[
+  {
+    "id": "identity_997",
+    "conversations": [
+      {
+        "role": "user",
+        "value": "/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/996.jpg"
+      },
+      {
+        "role": "assistant",
+        "value": "F \\colon \\rho _ { 1 } \\otimes \\rho _ { 2 } \\to \\rho _ { 3 } \\otimes \\rho _ { 4 } ,"
+      }
+    ]
+  },
+  {
+    "id": "identity_998",
+    "conversations": [
+      {
+        "role": "user",
+        "value": "/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/997.jpg"
+      },
+      {
+        "role": "assistant",
+        "value": "\\mathrm { t r i r e s } \\left( \\bar { \\Phi } _ { A } ^ { ( 3 ) } \\right) = \\left( g h _ { 1 } \\left( \\Phi ^ { A } \\right) + 1 , g h _ { 2 } \\left( \\Phi ^ { A } \\right) + 1 , g h _ { 3 } \\left( \\Phi ^ { A } \\right) \\right) ,"
+      }
+    ]
+  },
+  {
+    "id": "identity_999",
+    "conversations": [
+      {
+        "role": "user",
+        "value": "/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/998.jpg"
+      },
+      {
+        "role": "assistant",
+        "value": "{ \\cal L } _ { Y M } ^ { ( 1 ) } ( D \\rightarrow 4 , 2 ) = \\frac { \\hbar g ^ { 2 } } { 3 2 \\pi ^ { 2 } ( 4 - D ) } \\left( \\frac { 1 1 } { 3 } C + \\frac { 1 } { 6 } T _ { s } - \\frac { 4 } { 3 } T _ { f } \\right) F _ { \\mu \\nu } ^ { a } F _ { \\mu \\nu } ^ { a } ."
+      }
+    ]
+  },
+  {
+    "id": "identity_1000",
+    "conversations": [
+      {
+        "role": "user",
+        "value": "/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/999.jpg"
+      },
+      {
+        "role": "assistant",
+        "value": "a _ { i j } = \\left( \\begin{array} { c c } { 2 } & { - 2 } \\\\ { - 2 } & { 2 } \\\\ \\end{array} \\right)"
+      }
+    ]
+  }
+]

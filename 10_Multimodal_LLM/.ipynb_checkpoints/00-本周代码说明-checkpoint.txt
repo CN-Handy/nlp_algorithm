@@ -1,0 +1,16 @@
+在之前的课程中，我们的代码都专注于逻辑和算法，没有涉及图像处理，因此纯代码环境足以满足需求。但本节课我们将进行大量的图像展示与分析，为了更好地实现图文并茂的可视化效果，我们将使用Jupyter Notebook作为开发环境。
+
+启动方式如下：
+
+```
+conda activate py312
+jupyter notebook
+```
+
+ai_challenger_caption_validation_20170910.zip 下载地址：
+链接: https://pan.baidu.com/s/1R91FgRToHGfSV_cd_HsmMA?pwd=idbw
+
+本周使用到的模型：
+- https://www.modelscope.cn/models/AI-ModelScope/chinese-clip-vit-base-patch16
+- https://www.modelscope.cn/models/BAAI/BGE-VL-base
+- https://www.modelscope.cn/models/Qwen/Qwen2.5-VL-7B-Instruct

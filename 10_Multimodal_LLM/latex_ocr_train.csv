@@ -1,0 +1,1001 @@
+image_path,text
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/0.jpg,d s ^ { 2 } = ( 1 - { \frac { q c o s \theta } { r } } ) ^ { \frac { 2 } { 1 + \alpha ^ { 2 } } } \lbrace d r ^ { 2 } + r ^ { 2 } d \theta ^ { 2 } + r ^ { 2 } s i n ^ { 2 } \theta d \varphi ^ { 2 } \rbrace - { \frac { d t ^ { 2 } } { ( 1 - { \frac { q c o s \theta } { r } } ) ^ { \frac { 2 } { 1 + \alpha ^ { 2 } } } } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/1.jpg,\widetilde \gamma _ { \mathrm { h o p f } } \simeq \sum _ { n > 0 } \widetilde { G } _ { n } { \frac { ( - a ) ^ { n } } { 2 ^ { 2 n - 1 } } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/2.jpg,\rho _ { L } ( q ) = \sum _ { m = 1 } ^ { L } \ P _ { L } ( m ) \ { \frac { 1 } { q ^ { m - 1 } } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/3.jpg,"{ \frac { d ^ { 2 } \varphi } { d \tau ^ { 2 } } } = \sin \varphi \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/4.jpg,"| t _ { i , j } | ^ { 2 } \leq t _ { i , i } t _ { j , j } , t _ { i , i } > 0 \forall i , j"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/5.jpg,s + t + u = - \frac { 8 } { \alpha ^ { \prime } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/6.jpg,m _ { \phi _ { 0 } } ^ { 2 } \sim { \frac { m ^ { 2 } v ^ { 2 } } { \Lambda ^ { 2 } } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/7.jpg,"( \partial b ) ^ { * } = - q ^ { 2 } ( D ^ { - 1 } ) \left( - q ^ { 3 } c d ( \partial a ) + q a d ( \partial c ) + q ^ { 2 } c ^ { 2 } ( \partial b ) - a c ( \partial d ) \right) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/8.jpg,d _ { k } > \frac { 9 } { ( k + 2 ) ^ { 2 } } ( \bar { \varphi } \varphi ) _ { 0 } ^ { \frac { 4 } { 3 } } ( \bar { F } F ) _ { 0 } ^ { - 1 } d _ { k - 1 } \ .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/9.jpg,\varepsilon ^ { \mu \nu \alpha \beta } \partial _ { \nu } B _ { \alpha \beta } = 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/10.jpg,\mathrm { I ) } \quad { \cal L } = \partial _ { z } \varphi \partial _ { \bar { z } } \varphi - 4 \varphi ^ { 2 } + 2 \varphi ^ { 4 } \quad \mathrm { a n d } \quad \mathrm { I I ) } \quad { \cal L } = \partial _ { z } \varphi \partial _ { \bar { z } } \varphi + 2 \varphi ^ { 2 } - 2 \varphi ^ { 4 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/11.jpg,"{ \cal W } \equiv { \frac { 1 } { 4 \rho ^ { 2 } } } \Big [ \cosh ( 2 \varphi _ { 2 } ) ( \rho ^ { 6 } - 2 ) - ( 3 \rho ^ { 6 } + 2 ) \Big ] , \qquad \rho \equiv e ^ { { \frac { 1 } { \sqrt { 6 } } } \varphi _ { 1 } } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/12.jpg,"\zeta _ { \mathrm { f r } } ( K , P ) = \omega ( K , P ) t - { \bf k } ( { \bf x } - { \bf y } ) - { \bf p } ( { \bf x }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/13.jpg,d s ^ { 2 } = \frac { 1 } { 4 \lambda ^ { 2 } } t a n h ^ { 2 } ( \lambda y ) d \theta ^ { 2 } + d y ^ { 2 }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/14.jpg,"\sigma ( 0 ) = \frac { 8 T \sqrt { 2 \mu } } { b } = \sqrt { \frac { 8 g ^ { 2 } \zeta } { \pi ^ { 2 } } } = \sigma _ { 0 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/15.jpg,\varepsilon _ { 0 } ^ { \beta \rightarrow 0 } = A + B + C
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/16.jpg,N _ { n } ( x ) = - \frac { \prod _ { i = 1 } ^ { n } \nu _ { i } } { ( n - 3 ) ! } \left. \partial _ { a } ^ { ( n - 3 ) } a ^ { \frac { 1 } { 2 } ( x + n - 4 ) } \right| _ { a = 1 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/17.jpg,\Phi = R ^ { 3 } ( t ) \chi ( t ) = \varepsilon ^ { \mu \nu \alpha \beta } \varepsilon _ { a b c d } \partial _ { \mu } \varphi _ { a } \partial _ { \nu } \varphi _ { b } \partial _ { \alpha } \varphi _ { c } \partial _ { \beta } \varphi _ { d }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/18.jpg,"E = { \frac { 1 } { 2 i } } \int _ { - \infty } ^ { \infty } { \frac { d \omega } { 2 \pi } } e ^ { - i \omega \tau } \sum _ { l = 1 } ^ { \infty } ( 2 l + 1 ) \int _ { 0 } ^ { \infty } r ^ { 2 } d r 2 k ^ { 2 } [ F _ { l } ( r , r ) + G _ { l } ( r , r ) ] ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/19.jpg,\mathcal { R } _ { a } \equiv ( R _ { a b } - \frac { 1 } { 2 ( n - 1 ) } \eta _ { a b } R ) \mathbf { e } ^ { b }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/20.jpg,"E _ { n } = \left( n + \frac { 1 } { 2 } \right) \omega ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/21.jpg,"\mathrm { K } = \mathrm { \^ { K } } ( M ^ { a } , M ^ { a * } ) + \mathrm { { K } } ( M ^ { a } , M ^ { a * } ) _ { \alpha \beta } T r ( \Phi ^ { \alpha * } \Phi ^ { \beta } ) + . . . ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/22.jpg,"h _ { \mu \nu } ^ { c o m p } = \sum _ { n } \tilde { h } _ { \mu \nu } ( \tilde { x } ^ { 0 } , \tilde { x } ^ { i } , \tilde { x } ^ { 1 0 } + 2 \pi n R _ { s } ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/23.jpg,z ^ { 2 } - \omega _ { 0 } ^ { 2 } - 2 \pi \overline { { G } } ( z ) + 2 \pi i r ( z ) = 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/24.jpg,\widetilde \Psi _ { \xi } ^ { \prime } \ = \ ( \cosh V _ { \xi } ^ { \prime } ) ( \cosh V _ { \xi } ) ^ { - 1 } \widetilde \Psi _ { \xi } \ .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/25.jpg,\mathrm { e x p } \left[ ( { \bf k } _ { i } \times { \bar { \bf k } } _ { j } ) \sigma _ { i j } \right] = \mathrm { e x p } \left[ - { \frac { i } { 2 } } \Theta ^ { \mu \nu } p _ { \mu } ^ { i } p _ { \nu } ^ { j } \sigma _ { i j } \right] \quad .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/26.jpg,"d \tilde { K } _ { 7 } = - { \frac { 1 } { 2 } } K _ { 4 } { } ^ { 2 } + ( 2 \pi ) ^ { 4 } { \tilde { \beta } } ^ { \prime } { \tilde { X } } _ { 8 } \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/27.jpg,"Z _ { 1 } ^ { c ^ { 2 } } ( s ; 1 , a ) = \sum _ { n = 1 } ^ { + \infty } \left[ c ^ { 2 } + ( n + a ) ^ { 2 } \right] ^ { - s } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/28.jpg,"2 M = \frac { 1 - k ^ { 2 } - 2 l } { 1 + k ^ { 2 } } \rho _ { 0 } , \beta = 1 , \gamma = 1 + \frac { 2 l \rho _ { 0 } } { ( 1 + k ^ { 2 } ) M } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/29.jpg,V ( \phi ) = - { \frac { 2 k } { 2 k + 1 } } ( { \frac { 2 k } { a } } ) ^ { \frac { 1 } { 2 k } } \phi ^ { 1 + 1 / 2 k } - R _ { 0 } \phi + c
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/30.jpg,"\left\{ \begin{array} { l l } { 1 \leq \rho \leq \frac { g - 2 } { 2 } , \quad 1 \leq y \leq | \tilde { G } | , } & { \quad \mathrm { g e v e n } , } \\ { 1 \leq \rho \leq g - 2 , \quad 1 \leq y \leq \frac { g - 1 } { 2 } , } & { \quad \mathrm { G = A _ { g - 1 } , g o d d , } } \\ \end{array} \right."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/31.jpg,"E _ { e f f ( 3 + 1 ) } = - \frac { B _ { m } } { 2 \pi ^ { 2 } } \int _ { 0 } ^ { + \infty } y \ln \left( \frac { y ^ { 2 } + m _ { f } ^ { 2 } / B _ { m } } { m _ { f } ^ { 2 } / B _ { m } } \right) \left( G ( y , B _ { m } d ^ { 2 } ) - c \right) d y"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/32.jpg,"y ^ { \delta } \tilde { \Gamma } ^ { \alpha } { } _ { \beta \delta } \tilde { B } ^ { \beta } | _ { 1 } = y ^ { \delta } ( \Gamma ^ { \alpha } { } _ { \beta \delta } + \Gamma ^ { \alpha } { } _ { \beta \delta , \sigma } x ^ { \sigma } / 2 ) [ B ^ { \beta } + ( B ^ { \beta } { } _ { , \sigma } + \Gamma ^ { \beta } { } _ { \sigma \tau } B ^ { \tau } ) d ^ { \sigma } / 2 ]"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/33.jpg,"\left\vert E , p _ { 1 } ^ { \mathrm { m i n } } , \ldots , p _ { N - 1 } ^ { \mathrm { m i n } } \right> = \left\vert \begin{array} { c } { E , \left[ 0 \right] } \\ { \left[ q \right] } \\ \end{array} \right> = \left\vert \begin{array} { c } { E , 0 , \ldots , 0 } \\ { q _ { 1 } , \ldots , q _ { k } , \ldots , q _ { N } } \\ \end{array} \right> ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/34.jpg,"\hat { x } _ { 1 } = \lambda _ { 1 } + \frac { \theta } { 2 } ( \partial _ { \lambda _ { 1 } } + i \partial _ { \lambda _ { 2 } } ) \quad , \quad \hat { x } _ { 2 } = \lambda _ { 2 } + \frac { \theta } { 2 } ( \partial _ { \lambda _ { 2 } } - i \partial _ { \lambda _ { 1 } } ) \quad ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/35.jpg,"R ( u _ { 1 } , u _ { 2 } , u _ { 3 } ) _ { i _ { 1 } i _ { 2 } i _ { 3 } } ^ { j _ { 1 } j _ { 2 } j _ { 3 } } \stackrel { \rho } { = } R ( ( \omega u _ { 2 } ) ^ { - 1 } , u _ { 1 } , ( \omega u _ { 3 } ) ^ { - 1 } ) _ { - j _ { 2 } i _ { 1 } - i _ { 3 } } ^ { - i _ { 2 } j _ { 1 } - j _ { 3 } } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/36.jpg,W _ { f i } [ K ] = \frac { 1 } { \sqrt { 2 \pi \hbar } } \exp \left\{ - \frac { i } { \hbar } \left( p _ { f } q _ { i } + \sum _ { j = 1 } ^ { N } \epsilon H ( p _ { f } - \epsilon K _ { j - 1 } - \sum _ { l = 1 } ^ { j } \epsilon J _ { l } ) \right) \right\} .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/37.jpg,"\hat { \alpha } ( Q ) = \sqrt { { \frac { 3 + 4 Q ^ { 2 } } { 4 ( 1 + Q ^ { 2 } ) } } } \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/38.jpg,\psi _ { A } ( \bar { D } ^ { 2 } \phi ) _ { A } + \psi _ { A } ( \bar { D } _ { \mu A E } ( A _ { \mu B } f _ { E B C } \phi _ { C } ) ) + \psi _ { A } f _ { A a B } A _ { \mu B } \phi _ { C } f _ { C a D } A _ { \mu D }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/39.jpg,"L _ { \mu a } = - e \varepsilon _ { a b } D _ { \mu } \phi _ { b } \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/40.jpg,{ \delta } \ddot { \phi } + 3 [ 3 { H _ { 0 } } ^ { 2 } - 4 { \pi } { \rho } _ { 0 } ] { \delta } { \phi } = \frac { 8 { \pi } } { 3 } { \delta } { \rho } + \frac { 1 6 { \pi } ^ { 2 } } { { \phi } _ { 0 } } { \delta } { { \sigma } ^ { 2 } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/41.jpg,w ^ { { \dot { \alpha } } } \nabla _ { { \dot { \alpha } } t } \Psi ^ { { \cal S D } } ( w ) = 0
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/42.jpg,"\alpha N _ { f } = \alpha ( \sum _ { I = 1 } ^ { 9 } v _ { I } \gamma _ { I } + \sum _ { i = 1 } ^ { 3 } \frac { i \mu x ^ { i } } { 4 } \{ \gamma _ { i } , \gamma _ { 1 2 3 } \} ) + \alpha ^ { 2 } \mu ^ { 2 } / 4 ^ { 2 }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/43.jpg,"S [ \phi ] = \int d ^ { 4 } x ^ { \mu } { \cal L } _ { 0 } ( \phi , \partial _ { \mu } \phi ) \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/44.jpg,T _ { 1 2 } = T _ { 2 2 } = T _ { 3 2 } = T _ { 4 2 } = 0
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/45.jpg,\epsilon _ { \mathrm { m } } = { \frac { 8 k ^ { 2 } } { \ell _ { 0 } ^ { 2 } } } B _ { 1 } - k ^ { 2 } \eta ^ { 2 } B _ { 2 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/46.jpg,G _ { a b } = \frac { \partial ^ { 2 } } { \partial \xi ^ { a } \partial \xi ^ { b } } \log \left( \kappa _ { c d e } \xi ^ { c } \xi ^ { d } \xi ^ { e } \right) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/47.jpg,"P _ { C } ( x _ { 1 } , x _ { 2 } ) \mathop \to _ { \Omega ( x ) } \Omega ( x _ { 1 } ) P _ { \ell } ( x _ { 1 } , x _ { 2 } ) \Omega ^ { \dagger } ( x _ { 2 } )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/48.jpg,"f ( x ) \ast g ( x ) = \exp \left. \left( \frac { i } { 2 } \theta ^ { i j } \frac { \partial } { \partial \xi ^ { i } } \frac { \partial } { \partial \zeta ^ { j } } \right) f ( x + \xi ) g ( x + \zeta ) \right| _ { \xi = \zeta = 0 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/49.jpg,t ( \nu ) q ( \nu ) = a ^ { N } q ( \nu + 2 i \eta ) + b ^ { N } q ( \nu - 2 i \eta ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/50.jpg,< \alpha \vert \beta > = t r ( \alpha ^ { * } \beta ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/51.jpg,"\frac { \partial \sigma } { \partial \tau } + \frac { \partial } { \partial \theta } ( \sigma s ) = 0 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/52.jpg,"\overline { { { \cal Y } ^ { \alpha } } } ( { \bf r } ) = { \textstyle \frac { \partial _ { j } } { \partial ^ { 2 } } \overline { { { \cal A } _ { j } ^ { \alpha } } } ( { \bf r } ) } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/53.jpg,"f _ { 2 } = - \frac { \sqrt { 2 } } { 3 } \phi + \frac { \sqrt { 2 } } { 3 } \psi _ { 1 } - \frac { 2 \sqrt { 2 } } { 3 } \psi \ , \ f = \sqrt { 2 } ( \psi - \phi ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/54.jpg,c = { \frac { i ( - z _ { \infty } ) ^ { ( k + l ) / N } } { 2 } } { \frac { \Gamma ( ( k + l ) / N ) v } { \sin ( k l \pi / N ) \Gamma ( k / N ) \Gamma ( l / N ) } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/55.jpg,"\Xi \left( \theta \right) = Q _ { \alpha } ^ { k } \theta _ { k } ^ { \alpha } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/56.jpg,\lambda _ { + } ( x ) = - i \sqrt { { \frac { \pi } { L } } } \sum _ { n = 1 } ^ { \infty } { \frac { 1 } { \sqrt { p _ { - } ( n ) } } } \left( C ( n ) e ^ { - i p ( n ) x } + C ^ { * } ( n ) e ^ { i p ( n ) x } \right)
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/57.jpg,\Phi _ { A } = \phi _ { A } + i \psi _ { A \alpha } \theta _ { \alpha } + f _ { A } \theta ^ { 2 }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/58.jpg,"Z = \int D \bar { \Psi } D \Psi e ^ { - S } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/59.jpg,K = \frac { \pi ^ { 2 } \Gamma ( \frac { \Delta _ { 1 } + \ldots + \Delta _ { 4 } } { 2 } - 2 ) } { 2 \Gamma ( \Delta _ { 1 } ) \ldots \Gamma ( \Delta _ { 4 } ) } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/60.jpg,"< m , \bar { m } ; \tilde { \tau } | \alpha , \beta > = \frac { \beta - m \alpha } { \pi \tilde { \tau } \sqrt { 2 m _ { 2 } } } \exp ( \frac { - i } { m _ { 2 } \tilde { \tau } } | \beta - m \alpha | ^ { 2 } ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/61.jpg,"\hat { G } ( p , k _ { 0 } ) \propto { \frac { k _ { 0 } ^ { 2 } h ( b ) ^ { 2 } \hat { f } ( p ) } { 1 - k _ { 0 } \hat { f } ( p ) h ^ { \prime } ( b ) } } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/62.jpg,"\Sigma ( p , m ) = \frac { 1 } { \pi } \int _ { - \infty } ^ { \infty } \frac { d w } { \gamma \cdotp - w + i \epsilon } \Im \Sigma ( w , m ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/63.jpg,"P H P = \left[ \begin{array} { r r } { H _ { 1 1 } } & { H _ { 1 2 } } \\ { H _ { 2 1 } } & { H _ { 2 2 } } \\ \end{array} \right] ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/64.jpg,"W ( C ) \sim \exp [ - \mu P ( C ) ] ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/65.jpg,"2 i \int _ { o } ^ { \infty } d x | f ( g ; \tau ; x ) | ^ { 2 } [ I m V ( g , x ) ] = M ( \nu , \tau ) \Lambda ^ { * } ( \nu , \tau ) - M ^ { * } ( \nu , \tau ) \Lambda ( \nu , \tau ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/66.jpg,e _ { [ \alpha } e _ { \beta ] } ^ { \mu } = e _ { \gamma } ^ { \mu } I ^ { \gamma } { } _ { \alpha \beta } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/67.jpg,\tilde { B } _ { \mu : k } ^ { j } = \frac { 1 } { ( 1 + | u | ^ { 2 } ) ^ { j + 1 } } \left\{ j ( \partial _ { \mu } u \bar { u } - u \partial _ { \mu } \bar { u } ) u ^ { k } - k ( 1 + | u | ^ { 2 } ) u ^ { k - 1 } \partial _ { \mu } u \right\}
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/68.jpg,W _ { \bf a } = - { \frac { 1 } { 2 } } \int _ { \frac { 4 \pi \epsilon } { \bf a } } ^ { + \infty } { \frac { d \tau } { \tau } } e ^ { \tau ^ { 2 } } ( 1 - \Phi ( \tau ) ) \simeq { \frac { 1 } { 2 } } \ln ( { \frac { 4 \pi \epsilon } { \bf a } } ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/69.jpg,"W P ^ { 2 } = - { \frac { 1 } { 4 \tau ^ { 2 } } } \quad \mathrm { f o r } \quad \tau > { \frac { 1 } { P } } , \nonumber"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/70.jpg,( \partial _ { \pm } X ^ { 0 } ) ^ { 2 } = R ( X ^ { 0 } ) ^ { 2 } ( \partial _ { \pm } X ) ^ { 2 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/71.jpg,"A _ { i } ^ { 2 } \equiv \epsilon ^ { i j k } \nabla ^ { - 2 } \partial _ { j } \pi _ { k } ^ { 1 } , \quad \pi _ { i } ^ { 2 } \equiv \epsilon ^ { i j k } \partial _ { j } A _ { k } ^ { 1 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/72.jpg,"n ^ { + } ( m , d ) \approx 2 \left( m + 1 - { \frac { 1 } { m } } \right) { \frac { \rho _ { 1 1 } ( d ) } { 4 - d } } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/73.jpg,{ \frac { 3 } { 2 } } { \frac { d ^ { 2 } f ( | y | ) } { d | y | ^ { 2 } } } = - \kappa _ { 5 } ^ { 2 } \Lambda _ { 5 } f ( | y | )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/74.jpg,{ \sum _ { n > 0 } } \frac { 1 } { L } u _ { n } ^ { + } ( x ) u _ { n } ^ { + } ( y ) + \frac { 1 } { L } u _ { 0 } ^ { + } ( x ) u _ { 0 } ^ { + } ( y ) = \delta ( x - y ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/75.jpg,d s ^ { 2 } = \frac { 1 } { ( 1 + | z | / L ) ^ { 2 } } [ d x _ { 4 } ^ { 2 } + T ^ { 2 } ( x ) d z ^ { 2 } ] .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/76.jpg,f ^ { i a } = \left( \begin{matrix} { 0 } & { 0 } \\ { 0 } & { A \partial } \\ \end{matrix} \right) \ .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/77.jpg,a ( t ) = t ^ { \frac { 2 } { 3 ( \gamma + 1 ) } } \ .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/78.jpg,- \frac { \delta D _ { 1 2 } } { \delta D _ { 3 4 } ^ { - 1 } } = \frac { 1 } { 2 } \left\{ D _ { 1 3 } D _ { 4 2 } + D _ { 1 4 } D _ { 3 2 } \right\} .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/79.jpg,"\mathrm { e x p } \{ ( i / \hbar ) S _ { m , \mathrm { e x t } } \} = \hat { U } _ { m } ( F ) \mathrm { e x p } \{ ( i / \hbar ) S _ { m } \} ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/80.jpg,Z = - \frac { 1 } { e ^ { 2 } { \phi _ { 0 } } ^ { 2 } } \int d ^ { 2 } x \left[ \frac { e } { 2 } \epsilon ^ { i j } F _ { i j } ( \vert \Phi \vert ^ { 2 } - { \Phi _ { 0 } } ^ { 2 } ) + i \epsilon ^ { i j } ( D _ { i } \Phi ) ( D _ { j } \Phi ) ^ { * } \right]
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/81.jpg,"T _ { i } ( \vec { q } ) \to T ( \vec { x } , t ; \vec { q } )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/82.jpg,{ \partial } ( \omega ^ { n - 1 } \wedge h ^ { - 1 } \overline { { \partial } } h ) = 0
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/83.jpg,"\left. { \frac { d ^ { 2 } c _ { l } } { d y ^ { 2 } } } \right| _ { y = 0 } = 0 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/84.jpg,"{ \mathit { K } } _ { \frac { 1 } { 2 } } ( z ) = \sqrt { \frac { \pi } { 2 z } } e ^ { - z } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/85.jpg,d s ^ { 2 } = r ^ { 2 } [ - { \cal F } d u d v + d \theta ^ { 2 } + \sin ^ { 2 } \! \theta d \phi ^ { 2 } ] \: .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/86.jpg,"e ^ { \textstyle - J \alpha _ { - } \Phi ( \sigma , \tau ) } = c _ { J } \sum _ { m = - J } ^ { J } { \frac { ( - 1 ) ^ { J - m } \lambda _ { m } ^ { ( J ) } ( \varpi ) } { \sqrt { \lfloor \varpi \rfloor } \sqrt { \lfloor \varpi + 2 m \rfloor } } } \psi _ { m } ^ { ( J ) } ( x _ { + } ) { \overline { \psi } _ { m } ^ { ( J ) } } ( x _ { - } )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/87.jpg,"( D _ { \mu } D ^ { \mu } + m _ { \mathrm { e f f } } ^ { 2 } ) B ^ { \nu } + i e g F _ { \rho } ^ { \mu } B ^ { \rho } = 0 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/88.jpg,"{ \cal G } = M _ { a b } d { \bf x } _ { a } \cdot d { \bf x } _ { b } + ( M ^ { - 1 } ) _ { a b } ( d \xi _ { a } + { \bf W } _ { a c } \cdot d { \bf x } _ { c } ) ( d \xi _ { b } + { \bf W } _ { b d } \cdot d { \bf x } _ { d } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/89.jpg,{ \frac { \pi } { 1 2 } } ( k T ) ^ { 2 } \left( \begin{matrix} { - 2 } & { 0 } \\ { 0 } & { 2 } \\ \end{matrix} \right) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/90.jpg,"\Omega ( \mid x \mid _ { p } ) = \left\{ \begin{array} { l l } { 1 , } & { 0 \leq \mid x \mid _ { p } \leq 1 , } \\ { 0 , } & { \mid x \mid _ { p } > 1 , } \\ \end{array} \right."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/91.jpg,"R ( t ) = \sum _ { r = 1 } ^ { D - 2 } { \frac { \beta _ { r } } { t ^ { r } } } + { \frac { \beta _ { D - 1 } } { t ^ { D - 1 } } } e ^ { - \left| { \frac { 1 } { t } } \right| } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/92.jpg,"\begin{array} { c } { a a ^ { \dagger } - q a ^ { \dagger } a = 1 , } \\ { \varphi ( n ) = \frac { q ^ { n } - 1 } { q - 1 } , } \\ \end{array}"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/93.jpg,\tilde { W } _ { \Gamma } ( E ) = \int { \mathcal D } A e ^ { i \int \mathrm { T r } ( E A ) } W _ { \Gamma } ( A ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/94.jpg,"Z = \int d \left[ \psi , \bar { \psi } \right] \prod _ { \mu = 0 } ^ { 2 } d \left[ A _ { \mu } \right] \prod _ { c _ { 0 } = 1 } ^ { N - 1 } d \left[ A _ { 3 } ^ { c _ { 0 } } \right] \Delta _ { \mathrm { F P } } \left[ A \right] e ^ { i ( S \left[ A , \psi , \bar { \psi } \right] + S _ { \mathrm { g f } } \left[ A \right] ) } \ ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/95.jpg,r _ { + } ^ { 2 } = \frac { 1 } { 2 } \left( \sqrt { l ^ { 4 } + 8 m } - l ^ { 2 } \right) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/96.jpg,"T _ { \nu } ^ { \mu } = \delta _ { \nu } ^ { \mu } f _ { 0 } ( \rho ) , \quad T _ { \rho } ^ { \rho } = f _ { \rho } ( \rho ) , \quad \mathrm { a n d } \quad T _ { \theta } ^ { \theta } = f _ { \theta } ( \rho ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/97.jpg,i D _ { R \mu \nu } ( k ) = e ^ { \int _ { 1 } ^ { \lambda } \frac { d \lambda } \lambda \gamma _ { 3 } ( \lambda ) } i D _ { R \mu \nu } ^ { ( 0 ) } ( k )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/98.jpg,"\epsilon _ { \mu \nu } ( k ) = \epsilon _ { \nu \mu } ( k ) , \qquad \epsilon _ { \mu \nu } ( k ) k ^ { \nu } = 0 , \qquad \eta ^ { \mu \nu } \epsilon _ { \mu \nu } ( k ) = 0 ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/99.jpg,"\left\langle \phi _ { 2 } ( { \bf x } ) , t _ { 2 } \left| \right. \phi _ { 1 } ( { \bf x } ) , t _ { 1 } \right\rangle = \left\langle \phi _ { 2 } ( { \bf x } ) \left| \hat { T } \exp \left[ - \frac { i } { \hbar } \int _ { t _ { 1 } } ^ { t _ { 2 } } \hat { H } d t \right] \right| \phi _ { 1 } ( { \bf x } ) \right\rangle ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/100.jpg,"\begin{array} { r l } { E _ { 8 } ^ { + } = } & { \{ \pm e _ { a } \} } \\ { \cup } & { \{ ( \pm e _ { a } \pm e _ { b } \pm e _ { c } \pm e _ { d } ) / 2 : a , b , c , d \mathrm { d i s t i n c t } , e _ { a } ( e _ { b } ( e _ { c } e _ { d } ) ) = \pm 1 \} , } \\ { } & { a , b , c , d \in \{ 0 , . . . , 7 \} . } \\ \end{array}"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/101.jpg,"Z ^ { 2 } = 2 Z ^ { P Q } Z _ { P Q } , \quad Z ^ { P } = \epsilon ^ { P I J K L } Z _ { I J } Z _ { K L } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/102.jpg,"r _ { \pm } = { \frac { 1 } { 2 \sqrt 2 } } \log \left[ { \frac { 1 \pm \sqrt { 1 - { \frac { Q ^ { 2 } } { 2 } } } } { 2 } } \right] ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/103.jpg,"\int _ { \beta \Sigma } \omega _ { i } = \int _ { C Y _ { 3 } } \omega _ { i } \wedge G ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/104.jpg,\beta ^ { 2 } \left[ X _ { 1 } ( K ^ { 1 } { } _ { \mu } ) + i \cos { \theta _ { W } } K ^ { 3 } { } _ { \mu } \right] ^ { 2 } + \beta \left[ X _ { 1 } ( \partial _ { \mu } K ^ { 1 \mu } ) + i \cos { \theta _ { W } } \partial _ { \mu } K ^ { 3 \mu } \right] .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/105.jpg,"x _ { 2 } ^ { \mu } \left( \tau \right) = \left( p _ { 2 } ^ { \mu } + c _ { 2 } p _ { 1 } ^ { \mu } \right) \tau + q _ { 2 } ^ { \mu } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/106.jpg,"t = t ( v ^ { 1 } , \vec { \sigma } ) , v ^ { i } = v ^ { i } ( v ^ { 1 } , \vec { \sigma } ) , i = 2 , 3 , . . . , m"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/107.jpg,\alpha ^ { ( 2 ) } = \frac { 2 \sqrt { 2 } \pi } { v ^ { 2 / 3 } } \left( \frac { \kappa } { 4 \pi } \right) ^ { 2 / 3 } \int _ { { \cal { C } } _ { \omega } } { ( ( 1 0 S + ( 5 r + 1 4 ) { \cal { E } } ) \sigma - 2 8 6 F ) }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/108.jpg,\int d ^ { 2 } x \sqrt { \theta } i ( \chi \ast \partial _ { \mu } \psi ^ { \mu } - \chi ^ { \mu } \ast \partial _ { \mu } \psi ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/109.jpg,J _ { \mu } ^ { ( j ; m ) } ( k ) = ( - 1 ) ^ { k + m + 1 } J _ { \mu } ^ { ( j ; m ) ^ { \dag } } ( - k ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/110.jpg,"\lim _ { N \rightarrow \infty } \sum _ { l = 0 } ^ { N } c _ { l } ^ { N } \ l ^ { n } = 0 \ \quad \mathrm { w i t h } \quad n = 0 , 1 , \cdots N - 1 \,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/111.jpg,J = \frac { \hat { y } _ { 2 3 } ^ { 2 } } { ( \hat { y } _ { 1 2 } \hat { y } _ { 3 4 } ) ^ { 3 } } ( \hat { y } _ { 1 2 } - \hat { y } _ { 3 4 } )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/112.jpg,"\int _ { C _ { \gamma } } g _ { \alpha } d g _ { \beta } = \delta _ { \alpha \gamma } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/113.jpg,\lim _ { r \rightarrow 0 } k ( r ) = 0 \qquad \qquad \lim _ { r \rightarrow \infty } k ( r ) = 1
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/114.jpg,\hat { I } _ { 1 2 } = - \frac { 1 } { 9 6 ( 2 \pi ) ^ { 5 } } \hat { I } _ { 4 } \wedge ( \frac { 1 } { 4 } ( \hat { I } _ { 4 } ) ^ { 2 } - X _ { 8 } )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/115.jpg,\mathcal { L } _ { N S } = e ^ { - 2 \Phi } ( - 2 R - 8 \partial _ { \mu } \Phi \partial ^ { \mu } \Phi + | H | ^ { 2 } )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/116.jpg,{ \cal W } ( M _ { A } { \bf X } ; v ) = f _ { A } ( v ) { \cal W } ( { \bf X } ; \phi _ { A } ( v ) ) \ ; \qquad \omega ( M _ { A } { \bf X } ) = g _ { A } ( u ) \omega ( { \bf X } )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/117.jpg,\widetilde { \cal J } ^ { \nu } = ( \eta ^ { \mu \nu } \bot _ { \sigma \rho } + 2 \eta ^ { \nu } { _ { [ \sigma } } \eta _ { \rho ] } { ^ { \mu } } ) [ \acute { \xi } ^ { \sigma } \widetilde { \nabla } _ { \mu } \xi ^ { \rho } - ( \widetilde { \nabla } _ { \mu } \acute { \xi } ^ { \rho } ) \xi ^ { \sigma } ] .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/118.jpg,"\phi ^ { A } = ( \varphi ^ { i } , \psi ^ { \alpha } ) , J _ { A } = ( { \cal J } _ { i } , { \cal Y } _ { \alpha } ) , \,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/119.jpg,"X _ { r } ( L ) = - \frac { 1 } { 2 } \sum _ { i = 1 } ^ { \nu - 2 } ( n _ { i } - \frac { L } { 2 } \delta _ { i , \nu - 2 } - \frac { 1 } { 2 } \delta _ { i , \nu - r - 1 } ) \cdot ( \tilde { n } _ { i } - V _ { i , r } )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/120.jpg,f _ { k } ^ { ( n ) } \circ \varphi ( 0 ) = \bigg | \left( \frac { 2 } { n } \right) ^ { h } \sec ^ { 2 h } \frac { \pi ( k - 1 ) } { n } \bigg | \varphi ( f _ { k } ^ { ( n ) } ( 0 ) ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/121.jpg,S _ { 1 } = \frac { 1 } { 4 } \frac { \partial S _ { 0 } } { \partial x _ { 0 } } + \int _ { - \infty } ^ { 0 } d x e ^ { ( 2 + i k ) x } \frac { 1 } { \sinh 2 ( x - x _ { 0 } ) } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/122.jpg,d s ^ { 2 } = e ^ { 2 \rho } ( d x ^ { 2 } + d y ^ { 2 } ) + l ^ { 2 } d \rho ^ { 2 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/123.jpg,n _ { \mathrm { t h } } \sim \int d ^ { d } k \vert a ( k ) \vert ^ { 2 } \omega _ { k } \sim T a ^ { 1 - d } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/124.jpg,S = \frac { 1 } { 2 \pi } \int d ^ { 2 } x \sqrt { - g } e ^ { - 2 \phi } \left( R + 2 ( \nabla \phi ) ^ { 2 } - 2 \Lambda \right) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/125.jpg,c _ { 1 } ^ { 2 } = \frac { 1 } { 2 } \chi ( { \cal M } _ { 4 } ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/126.jpg,\frac { 1 } { 2 } \left( \partial ^ { \mu } h _ { \mu \nu } - \frac { 1 } { 2 } \partial ^ { \nu } h _ { \mu } ^ { \mu } \right) ^ { 2 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/127.jpg,H _ { J } ^ { U ( { \cal N } ) } = J \sum _ { x = 1 } ^ { N } \rho ( x ) \rho ( x + 1 ) + H _ { J } ^ { S U ( { \cal N } ) }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/128.jpg,"\hat { Q } a ^ { \dagger } ( \vec { k } ) | 0 > = - a ^ { \dagger } ( \vec { k } ) | 0 > , \hat { Q } b ^ { \dagger } ( \vec { k } ) | 0 > = + b ^ { \dagger } ( \vec { k } ) | 0 > \ ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/129.jpg,\Sigma _ { 0 } ^ { 2 } - \Sigma _ { x } ^ { 2 } - \Sigma _ { y } ^ { 2 } = 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/130.jpg,\stackrel { ( 0 ) } { \Omega } \rightarrow \Omega = \stackrel { ( 0 ) } { \Omega } + g
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/131.jpg,X _ { z _ { \pm } } = - i Q _ { \pm } ^ { - 1 } \displaystyle \frac { \partial } { \partial \overline { { z } } _ { \pm } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/132.jpg,\Gamma _ { N P } = \int { \frac { d ^ { d } k } { ( 2 \pi ) ^ { d } } } A _ { a } ( k ) A _ { b } ( - k ) \left( - { \frac { g ^ { 2 } } { 2 \pi ^ { \frac { d } { 2 } } } } \Gamma ( { \frac { d } { 2 } } ) { \frac { \tilde { k } ^ { a } \tilde { k } ^ { b } } { | \tilde { k } | ^ { d } } } \right)
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/133.jpg,\frac { I _ { 2 j + k } ( 2 | \mu | ) } { I _ { 2 j + k - 1 } ( 2 | \mu | ) } = | \mu | ^ { - 1 } \left( 1 + \frac { j ( j + 1 ) } { k - 2 } \right)
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/134.jpg,"D ( \gamma ) = \left( \begin{array} { c c } { a _ { \gamma } } & { 0 } \\ { 0 } & { a _ { \gamma } ^ { - 1 } } \\ \end{array} \right) \: , \qquad \qquad | a _ { \gamma } | > 1 \: ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/135.jpg,"\partial _ { \mu } W _ { ( 0 ) } ( x _ { \mu } ) = \partial _ { \mu } \left( t r \phi ^ { 2 } ( x _ { \mu } ) \right) = 2 t r ( \phi D _ { \mu } \phi ) = - 2 \{ Q _ { W } , t r ( \phi \psi _ { \mu } ) \} ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/136.jpg,"\Gamma _ { \mu \nu } ^ { \sigma } = e _ { a } ^ { \sigma } \omega _ { \ b \nu } ^ { a } e _ { \mu } ^ { b } + e _ { a } ^ { \sigma } e _ { \mu , \nu } ^ { a }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/137.jpg,Z : = \int { \cal D } A _ { \mu \nu } { \cal D } \Lambda _ { \mu } { \cal D } N
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/138.jpg,Q = \int d ^ { 3 } \vec { x } ( \pi \partial _ { - } \sigma - \sigma \partial _ { - } \pi ) \quad .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/139.jpg,d s ^ { 2 } = e ^ { 2 k } \left( - d t ^ { 2 } + d x ^ { 2 } \right) + R \left[ h ( d y + w d z ) ^ { 2 } + h ^ { - 1 } d z ^ { 2 } \right]
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/140.jpg,"\theta _ { i } ( i = 1 , \cdots , N ) = \left\{ \begin{array} { l c l } { \pi } & { } & { \cdots N = \mathrm { e v e n } , } \\ { { \frac { N - 1 } { N } } \pi , } & { ( \mathrm { o r } { \frac { N + 1 } { N } } \pi ) } & { \cdots N = \mathrm { o d d } . } \\ \end{array} \right."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/141.jpg,\sqrt { \frac { k ^ { 2 } + i \epsilon } { - \eta ^ { 2 } } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/142.jpg,B _ { n } = \frac { \Gamma ( \frac { n } { 2 } - 1 ) } { 4 \pi ^ { \frac { n } { 2 } } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/143.jpg,\psi _ { 0 } = \frac { 1 } { \pi ^ { 1 / 4 } } e x p ( - e ^ { 2 } / 2 ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/144.jpg,a ( t ) = a ( 0 ) \exp { { { \frac { \xi \ t } { \sqrt 6 } } } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/145.jpg,"A ^ { B , F } | 0 _ { + } \rangle = 0 = B ^ { B , F } | 0 _ { + } \rangle = A ^ { B , F } | 0 _ { + } \rangle = B ^ { B , F } | 0 _ { + } \rangle ~"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/146.jpg,"\phi _ { i } = x _ { i } / l _ { s } ^ { 2 } , \phi ^ { 8 } = x _ { 1 1 } / l _ { s } ^ { 2 } , u = v / l _ { s } ^ { 2 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/147.jpg,"a ( \eta ) = \ell _ { 0 } \exp \biggl ( \int ^ { \eta } \mathrm { d } \tau \biggl \{ C + \frac { 1 } { 2 } \int ^ { \tau } \mathrm { d } \tau ^ { \prime } [ 1 + 3 \omega ( \tau ^ { \prime } ) ] \biggr \} ^ { - 1 } \biggr ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/148.jpg,"v _ { E } ( x ) = v _ { M ^ { 4 } } + \xi x ^ { 3 } - \frac { g \nu ^ { 2 } w _ { 1 } ^ { 2 } w _ { 2 } ^ { 2 } x ^ { 4 } } { 1 2 } Z _ { 2 } ( 2 ; w _ { 1 } , w _ { 2 } ) + { \cal O } ( \nu ^ { 3 } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/149.jpg,"u = \frac { \hbar ( k _ { \| } - \omega _ { \mathrm { i n } } ) } { k _ { B } T } , v = - \frac { \hbar ( k _ { \| } + \omega _ { \mathrm { i n } } ) } { k _ { B } T } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/150.jpg,S = \int d ^ { 1 0 } \xi \left( - \frac { 1 } { 4 } \mathrm { T r } F _ { \mu \nu } F ^ { \mu \nu } + \frac { i } { 2 } \mathrm { T r } \bar { \psi } \Gamma ^ { \mu } D _ { \mu } \psi \right)
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/151.jpg,"\theta _ { a } = \left\{ \theta , \theta ^ { \ast } , \theta _ { 0 } , \theta _ { 0 } ^ { \ast } , \theta _ { i } , \theta _ { i } ^ { \ast } , \theta _ { i } ^ { 2 } , \theta _ { i } ^ { \ast 2 } \right\} ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/152.jpg,"\mu \equiv C ^ { T } m C , \qquad C \ \mathrm { o r t h o g o n a l } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/153.jpg,"\{ S , \bar { S } \} = 2 H , \quad [ S , H ] = [ \bar { S } , H ] = 0 , \quad S ^ { 2 } = \bar { S } ^ { 2 } = 0"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/154.jpg,"L _ { n } \tau = 0 , n = - 1 , 0 , 1 , 2 , \dots ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/155.jpg,"\hat { U } ^ { - 1 } ( n ) \frac { i p _ { 0 } } { 1 + n _ { 0 } } ( \vec { \sigma } \wedge \vec { \bigtriangledown } _ { p } ) \hat { U } ( n ) D ( \Omega , \Omega ^ { \prime } ) = \delta ( \Omega - \Omega ^ { \prime } ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/156.jpg,"C ^ { \prime \prime } + 2 \bar { f } ( u ) \bar { C } + F ( u ) C = 0 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/157.jpg,\ell = \sqrt { \frac { 2 \upsilon ^ { 4 } } { 3 \Lambda M ^ { 3 } } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/158.jpg,"D ( X ) = \partial _ { z } ( X ) + [ \phi ^ { \prime } , X ] + [ \mu , X ] \nonumber"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/159.jpg,\tau ( \lambda _ { c } - \lambda ) ^ { 1 / 4 } \ = \ \mathrm { f i x e d } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/160.jpg,\mathrm { R e } ( p \delta \overline { { m } } ) - H \delta t = L ( r _ { + } \delta \theta _ { + } - r _ { - } \delta \theta _ { - } ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/161.jpg,"\begin{array} { r c l } { { \cal M } ^ { \prime } } & { = } & { S ^ { T } { \cal M } S , } \\ { } & { } & { } \\ { K ^ { \prime } } & { = } & { R K . } \\ \end{array}"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/162.jpg,\det g ^ { - 1 } ( z ) = \prod _ { i = 1 } ^ { r } P _ { i } ( z )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/163.jpg,\pi _ { \lambda _ { m } ^ { ( \pm ) } } = \pi _ { m / 2 } ^ { \pm } \bigoplus \pi _ { ( N ^ { \prime } - m - 2 ) / 2 } ^ { \pm }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/164.jpg,- \alpha \beta \frac { 3 f ^ { 2 } } { 6 4 \pi ^ { 2 } } \gamma _ { 5 } / \partial \delta ^ { 4 } ( y ) = ( \alpha ^ { 3 } R + \beta ^ { 3 } L ) \hat { \Sigma } ( y ) | _ { \stackrel { { \scriptstyle \mathrm { a b n . } } } { { \scriptstyle \mathrm { p a r . } } } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/165.jpg,"[ [ D _ { 0 } , \Phi ] , e ^ { x ^ { i } D _ { i } } \Phi e ^ { - x ^ { i } D _ { i } } ] = \delta ^ { 3 } ( x _ { i } ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/166.jpg,"\left\{ h ^ { i j } \left( \vec { x } , t \right) , k ^ { m n } \left( \vec { y } , t \right) \right\} ^ { * } = \eta ^ { i j } \eta ^ { m n } \delta ^ { 2 } \left( \vec { x } - \vec { y } \right) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/167.jpg,\mathrm { d e t } { \cal O } = \left[ \frac { b } { \alpha r } \tilde { \lambda } ^ { 2 } + \frac { b ^ { 2 } } { 4 Q ^ { 2 } } \right] ^ { 2 } - \left[ \frac { 2 Q _ { M } b \alpha r } { 4 Q ^ { 2 } } - 4 Q _ { M } ( 1 - \tilde { \lambda } ^ { 2 } ) \right] ^ { 2 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/168.jpg,L = F ^ { * } \wedge \star F + ( D _ { A } \phi ) ^ { * } \wedge \star D _ { A } \phi + V ( \bar { \phi } \phi )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/169.jpg,"a _ { i } \to a _ { B i } + \delta a _ { i } = a _ { B i } ( 1 + \delta b _ { i } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/170.jpg,g _ { u \bar { u } } = \mathrm { I m } \left( \frac { \partial ^ { 2 } K } { \partial u \partial \bar { u } } \right) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/171.jpg,\int \frac { d ^ { n } k } { ( 2 \pi ) ^ { n } } \exp ( i k x ) = \delta ( x )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/172.jpg,\vec { p } _ { a } + \vec { p } _ { b } + \lambda E _ { a } \vec { p } _ { a } + \lambda E _ { b } \vec { p } _ { b } - \vec { p } _ { c } - \vec { p } _ { d } - \lambda E _ { c } \vec { p } _ { c } - \lambda E _ { d } \vec { p } _ { d } \simeq 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/173.jpg,\frac { \partial W } { \partial Y } = \frac { \partial W } { \partial \Pi } = 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/174.jpg,S _ { S B _ { s } } ( \vartheta _ { 1 } - \vartheta _ { 2 } )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/175.jpg,z _ { 2 } ^ { \prime } = \mathrm { c o n s t } [ ( 1 - \mu ) ( t - t _ { 0 } ) - i L / 2 ] ^ { \frac { 1 } { 1 - \mu } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/176.jpg,"\frac { \partial \Gamma ^ { j } } { \partial \varepsilon ^ { l C } } = 0 , j"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/177.jpg,B = \hat { g } _ { I J } \hat { \theta } ^ { I } \otimes \hat { \theta } ^ { J }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/178.jpg,"\Phi _ { 2 } ( x _ { n } , t ) \Phi _ { 1 } ( x _ { m } , t ) = q \Phi _ { 1 } ( x _ { m } , t ) \Phi _ { 2 } ( x _ { n } , t )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/179.jpg,t r _ { q ( 1 ) } ( R _ { 1 2 } { \cal P } _ { 1 2 } ) ^ { \pm 1 } = q ^ { \pm 2 } I _ { 2 }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/180.jpg,- z _ { i - 1 } = \frac { \lambda + \beta _ { i } } { g _ { i } - z _ { i } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/181.jpg,"\Phi ( t , r ) = \int _ { - \infty } ^ { \infty } { \frac { d \nu } { 2 \pi } } f ( \nu ) e ^ { - i \nu t }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/182.jpg,S [ \mathbf { b } ] = - \frac { e { \mathrm { \ r h o } } _ { 0 } \theta ^ { 2 } \mathcal { B } _ { e x } } { 2 }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/183.jpg,"p _ { P } = { \frac { 1 } { 2 } } ( \phi ^ { \prime } ) ^ { 2 } - V ( \phi ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/184.jpg,"\theta ^ { \prime } = \theta + \chi , \varphi ^ { \prime } = \varphi + \partial _ { \tau } \chi , \vec { a } ^ { \prime } = \vec { a } - \vec { \partial } \chi ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/185.jpg,"\bar { T } = T ^ { \dagger } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/186.jpg,\gamma ^ { a } \gamma _ { b } + \gamma ^ { b } \gamma _ { a } = 2 \delta _ { a b }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/187.jpg,"\frac { \partial H } { \partial \gamma _ { i j } } = \gamma ^ { - 1 / 3 } \left[ \frac { \partial H } { \partial h _ { i j } } - \frac { 1 } { 3 } \frac { \partial H } { \partial h _ { k l } } h _ { k l } h ^ { i j } \right] ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/188.jpg,K _ { \dot { A } B } = \sigma _ { \dot { A } B } ^ { \mu } K _ { \mu } = k _ { \dot { A } } k _ { B } \ .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/189.jpg,\tilde { \Omega } = \omega ^ { \dagger } \cdot \Omega \cdot \omega = e ^ { - g \tilde { \varphi } ^ { c } T ^ { c } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/190.jpg,+ \frac { 1 } { 2 } h ^ { - 5 / 3 } v ^ { \hat { I } } \partial _ { \hat { J } } h \bar { \theta } \Gamma _ { \tilde { I } } ^ { 0 \tilde { J } } \theta + h ^ { - 1 / 6 } v ^ { \hat { I } } \bar { \theta } ( \Gamma _ { \tilde { I } \tilde { 1 } } \partial _ { 2 } - \Gamma _ { \tilde { I } \tilde { 2 } } \partial _ { 1 } ) \theta + \cdots \Big ] d ^ { 3 } \zeta
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/191.jpg,H _ { 0 } = \frac { \vec { p } ^ { 2 } } { 2 m } - \frac { e ^ { 2 } } { r }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/192.jpg,"[ \phi ( x ) _ { \alpha a } ^ { \beta b } , \phi ^ { \dagger } ( y ) _ { \gamma c } ^ { \delta d } ] = \delta _ { \alpha } ^ { \delta } \delta _ { \gamma } ^ { \beta } \delta _ { a } ^ { d } \delta _ { c } ^ { b } \delta ( x - y ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/193.jpg,i \stackrel { \_ } { \psi } \gamma ^ { \mu } \partial _ { \mu } \psi = \frac { 1 } { 2 } \left( \partial _ { \mu } \phi \right) \left( \partial ^ { \mu } \phi \right)
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/194.jpg,"{ \cal F } = d \omega _ { 1 } - { \frac { 1 } { 2 } } ( \omega _ { 1 } , \omega _ { 1 } ) = - \mathrm { a d } \Gamma \omega _ { 2 } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/195.jpg,b _ { c p = - 1 } ( E ) = b _ { c p = + 1 } ( E ) \equiv { \frac { b ( E ) } { \sqrt { 2 } } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/196.jpg,\tilde { R } ^ { \mu } - \gamma ^ { \mu } \tilde { \psi } ^ { \nu } \partial _ { \nu } \ln \phi + \gamma \cdot \tilde { \psi } \partial _ { \mu } \ln \phi = 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/197.jpg,"\Phi _ { n , i _ { n } } \equiv p _ { n , i _ { n } - 1 } + \mu _ { n , i _ { n } } \ , \ \i _ { n } = 1 , 2 , \cdots , m _ { n } - 1 \ ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/198.jpg,C _ { i _ { 1 } i _ { 2 } n } { \bar { C } } _ { \bar { a } } ^ { n m } C _ { m i _ { 3 } i _ { 4 } } + p e r m _ { ( i _ { 1 } i _ { 2 } i _ { 3 } i _ { 4 } ) }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/199.jpg,( a d e _ { i } ) ^ { 1 - a _ { i j } } e _ { j } = ( a d f _ { i } ) ^ { 1 - a _ { i j } } f _ { j } = 0 \quad \mathrm { f o r } i \neq j .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/200.jpg,"\phi ( r , \theta ) \stackrel { r \gg 1 } { \longrightarrow } \mathrm { e } ^ { - i p r \cos \theta } + \mathrm { e } ^ { i \pi / 4 } { \cal A } _ { \mathrm { A B } } ( | { \bf p } | , \theta ) \frac { \mathrm { e } ^ { i p r } } { \sqrt { r } }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/201.jpg,\left( \begin{matrix} { 1 } & { 0 } & { 0 } & { 0 } \\ { 0 } & { 1 } & { - \sqrt { 2 } \eta } & { \sqrt { 2 } \eta } \\ { 0 } & { \sqrt { 2 } \eta } & { 1 - \eta ^ { 2 } } & { \eta ^ { 2 } } \\ { 0 } & { \sqrt { 2 } \eta } & { - \eta ^ { 2 } } & { 1 + \eta ^ { 2 } } \\ \end{matrix} \right) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/202.jpg,x ^ { - } \rightarrow \tilde { x } ^ { - } = x ^ { - } - \epsilon ^ { - } \quad \mathrm { a n d } \quad \delta g _ { \alpha \beta } = - g _ { \alpha \beta } \partial _ { - } \epsilon ^ { - } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/203.jpg,"V M _ { 1 } \tilde { M } _ { 2 } = \tilde { M } _ { 2 } M _ { 1 } V ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/204.jpg,"( { \vec { W } } _ { i } , { \vec { \alpha } } _ { j } ) = \delta _ { i j }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/205.jpg,"g = \sum _ { l } G _ { l } ( m _ { 0 } , \mu , \Lambda , \epsilon ) g _ { 0 } ^ { l }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/206.jpg,\xi ^ { 2 } = \left( \sum _ { i = 1 } ^ { n - 1 } \cosh \theta _ { i } + 1 \right) ^ { 2 } - \left( \sum _ { i = 1 } ^ { n - 1 } \sinh \theta _ { i } \right) ^ { 2 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/207.jpg,"\Delta _ { \mu } ^ { i i } ( x ) = < 0 \mid T ( j _ { \mu } ^ { i } ( x ) , \pi ^ { i } ( \bf 0 ) ) \mid 0 >"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/208.jpg,"\frac { 1 } { 1 6 \pi ^ { 2 } } \mathrm { t r } A ^ { 4 } , \frac { 1 } { 1 6 \pi ^ { 2 } } \mathrm { t r } ( \partial A ) ^ { 2 } , \cdots"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/209.jpg,"Z ( \lambda _ { 1 } x _ { 1 } | \ldots | \lambda _ { N } x _ { N } ) = \left\langle \exp { \sum { \lambda _ { j } u ( x _ { j } t ) } } \right\rangle ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/210.jpg,S = T _ { p } \int d ^ { p + 1 } x \sqrt { - d e t ( G _ { M N } \partial _ { a } Z ^ { M } \partial _ { b } Z ^ { N } + F _ { a b } ) }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/211.jpg,\begin{array} { r c c c l c r c c c l } { \left( \frac { G } { H } \right) _ { 7 } } & { = } & { \frac { S O ( 8 ) } { S O ( 7 ) } } & { \equiv } & { S ^ { 7 } } & { ; } & { \left( \frac { G } { H } \right) _ { 4 } } & { = } & { \frac { S O ( 5 ) } { S O ( 4 ) } } & { \equiv } & { S ^ { 4 } } \\ \end{array}
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/212.jpg,"G ( \omega , \mathrm { \boldmath k } , \rho \Lambda ; v , e ^ { 2 } ) = \exp { \left\{ \int ^ { \rho } \frac { d \rho ^ { \prime } } { \rho ^ { \prime } } \gamma \right\} } G ( \omega , \mathrm { \boldmath k } , \Lambda ; v _ { e f f } ( \rho ) , e _ { e f f } ^ { 2 } ( \rho ) )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/213.jpg,\langle \varphi ^ { 2 } ( r ) \rangle _ { \mathrm { r e g } } = - \frac { 1 } { \pi a r ^ { n } S _ { D } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/214.jpg,"\langle F _ { \mu } ^ { i } [ \xi | s ] F _ { \mu ^ { \prime } } ^ { i ^ { \prime } } [ \xi ^ { \prime } | s ^ { \prime } ] \rangle = - { \frac { 3 i } { 4 a _ { \xi ^ { \prime } } ( s ^ { \prime } ) } } \delta ^ { i i ^ { \prime } } g _ { \mu \mu ^ { \prime } } \delta ( s - s ^ { \prime } ) \prod _ { \bar { s } = 0 } ^ { 2 \pi } \delta ^ { 4 } ( \xi ( \bar { s } ) - \xi ^ { \prime } ( \bar { s } ) ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/215.jpg,"\xi _ { A B C } ^ { ( s , k ) } : = ( \lambda _ { + A B C } ^ { ( s , k ) } + i \lambda _ { - A B C } ^ { ( s , k ) } ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/216.jpg,"t r ( F _ { ( 0 , 2 ) } \wedge F _ { ( 0 , 2 ) } ) \sim t r ( \langle \phi \rangle ^ { 2 } )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/217.jpg,\hat { Q } _ { 1 } ^ { \prime } = Q _ { 3 } \times \int _ { S ^ { 2 } } \! B \ .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/218.jpg,\frac { E _ { 4 } ( \tilde { \tau } ) ^ { 3 } } { E _ { 6 } ( \tilde { \tau } ) ^ { 2 } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/219.jpg,{ \bf a } _ { i } = \alpha \hat { \bf z } \times \sum _ { j \neq i } \frac { { \bf r } _ { i j } } { r _ { i j } ^ { 2 } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/220.jpg,"F _ { \star } = - ( \beta r _ { 0 } ) r _ { 0 } \cos 2 \theta _ { 0 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/221.jpg,"\psi ^ { \prime } ( z , \bar { z } ) = g ( z , \bar { z } ) \psi ( z , \bar { z } )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/222.jpg,"{ \cal W } ( y ) = \left( 1 - { \frac { ( D - 2 ) a ^ { 2 } } { 2 } } \sqrt { { \frac { D - 2 } { 4 ( D - 1 ) - a ^ { 2 } ( D - 2 ) ^ { 2 } } } \Lambda } | y | \right) ^ { \frac { 8 } { ( D - 2 ) ^ { 2 } a ^ { 2 } } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/223.jpg,A \geq 1 6 \pi \left( \sum M _ { i } \right) ^ { 2 } > 1 6 \pi \sum M _ { i } ^ { 2 } = 4 S .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/224.jpg,\partial _ { \lambda } H ^ { 2 } ( \lambda ) = - 2 i a ^ { i } ( \nabla _ { i } + i \lambda a _ { i } ) - \nabla _ { i } a ^ { i } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/225.jpg,\frac { 1 } { k ^ { 2 } } ( g ^ { \mu \nu } - \frac { \tilde { k } _ { \mu } \tilde { k } _ { \nu } } { \tilde { k } ^ { 2 } } )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/226.jpg,\partial _ { t } \left( e ^ { - \phi } \sqrt { g } H \right) = \partial _ { t } \left( ( \sqrt { g } H ^ { 3 } ) ( e ^ { - \phi } H ^ { - 2 } ) \right) = \partial _ { t } \left( n _ { H } S _ { H } \right) = 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/227.jpg,"s ( c , R / \epsilon ) = { \frac { c } { 6 } } \ln { \frac { R } { \epsilon } } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/228.jpg,"{ \delta } \varphi _ { A } + { \delta } { \cal T } _ { A } = 0 , { \delta } \varphi _ { B } + { \delta } { \cal T } _ { B } = 0 , \mathrm { a n d } { \delta } \varphi _ { C } + { \delta } { \cal T } _ { C } = 0 ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/229.jpg,Z = \int { \cal D } A e ^ { - S } \equiv \left( \det \frac { \delta ^ { 2 } S } { \delta A ^ { 2 } } \right) ^ { - 1 / 2 } = e ^ { S _ { I } + S _ { 0 } } = e ^ { - \frac { 1 } { 2 } \zeta ^ { \prime } ( 0 ) + S _ { 0 } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/230.jpg,"\frac { d ^ { 2 } \rho _ { n } ( r ) } { d r ^ { 2 } } = - \mathrm { e } ^ { - \rho _ { n - 1 } } + 2 \mathrm { e } ^ { - \rho _ { n } } - \mathrm { e } ^ { - \rho _ { n + 1 } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/231.jpg,"\left[ - \nabla _ { { \bf r } , { D } } ^ { 2 } - \lambda \mu ^ { \epsilon } W ^ { ( { D } ) } ( { \bf r } ) \right] \Psi ( { \bf r } ) = E \Psi ( { \bf r } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/232.jpg,"[ D ( 1 ) q ( 2 ) ] | 0 > = | B ( { \bf R } ) > + { \bf r } \cdot | { \bf B } ^ { ' } ( { \bf R } ) > + o ( r ^ { 2 } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/233.jpg,"T ( z ) = { \frac { 1 } { 2 } } : J ^ { 2 } ( z ) : \qquad \Rightarrow \quad c ( u ( 1 ) ) = 1 \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/234.jpg,\tilde { u } = u - M ^ { 2 } \left( \frac { 1 } { 1 2 } + \sum _ { p = 1 } ^ { \infty } \alpha _ { p } q ^ { p } \right)
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/235.jpg,{ \cal R } = \exp \left\{ \Delta \! \left( \frac { h } { \sinh h } \right) ( \sinh h \otimes v - v \otimes \sinh h ) \right\} .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/236.jpg,\frac { d ^ { 2 } \tilde { \rho } ^ { ( n ) } ( x ) } { d x ^ { 2 } } +
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/237.jpg,\delta _ { \theta } g = \frac 1 { 4 i } \delta \theta ^ { k l } A _ { k } * A _ { l } * g .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/238.jpg,"\Delta ( v ) = e ^ { h } \otimes v + v \otimes e ^ { - h } , D e l t a ( h ) = h \otimes 1 + 1 \otimes h ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/239.jpg,\hat { \rho } = \frac { e ^ { - \beta \omega _ { 0 } \hat { a } ^ { \dagger } \hat { a } } } { \mathrm { T r } e ^ { - \beta \omega _ { 0 } \hat { a } ^ { \dagger } \hat { a } } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/240.jpg,{ \cal Q } ^ { \prime } = { \frac { 1 } { 1 6 \pi G _ { D } } } \int _ { S ^ { 1 } \times S ^ { d - 1 } } * F _ { q + 2 } = ( d - 2 ) L \Omega _ { d - 1 } { \frac { I _ { d - 3 } } { L } } \tilde { Q } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/241.jpg,- \frac { 1 } { 2 } \sum _ { j = 1 } ^ { N } D _ { j } ^ { 2 } = - \frac { 1 } { 2 } \sum _ { j = 1 } ^ { N } \partial _ { x _ { j } } ^ { 2 } + \sum _ { 1 \leq j < k \leq N } \frac { \beta ( \beta - K _ { j k } ) } { ( x _ { j } - x _ { k } ) ^ { 2 } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/242.jpg,"\lambda _ { \mu , \mu \nu } = \lambda _ { \mu , \nu \nu } = 0 , \quad \lambda _ { \mu , \nu \rho } = \lambda _ { \mu , \rho \nu }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/243.jpg,\frac { \delta { \bar { S } } [ e ] } { \delta e _ { l } ^ { d } } = \epsilon ^ { l j m } \partial _ { j } e _ { m } ^ { d } = - \epsilon ^ { l j m } \epsilon ^ { d e f } { \bar { A } } _ { j } ^ { e } [ E ] e _ { m } ^ { f } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/244.jpg,"a ( r _ { 2 } ) - a ( r _ { 1 } ) = - \frac { 1 } { 2 ^ { 1 3 } \cdot 3 ^ { 3 } \cdot 5 } \int _ { S ( r _ { 1 } , y ) } ^ { S ( r _ { 2 } , y ) } \mathrm { d }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/245.jpg,a = \frac { Q } { 2 } \pm \sqrt { \frac { Q ^ { 2 } } { 4 } - \frac { 1 } { 2 } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/246.jpg,{ \tilde { \psi } } \big ( { \tilde { X } } _ { i } \big ) = \rho \psi \left( X _ { i } \right) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/247.jpg,"f _ { b _ { + } d _ { + } a _ { - } } ( 0 , x _ { 2 } , x _ { 3 } ) = \frac { s g } { m } \sqrt { \frac { N } { 2 \pi } } \frac { f _ { a _ { + } a _ { - } } ( x _ { 2 } , x _ { 3 } ) } { \sqrt { x _ { 2 } } }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/248.jpg,"\epsilon _ { 0 } ^ { ( i ) } ( k ) = 0 \ , \ \vec { k } \cdot \vec { \epsilon } ^ { ( i ) } ( \vec { k } ) = 0 \ i = 1 , 2"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/249.jpg,"H _ { \hat { \imath } } = \{ H _ { \hat { a } } , R _ { \hat { u } } \} \quad \hat { a } = D , \dots , 4 \quad u = 1 , \dots , q"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/250.jpg,\Delta ^ { i t } U ( a ) \Delta ^ { - i t } = U ( e ^ { - 2 \pi t } a ) \quad \mathrm { a n d } \quad J U ( a ) J = U ( - a ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/251.jpg,"N ^ { 2 } = { \frac { 1 } { a ^ { 2 } } } ( r ^ { 2 } - r _ { + } ^ { 2 } ) - { \frac { 2 G } { \pi } } q ^ { 2 } \ln { \frac { r } { r _ { + } } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/252.jpg,"| q , z , z ^ { \prime } > = \sum _ { m = 0 } ^ { \infty } \sum _ { i = 1 } ^ { m + 1 } c _ { m , | q | + m } ^ { i } | m , | q | + m ; i >"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/253.jpg,m ^ { 2 } + l ^ { 2 } + | \Upsilon | ^ { 2 } - 4 | \Gamma | ^ { 2 } \geq 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/254.jpg,W = M x \bar { C } \bar { q } + N p \bar { q } + \bar { S } p ^ { 2 } u + \bar { S } x ^ { 2 } + H \bar { C } ^ { 2 } + \lambda \sum _ { l = 1 } ^ { k } H ^ { l l } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/255.jpg,\bar { \mu } ^ { \dot { A } } = \left( X ^ { B \dot { A } } - i \Theta ^ { B } \bar { \Theta } ^ { \dot { A } } \right) \lambda _ { B } + 2 \bar { z } ^ { \dot { A } \dot { B } } \bar { \lambda } _ { \dot { B } } - i \bar { \Theta } ^ { \dot { A } } \bar { \Theta } ^ { \dot { B } } \bar { \lambda } _ { \dot { B } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/256.jpg,"V \rightarrow V + V _ { \epsilon } , V _ { \epsilon } = \frac { \epsilon ^ { n } } { \rho _ { 1 } \rho _ { 2 } }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/257.jpg,j _ { 4 } = \frac { 3 D } { 2 } e ^ { - 2 \phi } e ^ { 2 \chi } c \partial c { \partial } ^ { 2 } c .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/258.jpg,"H = M _ { 0 } \sum _ { n = 1 } ^ { \infty } \sum _ { j = 1 } ^ { D - 2 } \omega _ { n } a _ { n } ^ { j + } a _ { n } ^ { j } + \frac { D - 2 } { 2 } M _ { 0 } \sum _ { n = 1 } ^ { \infty } \omega _ { n } { , }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/259.jpg,\xi ( T ) \equiv \frac { 2 } { 3 } \bigg ( \frac { H ^ { \prime } ( T ) H ^ { \prime \prime \prime } ( T ) } { H ^ { 6 } ( T ) } \bigg ) ^ { \frac { 1 } { 2 } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/260.jpg,"| \epsilon ; p > = \lim _ { z , \bar { z } \rightarrow 0 } V ( z , \bar { z } ) | 0 >"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/261.jpg,"\alpha _ { 2 } r _ { 2 } = \pm \sqrt { r _ { 2 } ^ { 2 } + { r _ { 0 } ^ { 2 } / 4 } } - r _ { 0 } / 2 \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/262.jpg,"t r K ( t ) = ( 4 \pi t ) ^ { - 3 / 2 } \sum _ { k = 0 , 1 / 2 , 1 , . . . } ^ { \infty } ( \int _ { B ^ { 3 } } d v a _ { k } + \int _ { S ^ { 2 } } d s c _ { k } ) \exp ( - t V ^ { \prime \prime } ( \phi ) ) t ^ { k } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/263.jpg,"P _ { { \cal S } } ( A ) = \sum _ { j = 1 , 2 } P _ { { \cal S } _ { j } / { \cal S } } P _ { { \cal S } _ { j } } ( A ) + 2 \sqrt { P _ { { \cal S } _ { 1 } / { \cal S } } P _ { { \cal S } _ { 1 } } ( A ) P _ { { \cal S } _ { 2 } / { \cal S } } P _ { { \cal S } _ { 2 } } ( A ) } \lambda ( A ; { \cal S } , { \cal S } _ { j } ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/264.jpg,"( 4 \pi ) ^ { 2 } \frac { d y ^ { - 1 } } { d t } = \varepsilon y ^ { - 1 } + \frac { 5 } { 4 } y ^ { - 2 } , y ( 0 ) = y _ { 0 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/265.jpg,"H = \sum _ { q _ { i } = x , \zeta } \dot { q } _ { i } \frac { \partial L } { \partial \dot { q } _ { i } } - L = - \frac { \kappa _ { 0 } } { 2 } \dot { x } ^ { 2 } + \frac { i g } { \kappa _ { 0 } } F _ { \mu \nu } \zeta ^ { \mu } \zeta ^ { \nu }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/266.jpg,{ \frac { \dot { G } _ { N } } { G _ { N } } } = - { \frac { k ^ { 2 } } { 3 } } H .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/267.jpg,p = \frac { 1 } { 3 } < 1 ; a ( t ) \propto t ^ { 1 / 3 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/268.jpg,"\langle B _ { \mu \nu } ( x ) \varphi ( x ) \rangle = \varepsilon _ { \mu \nu \alpha } \partial _ { x } ^ { \alpha } G ( x - y ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/269.jpg,"R _ { X Y Z } { } ^ { W } = f _ { i A } ^ { W } f _ { Z } ^ { i B } { \cal R } _ { X Y B } { } ^ { A } , \qquad \delta _ { j } ^ { i } { \cal R } _ { X Y B } { } ^ { A } = f _ { W } ^ { i A } f _ { j B } ^ { Z } R _ { X Y Z } { } ^ { W } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/270.jpg,T _ { \mu \nu \rho \sigma } ( p ) = i \int d ^ { 2 } x e ^ { i p x } \langle 0 \vert T \lbrack T _ { \mu \nu } ( x ) T _ { \rho \sigma } ( 0 ) \rbrack \vert 0 \rangle .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/271.jpg,( \frac { \eta ( { \tau } ) } { \eta ( p \tau ) } ) ^ { r } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/272.jpg,"S = a c t , \mathrm { w h e r e } \ a = \sqrt { \frac { \kappa A } { 2 } - k }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/273.jpg,"e ^ { 2 \bar { \rho } } = e ^ { - ( f _ { a } + f _ { b } ) / 3 } e ^ { 2 \rho } , \ \bar { \Omega } = e ^ { ( f _ { a } + f _ { b } ) / 2 } \Omega ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/274.jpg,\partial \widetilde { V } _ { M } = \bigsqcup _ { k = 1 } ^ { N _ { 0 } } S _ { k } ^ { 2 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/275.jpg,"A _ { 3 } = - { \frac { 1 } { 2 } } \partial _ { 4 } \nu , A _ { 4 } = { \frac { 1 } { 2 } } \partial _ { 3 } \nu ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/276.jpg,"u = \pm \frac { \eta } { \lambda } + \frac { \pi } { 2 } + u _ { n - 2 k - 1 } \quad ; \qquad k = 0 , \dots , n - 1 ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/277.jpg,{ \cal H } _ { 1 . c _ { 0 } \neq 0 } = \frac { s } { 2 c _ { 1 } ^ { 2 } c _ { 0 } } \left[ 2 \imath c _ { 1 } ^ { 2 } c _ { 0 } { \bf p } ( { \bf z } - { \bf { \bar { z } } } ) + ( c _ { 0 } ^ { 2 } - { \bf p } ^ { 2 } ) ( { \bf z } { \bar { \bf z } } - c _ { 1 } ^ { 2 } ) \right] .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/278.jpg,J _ { D 0 } ( p ) = \mathrm { T r } e ^ { i p X } = 2 \pi ( \theta ^ { - 1 } ) _ { 1 2 } \delta ( p ) \mp \frac { 1 } { k } \langle 0 | e ^ { i p X } | 0 \rangle .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/279.jpg,d s _ { 1 1 } ^ { 2 } = D _ { 2 } ^ { - { \frac { 2 } { 3 } } } ( - d t ^ { 2 } + d x _ { 1 } ^ { 2 } + d x _ { 2 } ^ { 2 } ) + D _ { 2 } ^ { \frac { 1 } { 3 } } ( d x _ { 3 } ^ { 2 } + \cdots + d x _ { 1 1 } ^ { 2 } )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/280.jpg,"{ \cal { F } } = \frac { 1 } { 2 } e ^ { i } \wedge e ^ { j } ( D _ { i } { \cal { A } } _ { j } - D _ { j } { \cal { A } } _ { i } + \frac { i } { h } \{ { \cal { A } } _ { i } , { \cal { A } } _ { j } \} _ { s t a r } )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/281.jpg,"X ^ { \mu } = x ^ { \mu } + p ^ { \mu } \tau + i \sum _ { n \neq 0 } \frac { 1 } { n } \alpha _ { n } ^ { \mu } \exp ^ { - i n \tau } c o s ( n \sigma ) , \nonumber"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/282.jpg,\nu ( N ) \equiv \frac { \log \frac { R _ { G } ( N ) } { R _ { G } ( \frac { N } { 2 } ) } } { \log ( 2 ) } \ .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/283.jpg,S ( E ) = - \int d ^ { d } r E _ { a } ^ { i } ( g ^ { - 1 } \partial _ { i } g ) ^ { a }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/284.jpg,f \partial _ { i } g \partial _ { i } h = \frac { 1 } { 2 } ( \partial ^ { 2 } f g h - f \partial ^ { 2 } g h - f g \partial ^ { 2 } h ) + \frac { 1 } { 2 } \partial ^ { 2 } ( f g h ) - \partial _ { i } ( \partial _ { i } f g h ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/285.jpg,R _ { A B C D } = \frac { 4 \kappa ^ { 2 } \Lambda _ { b } } { d ( d - 1 ) } ( g _ { A C } g _ { B D } - g _ { A D } g _ { B C } ) =
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/286.jpg,\nabla _ { 1 } \Psi = \gamma ( e _ { 2 } ) \nabla _ { 2 } \Psi + \gamma ( e _ { 3 } ) \nabla _ { 3 } \Psi + . . . + \gamma ( e _ { 8 } ) \nabla _ { 8 } \Psi
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/287.jpg,\delta \Phi = - \frac { i } { 4 8 } { \bar { D } } ^ { 4 } D ^ { { \mathbf i } { \mathbf j } } ( L _ { { \mathbf i } { \mathbf j } } \Phi ) + \frac { i } { 4 8 } { \bar { D } } ^ { 4 } ( L _ { { \mathbf i } { \mathbf j } } D ^ { { \mathbf i } { \mathbf j } } \Phi ) \ .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/288.jpg,x ^ { T } ( z ) = x ( \frac { 1 } { f z } )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/289.jpg,"{ \cal L } = \left\{ \begin{cases} { \eta \dot { A } _ { \alpha } \sigma _ { 3 } ^ { \alpha \beta } \partial A _ { \beta } - \partial A _ { \alpha } \cdot \partial A _ { \alpha } , } & { i f D = 4 k + 2 } \\ { \eta \dot { A } _ { \alpha } \epsilon ^ { \alpha \beta } \partial A _ { \beta } - \partial A _ { \alpha } \cdot \partial A _ { \alpha } , } & { i f D = 4 k } \\ \end{cases} \right."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/290.jpg,"\frac { 1 } { p ^ { 2 } + m ^ { 2 } } \left[ \eta _ { \mu \nu } + \frac { p _ { \mu } p _ { \nu } } { m ^ { 2 } } \right] ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/291.jpg,"X \biggl | _ { { \cal I } ^ { \pm } } = O \Bigl ( \frac { 1 } { r ^ { 3 } } \Bigr ) \quad , \quad X \biggl | _ { { \mathrm { i } } ^ { 0 } } = O \Bigl ( \frac { 1 } { r ^ { 4 } } \Bigr ) \quad ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/292.jpg,"J _ { \perp } = { \frac { m _ { f } H _ { p } z ^ { 2 } \dot { \theta } _ { \perp } } { \sqrt { 1 - H _ { p } H _ { F } v _ { \perp } ^ { 2 } } } } , \ E = { \frac { m _ { f } } { H _ { F } } } \left[ { \frac { 1 } { \sqrt { 1 - H _ { p } H _ { F } v _ { \perp } ^ { 2 } } } } - 1 \right] ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/293.jpg,P _ { G S O } = \frac { 1 + \left( - 1 \right) ^ { F } } { 2 } \frac { 1 + \left( - 1 \right) ^ { \tilde { F } } } { 2 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/294.jpg,g ^ { 5 5 } = g ^ { \mu \nu } V _ { \mu } V _ { \nu } \equiv V ^ { 2 }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/295.jpg,"\pi _ { 1 } ( { \cal M } ) \stackrel { A } { \rightarrow } G , A : x \mapsto g ( x ) \in G"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/296.jpg,\Delta _ { \pm } = { \frac { p - 1 } { 2 } } \left[ 1 \pm { \frac { 2 } { q - 1 } } \left| k - { \frac { q - 1 } { 2 } } \right| \right] .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/297.jpg,S = \frac { 1 } { 2 } \int d ^ { 4 } x \epsilon ^ { \mu \nu \alpha \beta } \epsilon _ { a b c d } \bigg [ ( { ^ + } \tau - { ^ - } \tau ) F _ { \mu \nu } ^ { a b } F _ { \alpha \beta } ^ { c d } + ( { ^ + } \tau + { ^ - } \tau ) F _ { \mu \nu } ^ { a b } \tilde { F } _ { \alpha \beta } ^ { c d } \bigg ] .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/298.jpg,"e ^ { - W [ J ] } = \int e ^ { - S _ { L } ( Q , \tilde { Q } , V ) - J . ( Q \tilde { Q } ) }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/299.jpg,V ^ { \alpha } = C ^ { - 6 } X ^ { \alpha } = ( 1 + r ^ { 4 } ) ^ { - 3 / 2 } X ^ { \alpha } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/300.jpg,\delta S = \frac { 1 } { 3 } \int d ^ { 2 } x d _ { i j k } ( \partial _ { + } \varphi ^ { i } \partial _ { + } \varphi ^ { j } \partial _ { + } \varphi ^ { k } \partial _ { - } \lambda ^ { + + } + \partial _ { - } \varphi ^ { i } \partial _ { - } \varphi ^ { j } \partial _ { - } \varphi ^ { k } \partial _ { + } \lambda ^ { -- } ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/301.jpg,U _ { 1 } G U _ { 1 } ^ { \dagger } = \partial _ { - } \Pi + { \frac { 1 } { 2 L } } \int d x ^ { - } g ( { \vec { x } } ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/302.jpg,"I _ { n } ( m , x ) \equiv \left( \frac { x } { 2 m } \right) ^ { n } K _ { n } ( m x ) ;"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/303.jpg,"\hat { A } _ { ( d ) \mu _ { 1 } \cdots \mu _ { d } } = c a ^ { d } \frac { \epsilon _ { \mu _ { 1 } \cdots \mu _ { d } } } { \sqrt { | g | } } , \Rightarrow \hat { F } _ { ( \hat { d } ) \underline { { y } } \mu _ { 1 } \cdots \mu _ { d } } = c d a ^ { d } \log ^ { \prime } { a } \frac { \epsilon _ { \mu _ { 1 } \cdots \mu _ { d } } } { \sqrt { | g | } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/304.jpg,- 2 \frac { d ^ { 2 } } { d ^ { 2 } x } T _ { 0 } ( x ) + \frac { d } { d T } \mathcal { V } ( T ) = 0
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/305.jpg,E = \int d x \left[ \frac { 1 } { 2 } \dot { \phi } ^ { 2 } + \frac { 1 } { 2 } { \phi ^ { \prime } } ^ { 2 } + ( 1 - \cos \phi ) \right]
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/306.jpg,S = \int { d \tau \left( \frac { 1 } { 2 } g _ { \mu \nu } ( x ) \dot { x } ^ { \mu } \dot { x } ^ { \nu } + A _ { \mu } ( x ) \dot { x } ^ { \mu } + V ( x ) + b _ { 1 } \dot { c } _ { 1 } \right) } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/307.jpg,"X ^ { I } = \left( \begin{array} { c c c c } { x _ { 1 } ^ { I } } & { 0 } & { \dots } & { 0 } \\ { 0 } & { x _ { 2 } ^ { I } } & { \dots } & { 0 } \\ { \dots } & { \dots } & { \dots } & { \dots } \\ { 0 } & { \dots } & { \dots } & { x _ { N } ^ { I } } \\ \end{array} \right) , \ I = 1 , \dots , 2 6 \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/308.jpg,\partial _ { \mu } \left( \partial ^ { \mu } \lambda ^ { \nu } - \partial ^ { \nu } \lambda ^ { \mu } \right) = - \frac { 8 a M ^ { 2 } } { e ^ { 2 } } \partial _ { \mu } \partial _ { \theta } T ^ { ( \mu \nu ) \theta } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/309.jpg,"\left( t ^ { 1 / 2 } T \right) \ddot { } + S ( t ) ^ { 2 } t ^ { 1 / 2 } T = 0 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/310.jpg,\Gamma ( E ) = \int d ^ { D } p \ \Theta ( E - H ( p ) ) \propto p _ { \mathrm { m a x } } ^ { D } ( E )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/311.jpg,( D _ { 1 } + i \sigma _ { 1 } D _ { 2 } ) \phi = 0 a n d ( D _ { 1 } + i \sigma _ { 2 } D _ { 2 } ) \chi = 0
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/312.jpg,E [ A ; d x ] = \exp ( i g d x ^ { \mu } A _ { \mu } ) ;
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/313.jpg,< p h y s | J ^ { i } ( z e ^ { i 2 \pi n } ) | p h y s ^ { \prime } > = < p h y s | J ^ { i } ( z ) | p h y s ^ { \prime } > .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/314.jpg,"i D _ { 2 } ( k ) = { \frac { i } { k ^ { 2 } - m _ { \varphi _ { 2 } } ^ { 2 } + i \epsilon } } , \quad ( m _ { \varphi _ { 2 } } ^ { 2 } = \xi m _ { b } ^ { 2 } = \xi g _ { m } ^ { 2 } v ^ { 2 } ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/315.jpg,\sigma = \exp [ - \int _ { r } ^ { \infty } ( \frac { 2 R _ { g } ^ { 2 } f ^ { 2 } \exp ( - 2 \Phi ) } { r } + r \Phi ^ { 2 } ) d r ]
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/316.jpg,"Z \left( \beta , L \right) = Z \left( L , \beta \right) \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/317.jpg,M _ { A D M } = \frac { 2 \pi m } { \kappa ^ { 2 } } l _ { 1 } l _ { 2 } l _ { 3 } l _ { 4 } V _ { 3 } ( \cosh 2 \alpha _ { 1 } + \cosh 2 \alpha _ { 2 } + \cosh 2 \beta _ { 1 } + \cosh 2 \beta _ { 2 } )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/318.jpg,"\Sigma ( p ^ { \prime } ) ^ { \prime } - \Sigma ( p ) ^ { \prime } = q _ { \mu } \Sigma ^ { \mu \prime } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/319.jpg,\Delta x \ge \frac { \hbar } { \Delta p } + ( c o n s t ) \frac { \lambda ^ { 2 } \Delta p } { \hbar }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/320.jpg,"\delta g = - h ( x ) g + g \epsilon \quad h \in { \cal H } , \ \epsilon \in { \cal G } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/321.jpg,\omega ( p ) = p \cos \theta ( p ) + \frac { N g ^ { 2 } } { 4 } \int \frac { \mathrm { d } p ^ { \prime } } { 2 \pi } \frac { \cos \left( \theta ( p ) - \theta ( p ^ { \prime } ) \right) } { ( p - p ^ { \prime } ) ^ { 2 } } \ .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/322.jpg,"c = \frac { 1 } { \Gamma ( \frac { 1 } { 5 } ) \Gamma ( \frac { 2 } { 5 } ) \Gamma ( \frac { 3 } { 5 } ) \Gamma ( \frac { 4 } { 5 } ) } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/323.jpg,t _ { \mu \nu } ^ { \mp } = c _ { \mu \nu } ^ { \mp }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/324.jpg,\left| \left( \begin{array} { c c } { [ m ] + [ \Delta ( \Gamma ) ] } \\ { ( m ^ { \prime } ) } \\ \end{array} \right) ; ( \Gamma ) \right\rangle =
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/325.jpg,"M ( L , T ) = \sum _ { n } | \langle 0 | { \cal M } ( 2 L , 0 ) | \Phi _ { n } \rangle | ^ { 2 } \exp ( 2 i { \cal E } _ { n } T ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/326.jpg,"\delta S ^ { s p i n } = - \frac { i } { 2 } \omega _ { a b } \sum _ { i , j = 1 } ^ { n } \int _ { \Lambda } ( D _ { c } - \frac { 4 x _ { c } } { R ^ { 2 } } ) [ \frac { \partial L } { \partial u _ { i , c } } ( \Gamma ^ { a b } ) _ { j } ^ { i } u ^ { j } ( x ) ] d \Omega ( x )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/327.jpg,"f _ { - 2 } = \int _ { 0 } ^ { \infty } u F ( u ) d u , \quad f _ { 0 } = \int _ { 0 }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/328.jpg,"\gamma _ { 1 , 2 } ^ { r e s } = \gamma _ { 1 , 2 } ^ { b o u n d } \pm \triangle \gamma ( c ^ { ( I ) } ) , \qquad \qquad c ^ { ( I ) } { o f t h e f i r s t k i n d }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/329.jpg,B = \pm \frac e 2 ( | \phi | ^ { 2 } - v ^ { 2 } + \frac { 2 \kappa } e N )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/330.jpg,"i \frac { \partial \psi ( \vec { x } , t ) } { \partial t } = [ { \vec { \alpha } } \cdot ( - i \vec { \nabla } - e \vec { \bar { A } } ) + \beta m ] \psi ( \vec { x } , t ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/331.jpg,E ( C ) = \int _ { C } d \sigma ^ { a } d \sigma ^ { b } \epsilon _ { a b c } \ \frac { \delta } { \delta A _ { c } ( x ( \vec { \sigma } ) ) } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/332.jpg,"E _ { 0 } = | m | { \psi } _ { 0 , m > 0 } ^ { ( - ) } = N _ { 0 } e ^ { i p x _ { 2 } - \frac { 1 } { 2 } \xi ^ { 2 } } \left( \begin{array} { c } { 0 } \\ { 0 } \\ { 1 } \\ { 0 } \\ \end{array} \right) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/333.jpg,"( U _ { 1 } U _ { 2 } . . . U _ { M } ) ^ { - \sigma } \sum _ { i } ( \prod _ { a } H _ { a } ^ { - \Delta _ { a i } } \prod _ { b } U _ { b } ^ { \Lambda _ { b i } } ) ^ { \sigma } \sum _ { m _ { i } = 1 } ^ { r _ { i } } d z _ { i } ^ { m _ { i } } d z _ { i } ^ { m _ { i } } + \sum _ { \alpha } d x ^ { \alpha } d x ^ { \alpha } \} ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/334.jpg,\mathbf { d } \widetilde \Omega = \widetilde { d \Omega } + A ^ { \alpha } \widetilde { L _ { \alpha } \Omega } - F ^ { \alpha } \widetilde { i _ { \alpha } \Omega } = \widetilde { d \Omega } + \widetilde { A ^ { \alpha } L _ { \alpha } \Omega } - \widetilde { F ^ { \alpha } i _ { \alpha } \Omega }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/335.jpg,d ^ { 2 } ( x ^ { i } d x ^ { k } ) = d ^ { 2 } x ^ { i } d x ^ { k } + ( 1 + j ) d x ^ { i } d ^ { 2 } x ^ { k } = d ^ { 2 } x ^ { i } d x ^ { k } - d ^ { 2 } x ^ { k } d x ^ { i } ;
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/336.jpg,"S _ { \Omega ^ { \prime } , \Omega } x \Omega = x ^ { * } \Omega , x \in M"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/337.jpg,< \theta _ { 1 } \theta _ { 2 } > _ { c o n } + < \theta _ { 2 } \theta _ { 1 } > _ { c o n } = 2 < \theta _ { 1 } > < \theta _ { 2 } > \ .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/338.jpg,m _ { n } ^ { 2 } = { \frac { 2 n + 1 } { \theta } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/339.jpg,"A _ { i } ^ { \mathrm { c l } a } ( \vec { x } + \vec { X } ) , \qquad \Phi ^ { \mathrm { c l } a } ( \vec { x } + \vec { X } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/340.jpg,"\zeta ( \tau ) = \int d ^ { D } x \sqrt { \tilde { g } } K ( x , x ; \tau ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/341.jpg,\partial _ { + } r = \partial _ { + } \lambda ( x _ { + } ) x _ { - } + O ( x _ { - } ^ { 2 } )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/342.jpg,{ \bf E } \rightarrow - c { { \bf B } ^ { \prime } } c { \bf B } \rightarrow { { \bf E } ^ { \prime } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/343.jpg,"Q _ { 1 } ( x ) ( Q _ { 2 } ( x ) ) = \int { \frac { d ^ { 2 } k } { 2 \pi { \sqrt { 2 \omega ( k ) } } } } [ e ^ { - i k x } a ( k ) ( b ( k ) ) + e ^ { i k x } a ^ { + } ( k ) ( b ^ { + } ( k ) ) ] ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/344.jpg,"\begin{array} { c } { c _ { k , 1 } = c _ { k , k } = ( 1 - q ^ { 2 } ) ^ { k } } \\ { c _ { k , 0 } = \frac { ( 1 - q ^ { 2 } ) ^ { k + 1 } } { 1 - q ^ { 2 ( k + 1 ) } } . } \\ \end{array}"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/345.jpg,"r = \frac { 1 } { \kappa Q } , \qquad R = \frac { 1 } { \kappa Q ^ { 2 } } \left[ q + i \left( Q ^ { \prime } - \frac { Q ^ { \prime \prime } Q } { Q ^ { \prime } } \right) \right] ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/346.jpg,\mu _ { + } ^ { - 1 } \mu _ { - } = \left( \begin{array} { c c } { I _ { m _ { 1 } } - \mu _ { + 1 2 } \mu _ { - 2 1 } } & { - \mu _ { + 1 2 } } \\ { \mu _ { - 2 1 } } & { I _ { m _ { 2 } } } \\ \end{array} \right) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/347.jpg,\frac { \sigma } { L / 2 } \approx 1 - \frac { . 6 3 } { b L } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/348.jpg,"g _ { L } = 0 , g _ { R } = 2 ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/349.jpg,\omega ( f ( Z ) ) = [ 2 ] _ { q ^ { - 2 } } D _ { q ^ { - 4 } } f ( Z ) \mid _ { Z = 1 } \omega ^ { 1 }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/350.jpg,"F _ { m } ( r ) = ( - 1 ) ^ { m } F _ { m } ( k - r ) , \quad r = 1 , \ldots , k - 1 ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/351.jpg,"\langle 0 | O _ { i } ^ { V } O _ { j } ^ { V } | 0 \rangle = \langle 0 | O _ { i } ^ { \widehat { V } } O _ { j } ^ { \widehat { V } } | 0 \rangle ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/352.jpg,\tilde { g } _ { M } ( p ) \equiv ( M _ { + } ^ { 2 } - M _ { - } ^ { 2 } ) \tilde { g } ( p ) = \frac { 1 } { p ^ { 2 } - M _ { + } ^ { 2 } } - \frac { 1 } { p ^ { 2 } - M _ { - } ^ { 2 } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/353.jpg,{ \widetilde \nu } + \frac { 1 } { 1 2 } \sum _ { i = 1 } ^ { 3 } m _ { i } ^ { 2 } x ^ { + } x ^ { - }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/354.jpg,d s ^ { 2 } = \left( \frac { r ^ { 2 } } { R ^ { 2 } } \right) ( - d t ^ { 2 } + d x _ { 1 } ^ { 2 } + d x _ { 2 } ^ { 2 } + d x _ { 3 } ^ { 2 } ) + \frac { R ^ { 2 } d r ^ { 2 } } { r ^ { 2 } } + R ^ { 2 } d \Omega _ { 5 } \
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/355.jpg,\Delta < S ^ { 3 } ( x ) > = < S ^ { 3 } ( x ) > - S = - \int \frac { d k } { 2 \pi } \frac { 1 } { 2 k } = - \infty
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/356.jpg,"\sum _ { x } \frac { 1 } { 2 } \sum _ { C } \oint _ { C } d x ^ { t } \frac { \delta ^ { 2 } \chi [ C ] } { \delta \sigma ^ { \nu t } ( x ) \delta \sigma ^ { \mu t } ( x ) } \epsilon ^ { 1 , \cdots , 7 \nu \mu t } \times \frac { 1 } { 7 ! } W _ { 1 , \cdots , 7 } ( x ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/357.jpg,"[ \hat { C } ^ { b c } , \hat { Q } ^ { a } ] = i \varepsilon ^ { a \{ b } \varepsilon ^ { c \} d } \hat { \pi } _ { ( C ) 0 d } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/358.jpg,( \frac { V } { V ^ { * } } ) ^ { 2 } = \frac { U } { U ^ { * } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/359.jpg,"w _ { 1 } ( x , t ) = ( 2 \pi \hbar ) ^ { 2 } [ { \frac { 1 } { 2 } } < : \alpha ^ { 2 } ( x , t ) : > - { \frac { 1 } { 2 } } < \alpha ( x , t ) > ^ { 2 } ]"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/360.jpg,"{ \cal L } _ { \mathrm { B } } = \left[ - \Upsilon - ( S + \overline { S } ) V + L _ { T } V _ { T } + U ( W + \overline { W } ) \right] _ { D } + [ S _ { 0 } ^ { 3 } W ] _ { F } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/361.jpg,"A _ { u v } \! \left( p + \frac { q } { 2 } , \: p - \frac { q } { 2 } \right) = \frac { 1 } { 2 } \delta ( p q - v ) \Theta \! \left( q ^ { 2 } \: ( p ^ { 2 } + \frac { q ^ { 2 } } { 4 } - u ) \right) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/362.jpg,\vert \delta \phi _ { k } ( t _ { 0 } ) \vert \sim k ^ { - \mu } \ .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/363.jpg,\overline { { S } } ( p ) = \frac { \sqrt { 2 } p ^ { + } } { 2 \sqrt { 2 } i ( 2 n + 1 ) \pi p ^ { + } T - ( \omega _ { p } ^ { 2 } + 2 ( p ^ { + } ) ^ { 2 } ) }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/364.jpg,"u _ { p } = { \frac { \chi _ { 2 , p } } { C } } \mu _ { 1 } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/365.jpg,g ^ { p q } = \frac { 1 } { 2 J } ( 1 + \mid \xi \mid ^ { 2 } ) ( \delta _ { p q } + { \bar { \xi } } _ { p } \xi _ { q } ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/366.jpg,\left[ \sqrt { \frac { 2 5 } { 4 } + 4 \kappa ^ { 2 } \tilde { \omega } _ { m } ^ { 2 } } - \left( m + \frac 1 2 \right) \right] ^ { 2 } \ge \left[ \sqrt { \frac { 2 5 } { 4 } } - \left( m + \frac 1 2 \right) \right] ^ { 2 } = [ 2 - m ] ^ { 2 } \ge 1
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/367.jpg,\Delta _ { r } = { \frac { 1 } { r ^ { 2 } } } ( r ^ { 2 } - \alpha ^ { 2 } ) ( r ^ { 2 } - \beta ^ { 2 } ) \left( 1 + { \frac { r ^ { 2 } } { l ^ { 2 } } } \right) - r _ { 0 } ^ { 2 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/368.jpg,"S _ { 1 } = - \int d ^ { 5 } \sigma \sqrt { - \mathrm { d e t } ( G _ { \mu \nu } + \cal F _ { \mu \nu } ) } + \int ( { \cal H } \wedge { \cal F } - \frac { 1 } { 2 } C _ { 1 } \wedge { \cal F } \wedge { \cal F } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/369.jpg,J = C \prod _ { \alpha \in \Phi ^ { + } } l _ { \alpha } ( x )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/370.jpg,"\hat { \lambda } = \epsilon ^ { \alpha } \hat { p } _ { \alpha } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/371.jpg,"i D _ { \mu } = i \partial _ { \mu } + k X _ { \mu } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/372.jpg,{ \cal F } ( a ) = { \frac { 2 i } { \pi } } a ^ { 2 } \int _ { 4 \Lambda / \pi } ^ { a } d b { \cal G } ( b ) b ^ { - 3 } - { \frac { \pi i } { 1 6 } } a ^ { 2 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/373.jpg,S _ { \Xi } = m \int d t [ 2 q \dot { \xi ^ { ( 2 ) } } \xi ^ { ( 1 ) } + F ^ { 2 } ] .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/374.jpg,"\frac { d } { d w _ { a } ^ { j } } P ( \eta , \zeta ) = \frac { \partial P } { \partial \eta } \frac { \partial \eta } { \partial w _ { a } ^ { j } } + \frac { \partial P } { \partial w _ { a } ^ { j } } = 0"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/375.jpg,"u ^ { \mu } ( p _ { 3 } , 0 ) \mid _ { m \rightarrow 0 } = \left( \begin{matrix} { p _ { 3 } } \\ { 0 } \\ { 0 } \\ { { \frac { p _ { 3 } ^ { 2 } } { E _ { p } } } } \\ \end{matrix} \right) \equiv \left( \begin{matrix} { E _ { p } } \\ { 0 } \\ { 0 } \\ { E _ { p } } \\ \end{matrix} \right) \quad ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/376.jpg,"G _ { N , d } = \frac { 1 } { 2 ( d - 1 ) \sqrt { \pi } ^ { d } m _ { d } ^ { d - 1 } } \Gamma \! \left( \frac { d } { 2 } \right) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/377.jpg,"f _ { n } \equiv f _ { n n } = \frac { ( - 1 ) ^ { n } } { \pi } e ^ { - z / 2 } L _ { n } ( z ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/378.jpg,V ( \phi ) \sim \int _ { 0 } ^ { 1 } d k k ^ { 3 } \ln [ k ^ { 2 } + M ^ { 2 } ( \phi ) ] \ \sim l n M ^ { 2 } ( \phi ) \ .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/379.jpg,R _ { \mu \nu } - \frac { 1 } { 2 } G _ { \mu \nu } { \cal R } - \frac { 1 } { 2 } \left( \partial _ { \mu } \varphi \partial _ { \nu } \varphi - \frac { 1 } { 2 } G _ { \mu \nu } \partial _ { \rho } \varphi \partial ^ { \rho } \varphi \right) = 0
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/380.jpg,"\pi ( 0 , \vec { x } ) = { \frac { \partial { \cal L } } { \partial \partial _ { 0 } \varphi ( 0 , \vec { x } ) } } = \partial ^ { 0 } \varphi ( 0 , { \vec { x } } )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/381.jpg,"{ \cal L } ^ { ( 0 ) } = \pi _ { i j } \dot { A } ^ { i j } + { \frac { 1 } { 2 } } \pi _ { i j } \pi ^ { i j } + 2 \partial _ { i } A _ { j 0 } \pi ^ { i j } - { \frac { 1 } { 2 } } \partial _ { i } A _ { j k } \partial ^ { i } A ^ { j k } + \partial _ { i } A _ { j k } \partial ^ { j } A ^ { i k } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/382.jpg,\hat { F } _ { \delta W } = \hat { \overline { { F _ { \delta W } ( \eta ) } } } + o ( \hbar ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/383.jpg,{ \frac { 1 } { 2 } } F _ { \mu \nu } D ^ { \mu \nu } = d ^ { \mu } F _ { \mu \nu } v ^ { \nu } + m ^ { \mu } { F * } _ { \mu \nu } v ^ { \nu }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/384.jpg,( - m _ { \pi } ^ { 2 } + \partial _ { \bot } ^ { 2 } ) \omega _ { \pi } ^ { ( 1 ) } = \frac { 1 } { 2 L } \int _ { - L } ^ { L } d x ^ { - } ( \varphi _ { \pi } ^ { 3 } + \varphi _ { \pi } \varphi _ { \sigma } ^ { 2 } + 2 v \varphi _ { \pi } \varphi _ { \sigma } ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/385.jpg,J _ { 0 } ( q R ) = \frac { 1 } { \zeta } J _ { 1 } ( q R )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/386.jpg,"\left[ \stackrel { \left( 0 \right) } { H } _ { B } , \Omega _ { 0 } \right] ^ { * } = 0 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/387.jpg,"{ \cal A } _ { N } = \langle \tau _ { N } | W _ { N - 1 } ^ { \pm } ( 1 ) S ^ { \pm } \ldots S ^ { \pm } W _ { 2 } ^ { \pm } ( 1 ) | \tau _ { 1 } \rangle \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/388.jpg,\tilde { H } _ { \pm } = \{ h \in \tilde { H } \mid h c _ { \pm } h ^ { - 1 } = c _ { \pm } \} .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/389.jpg,"m _ { G } ^ { 2 } = { \tilde { \Pi } } ( 0 ) = ( D - 1 ) ^ { - 1 } \lim _ { k \to 0 } { \tilde { \Pi } } _ { \mu \mu } ( k ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/390.jpg,"\begin{array} { r c l } { ( e ) _ { A } ^ { 1 } } & { = } & { \displaystyle - i \sqrt { 2 } g ^ { 3 } \int T _ { \alpha \beta \gamma } ( k , p _ { i } ) D _ { k } ^ { A } D _ { k + p _ { 1 } } ^ { A } , } \\ \end{array}"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/391.jpg,\delta _ { p } { \cal L } _ { p } ^ { \hbar } = { \cal L } _ { p + 1 } ^ { \hbar } \delta _ { p }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/392.jpg,H _ { \pm } = \oint \frac { d z } { 2 \pi i } \left( e ^ { i \sigma ( z ) } - e ^ { - i \sigma ( z ) } \right) e ^ { \pm i x ( z ) } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/393.jpg,"H _ { R } ( K ) + i H _ { R } ( K ) \mathrm { d e n s e i n } H , \quad H _ { R } ( K ) \cap i H _ { R } ( R ) = \left\{ 0 \right\}"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/394.jpg,\hat { \mathrm { T r } } { \hat { f } } = | \mathrm { P f a f f } ( 2 \pi \theta ) | ^ { - 1 } \int d ^ { d } x f ( x )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/395.jpg,"\mathrm { t r } [ a _ { 1 } ^ { \dagger } ( \frac { P ^ { + } } { 3 } ) a _ { 2 } ^ { \dagger } ( \frac { 2 P ^ { + } } { 3 } ) ] | 0 \rangle + \mathrm { t r } [ a _ { 2 } ^ { \dagger } ( \frac { P ^ { + } } { 3 } ) a _ { 1 } ^ { \dagger } ( \frac { 2 P ^ { + } } { 3 } ) ] | 0 \rangle ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/396.jpg,"Z _ { k , n } ^ { \prime } = ( k + 1 ) ! Z _ { k , n } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/397.jpg,"\omega ^ { 2 } = \omega ^ { 2 } - k _ { 4 } ^ { 2 } \ , \qquad e ^ { \pm \sigma ^ { \prime } } = e ^ { \pm \sigma } { \frac { ( \omega \mp k _ { 4 } ) } { \omega ^ { \prime } } } \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/398.jpg,D ^ { \nu } F _ { \mu \nu } ^ { a } = \partial ^ { \nu } F _ { \mu \nu } ^ { a } - g f _ { a b c } A _ { \nu } ^ { b } F _ { \mu \nu } ^ { c } = 0
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/399.jpg,"\overline { { \mathcal { M } } } _ { g , n } ( Y , 0 ) \cong \overline { { \mathcal { M } } } _ { g , n } \times Y ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/400.jpg,U _ { f } d w _ { i + 1 } \phi ( w _ { i + 1 } ) U _ { f } ^ { - 1 } = d w _ { i + 1 } \left( \frac { d w _ { i } } { d w _ { i + 1 } } \right) \phi ( w _ { i } ) = d w _ { i } \phi ( w _ { i } )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/401.jpg,n _ { 3 / 2 } \sim \lambda ^ { 3 / 4 } V ^ { 3 / 4 } ( \phi _ { 0 } ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/402.jpg,\rho ^ { 2 } = 0 . 5 6 \times 1 0 ^ { - 1 6 } ; \quad \rho = 0 . 7 5 \times 1 0 ^ { - 8 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/403.jpg,t _ { n } = - t _ { - n } = \frac { 1 } { 2 i } \tau _ { n }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/404.jpg,F _ { \mu \nu } ^ { a } = \partial _ { \mu } W _ { \nu } ^ { a } - \partial _ { \nu } W _ { \mu } ^ { a } + g f ^ { a b c } W _ { \mu } ^ { b } W _ { \nu } ^ { c }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/405.jpg,"A _ { 0 } \in U ( 1 ) , \qquad A _ { i } \in S U ( N - 1 )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/406.jpg,j = { \textstyle { \frac { 1 } { 2 } } } \left( \begin{array} { c c } { 1 } & { - \mathrm { A d } ( g ) } \\ { - \mathrm { A d } ( g ) ^ { - 1 } } & { 1 } \\ \end{array} \right) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/407.jpg,"{ [ } \hat { B } _ { \lambda } ^ { ( + ) } ( \vec { k } ) , \hat { Q } ^ { a } ] = - k _ { 0 } \hat { C } _ { \lambda } ^ { a ( + ) } ( \vec { k } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/408.jpg,"[ x _ { i } , p _ { j } ] = i ( \delta _ { i j } B + p _ { i } p _ { j } C ) , \quad [ x _ { i } , p _ { 0 } ] = i p _ { i } ( \frac { 1 } { \kappa } + p _ { 0 } C )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/409.jpg,"\phi _ { a n } T _ { 0 } \left( M _ { 1 } , Z _ { 1 } \right) = T _ { 0 } \left( M _ { 1 } , Z _ { 1 } \cup N \right) \otimes T _ { 0 } ( N ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/410.jpg,"S = \frac { e B } { 2 } \int d t ( \epsilon _ { i j } \sum _ { \alpha = 1 } ^ { N } [ ( \dot { X } ^ { i } + i [ A _ { 0 } , X ^ { i } ] ) X ^ { j } + \theta \epsilon ^ { i j } A _ { 0 } ] _ { \alpha , \alpha } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/411.jpg,"\delta \Phi ^ { A } = ( \Phi ^ { A } , \delta Y _ { a } ) ^ { a } , \quad \delta \bar { \Phi } _ { A } = ( \bar { \Phi } _ { A } , \delta Y _ { a } ) ^ { a } , \quad \varepsilon ( \delta Y _ { a } ) = 1 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/412.jpg,S _ { \mathrm { H } } = \sqrt { S _ { \mathrm { B H } } ( 2 S _ { \mathrm { B V } } - S _ { \mathrm { B H } } ) } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/413.jpg,"Z = \rho \mathrm { e } ^ { \mathrm { i } \varphi } = \rho \mathrm { e } ^ { \mathrm { i } \left( \phi + { \frac { \gamma } { R } } y \right) } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/414.jpg,A _ { a } = p _ { a } + \frac { 1 } { 2 } i \hat { D } _ { a } \qquad J _ { a } ^ { b c } = \hat { J } e _ { a } ^ { \mu } R _ { \mu \nu } ^ { b c } \frac { \partial } { \partial p _ { \nu } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/415.jpg,g _ { s } = g _ { s } ^ { \prime } \frac { l _ { s } ^ { p } } { R _ { 1 0 - p } ^ { \prime } \cdots R _ { 9 } ^ { \prime } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/416.jpg,F ^ { ( 0 ) } ( z ) = - V _ { 0 } ^ { ( 0 ) } \left[ \frac { 2 } { b } \right] ^ { \frac { 1 } { 2 } } \log ( 1 + z ^ { 2 } ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/417.jpg,"X \ni x \longmapsto ( x , x ) \in X \times X ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/418.jpg,"A _ { 3 } ^ { \prime } ( 0 ) = - { \frac { 6 1 } { 1 8 0 } } \ln ( r _ { + } / r _ { - } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/419.jpg,{ \frac { 3 } { 4 } } a _ { 0 } ^ { 2 } \sum _ { n \neq 0 } { \frac { 1 } { | n | } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/420.jpg,i \partial X ^ { a } = { \frac { 1 } { \sqrt 3 } } \sum _ { \alpha } e ^ { - i e _ { \alpha } \phi ^ { a } } c ( - e _ { \alpha } ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/421.jpg,"m _ { n } = \frac { \pi } { \alpha } \left( n + \frac { 1 } { 2 } \right) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/422.jpg,"\left( \Re ( u _ { k } ) , \Re ( u _ { k } ^ { \prime } ) \right) = \left( - \frac { \pi } { 8 } , \frac { 3 \pi } { 8 } \right)"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/423.jpg,"\Theta = { \frac { 1 } { 1 6 \pi ^ { 2 } } } \left[ c ( W _ { \mu \nu \rho \sigma } ) ^ { 2 } - a ( \tilde { R } _ { \mu \nu \rho \sigma } ) ^ { 2 } \right] + { \frac { c } { 6 \pi ^ { 2 } } } ( F _ { \mu \nu } ) ^ { 2 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/424.jpg,c = i { \delta } ( \theta - { \theta } ^ { ' } ) N _ { a } ^ { c } N _ { b } ^ { i } [ \frac { { \partial } { \omega } _ { c j } } { { \partial { \xi } ^ { i } } } + \frac { { \partial } { \omega } _ { j i } } { { \partial { \xi } ^ { c } } } ] \partial _ { \theta } { \xi } ^ { j } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/425.jpg,"( i \partial \! \! \! / - m _ { i } ) \psi _ { i } = 0 , \quad i = 0 , 1 ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/426.jpg,"J _ { \mu } ^ { ( n ) } = \frac { \bar { u } ^ { n } \partial _ { \mu } u } { ( 1 + | u | ^ { 2 } ) ^ { j + 1 } } , \quad n \in Z"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/427.jpg,- \beta F ( \beta ) \simeq - \frac { N _ { 1 } ^ { 2 } } { 2 } G _ { 1 } ( \beta ) - \frac { N _ { 2 } ^ { 2 } } { 2 } G _ { 2 } ( \beta ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/428.jpg,C \Phi = \sum _ { \bf K } e ^ { i { \bf K \cdot R } } C \chi ^ { \dagger } ( { \bf K } ) C ^ { - 1 } C \eta ^ { \dagger } ( { \bf - K } ) C ^ { - 1 } \Phi _ { 0 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/429.jpg,"\Phi = \frac { 1 } { p ! } d x ^ { m _ { p } } \wedge \cdots \wedge d x ^ { m _ { 1 } } \Phi _ { m _ { 1 } \cdots m _ { p } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/430.jpg,"| n _ { 1 } , \ldots , n _ { r } ; \bar { n } _ { 1 } , \ldots , \bar { n } _ { r } \rangle \Rightarrow \mu = \sum _ { j = 1 } ^ { r } ( n _ { j } - \bar { n } _ { j } ) e _ { j } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/431.jpg,"[ A , B ] _ { s } = A B - ( - 1 ) ^ { \deg A \deg B } B A ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/432.jpg,"F ( \sigma , t + 1 ) = F ( \sigma , t ) + V + P ^ { \prime }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/433.jpg,\omega _ { \beta } ( \phi ( f _ { n } ) ^ { * } \phi ( f _ { n } ) ) - \omega _ { \beta } ( \phi ( f _ { n } ) ^ { * } ) \omega _ { \beta } ( \phi ( f _ { n } ) ) \rightarrow 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/434.jpg,"\frac { \partial } { \partial \L } \big [ \L ^ { n } ( \log \L - c _ { n } ) \big ] = n \big [ \L ^ { n - 1 } ( \log \L - c _ { n - 1 } ) \big ] ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/435.jpg,"S _ { 5 } [ G ] = \frac 1 { 1 6 \pi G _ { 5 } } \int _ { M ^ { 5 } } d ^ { 5 } x G ^ { 1 / 2 } \left( \vphantom { I } ^ { 5 } \! R ( G ) - 2 \Lambda _ { 5 } \right) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/436.jpg,{ \cal L } = \bar { \psi } ( i \gamma ^ { \mu } \partial ^ { \mu } - m ) \psi + \bar { \eta } \psi + \bar { \psi } \eta
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/437.jpg,{ \cal S } ^ { ( 1 ) } \sim T _ { 2 5 } k V _ { 2 6 - D } e ^ { - 2 a } ( 1 + \frac { D } { 2 } + 2 a ) \prod _ { i = 1 } ^ { D } \sqrt { \frac { 2 \pi } { u _ { i } } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/438.jpg,"\{ \mathbf { S } _ { Q } , \mathbf { S } _ { Q } \} = - 2 \mathbf { Z } , \qquad \{ \mathbf { S } _ { Q } , \mathbf { \bar { Q } } _ { \mu } \} = - i \mathbf { P } _ { \mu } , \qquad \{ \mathbf { \bar { Q } } _ { \mu } , \mathbf { \bar { Q } } _ { \nu } \} = - 2 \delta _ { \mu \nu } \mathbf { \bar { Z } } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/439.jpg,"\dot { \rho } ( \tau ) = - \frac { 2 } { \sqrt { 3 } } ( \rho / r _ { 0 } ) ^ { \frac { 3 } { 2 } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/440.jpg,\Phi _ { l } = \frac { 1 } { \sqrt { l ! } } \int f _ { l } ( { \cal K } ^ { l } ) B _ { l } ^ { \ast } ( { \cal K }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/441.jpg,\partial ^ { 2 } \phi _ { n } - m ^ { 2 } \phi _ { n - 1 } = - \frac { 1 } { 6 } \sum _ { \nu _ { 1 } + \nu _ { 2 } + \nu _ { 3 } = n } \phi _ { \nu _ { 1 } } \phi _ { \nu _ { 2 } } \phi _ { \nu _ { 3 } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/442.jpg,\Lambda = \frac { \left< \int \sqrt { g } R \right> } { \left< \int \sqrt { g } \right> }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/443.jpg,E _ { i } = - { \cal G } ^ { i 0 } B _ { i } = G ^ { i 0 }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/444.jpg,\lambda _ { A a } ^ { * } = \left[ \phi _ { B a } ^ { * } \left( \epsilon ^ { 2 } \right) _ { A } ^ { B } + \varphi _ { B a } ^ { * } \left( 1 - \epsilon ^ { 2 } \right) _ { A } ^ { B } \right]
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/445.jpg,"\Gamma ( r , \theta ) = \int _ { \theta _ { 0 } } ^ { \theta } \left\{ 1 - H _ { 2 } ( r , \theta ^ { \prime } ) \right\} d \theta ^ { \prime } \ ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/446.jpg,"{ Q } ^ { ( 2 ) } = \frac { 1 } { 8 \pi ^ { 2 } } \sum _ { a = 1 } ^ { 3 } \left( \dot { \phi } _ { a } \beta _ { a } + \sum _ { c y c l i c } ^ { i , j , k } \dot { \chi } _ { a } M _ { a i } ^ { T } ( \phi _ { j } - \phi _ { k } ) b _ { i } \right) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/447.jpg,a _ { 1 } = - 2 \pi I _ { 2 \alpha } ( 0 ) = - \frac { \pi } { 3 } \left( \frac { \pi } { \alpha } - \frac { \alpha } { \pi } \right) { . }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/448.jpg,"w ( z , \bar { z } ) = - z ^ { 2 } \bar { z } ^ { 2 } + 4 z ^ { 3 } + 4 \bar { z } ^ { 3 } - 1 8 z \bar { z } + 2 7 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/449.jpg,"< g > _ { \phi ^ { n } } = < g > _ { \phi } ^ { n } , \quad < X > _ { \phi ^ { n } } = < X > _ { \phi } { \frac { < g > _ { \phi } ^ { n } - < g ^ { - 1 } > _ { \phi } ^ { n } } { < g > _ { \phi } - < g ^ { - 1 } > _ { \phi } } }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/450.jpg,H _ { T } = V ( q ) + \left( p _ { i } - a _ { i } ( q ) \right) f ^ { i j } \partial _ { j } V
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/451.jpg,g ( N E C V ) = d r \otimes d r + ( { \frac { 4 \pi L ^ { 2 } P } { 3 } } ) ^ { 2 / \beta } c o s h ^ { \left( { 4 / \beta } \right) } ( { \frac { \beta r } { 2 L } } ) \eta _ { i j } d x ^ { i } \otimes d x ^ { j } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/452.jpg,E _ { 0 } = \mu \sqrt { 2 ( 2 \ell + 1 ) } ( 1 - \frac { \beta } { \sqrt { 2 } } - 3 \frac { \beta ^ { 2 } } { 8 } ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/453.jpg,d s ^ { 2 } = d X ^ { M } d X _ { M } = \frac { R ^ { 2 } } { y ^ { 2 } } \left[ \left( d x ^ { \mu } \right) ^ { 2 } + \left( d y \right) ^ { 2 } \right] + \left( d \mathbf { \Omega } \right) ^ { 2 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/454.jpg,W ( a | e f g | b c d | h ) \stackrel { \rho } { \longrightarrow } W ( g | c a b | f h e | d )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/455.jpg,"\phi ( y = 0 , x ) = \phi _ { 0 } ( x ) \ ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/456.jpg,"g _ { 1 2 } ( z , \bar { z } ) = e ^ { - \gamma \varphi ( z , \bar { z } ) } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/457.jpg,"P _ { Y u k a w a } ^ { - } = - \frac { g ^ { 2 } } { 2 } \int _ { 0 } ^ { \infty } \frac { d k } { k } \left[ \widetilde { [ \phi , \psi ] } _ { i j } ( k ) \: , \: \widetilde { [ \phi , \psi ] } _ { j i } ( - k ) \right] ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/458.jpg,| o u t \rangle = S | i n \rangle
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/459.jpg,"( E _ { o } ^ { \prime } , s ^ { \prime } ) = ( E _ { o } , s ) \ , \qquad ( s + 2 , E _ { o } - 2 ) \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/460.jpg,\Pi _ { o } ^ { ( 1 ) } ( p ) = \Pi _ { o } ^ { ( 1 ) } ( 0 ) = \frac { 7 } { 3 \kappa } \frac { C _ { 2 } ( G ) } { 2 } \mathrm { s i g n } ( \kappa )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/461.jpg,"v * a = R e s _ { z } \left( Y ( a , z ) \frac { ( z + 1 ) ^ { \deg a - 1 } } { z } v \right) , \mathrm { f o r } a \in V _ { \bar { 0 } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/462.jpg,"\varphi = 2 k \pi \pm 2 \arcsin ( \sqrt { - c _ { 0 } / 8 } ) , \quad k = 0 , \pm 1 , \pm 2 , \ldots"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/463.jpg,"[ \hat { \mathrm { H } } _ { \mathrm { p h y s } } , \hat { \mathrm { P } } _ { \mathrm { p h y s } } ] _ { - } = 0 , \,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/464.jpg,"[ \delta _ { \epsilon } , \delta _ { \epsilon ^ { \prime } } ] \theta = 0"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/465.jpg,"\lim _ { r , r ^ { \prime } \to \infty } P ( r , t , \Omega ; r ^ { \prime } , t ^ { \prime } , \Omega ^ { \prime } ) = - \frac { r r ^ { \prime } } { l ^ { 2 } } \left[ \cosh \frac { t - t ^ { \prime } } { l } - \cos \Theta \right] ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/466.jpg,"\partial _ { \bar { z } } f ^ { \rho } = \rho \partial _ { z } f ^ { \rho } , \qquad \rho = t _ { 1 } \nu _ { 1 } + t _ { 2 } \nu _ { 2 } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/467.jpg,"\protect { \cal { S } } = 1 + \langle q \rangle T = 1 + { \frac { \langle q \rangle p } { ( 1 - \langle q - 1 \rangle p ) } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/468.jpg,d \bar { s } ^ { 2 } = - ( \lambda ^ { 2 } x ^ { 2 } - a ^ { 2 } ) d \tilde { t } ^ { 2 } + ( \lambda ^ { 2 } x ^ { 2 } - a ^ { 2 } ) ^ { - 1 } d x ^ { 2 }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/469.jpg,"r ( 0 ) = r _ { m } , r ( \omega ) = \sqrt { M l ^ { 2 } - r _ { m } ^ { 2 } } , r ( 2 \omega ) = r _ { m } , . . . ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/470.jpg,\frac { p _ { i } } { m } - \frac { \varepsilon _ { i j } E _ { j } } { B _ { c } } = 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/471.jpg,"\vec { M } \equiv ( M , { \cal Q } _ { d } , { \cal Q } _ { e } ^ { 1 } , { \cal Q } _ { e } ^ { 2 } ) , \vec { N } \equiv ( N , { \cal Q } _ { a } , { \cal Q } _ { m } ^ { 1 } , { \cal Q } _ { m } ^ { 2 } ) , \vec { J } \equiv ( J , { \cal F } , { \cal P } _ { m } ^ { 1 } , { \cal P } _ { m } ^ { 2 } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/472.jpg,\omega _ { a b } = \left( \begin{array} { c c } { 0 } & { I _ { N } } \\ { - I _ { N } } & { 0 } \\ \end{array} \right)
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/473.jpg,"h _ { \mu \nu } ( y ) = c _ { \alpha \beta } \theta _ { \mu } ^ { \alpha } ( y ) \theta _ { \nu } ^ { \beta } ( y ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/474.jpg,\sigma _ { l } \left( S \right) = S G _ { l } = G _ { l } ^ { - 1 } S
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/475.jpg,T = \frac { t } { \alpha l } \quad \quad \Delta \sigma = 1 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/476.jpg,\alpha ^ { \prime \prime } + \frac { n - 1 } \mu \alpha ^ { \prime } - m ^ { 2 } \alpha = m \delta ( x - x ^ { \prime } ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/477.jpg,\frac { 1 } { b _ { 1 } \alpha _ { 1 } ( \mu ) } - \frac { 1 } { b _ { 2 } \alpha _ { 2 } ( \mu ) } = \frac { 1 } { 2 \pi } \ln \frac { \Lambda _ { 1 } } { \Lambda _ { 2 } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/478.jpg,"{ \cal Z } = { \cal N } \int D Q \exp \left\{ \int d ^ { 4 } x { \cal L } _ { \mathrm { e f f } } [ Q _ { i } ^ { A } , Q _ { i } ^ { 3 } , B _ { \mu } ^ { 3 } ] \right\} = \exp \left\{ - \beta V U _ { \mathrm { e f f } } ( B , \beta , g ) \right\}"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/479.jpg,C \Big [ i \pi \epsilon ( p _ { 0 } ) e ^ { - { \frac { m ^ { 2 } } { 2 \mu ^ { 2 } } } } \Bigg ( \delta ( p ^ { 2 } ) + \theta ( p ^ { 2 } ) { \frac { m } { 2 \mu ^ { 2 } } } { \frac { 1 } { \sqrt { p ^ { 2 } } } } I _ { 1 } \Big ( { \frac { m \sqrt { p ^ { 2 } } } { \mu ^ { 2 } } } \Big ) \Bigg ) e ^ { - p ^ { 2 } / 2 \mu ^ { 2 } } \Big ] .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/480.jpg,\phi = \phi ^ { ( 0 ) } + \phi ^ { ( 1 ) } + \phi ^ { ( 2 ) } + \phi ^ { ( 3 ) } + \phi ^ { ( 4 ) } + \cdots
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/481.jpg,"W _ { k } = - { \frac { 1 } { 2 } } \omega _ { k } ^ { \prime \prime } ( P ) - { \frac { 1 } { 2 } } c ( P ) U _ { k } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/482.jpg,"\Delta = \mathrm { c o n s t } \cdot \exp \left( - \frac { 8 \pi m } { g } \right) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/483.jpg,J _ { \alpha } = \frac { \pi } { 2 e } \frac { \delta S } { \delta \chi ^ { \alpha } } = \rho ^ { \beta } \rho _ { \alpha } \bar { \Psi } ^ { \mu } \partial _ { \beta } X _ { \mu } = 0
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/484.jpg,"h ^ { 1 } ( d P _ { 9 } , { \cal O } _ { d P _ { 9 } } ( 3 \sigma | _ { d P _ { 9 } } - 6 F ) ) | _ { b _ { - 6 } } = 5"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/485.jpg,b _ { \mu \nu } ( \xi ) = { l _ { B } } ^ { - 2 } \varepsilon _ { \mu \nu }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/486.jpg,E _ { i j } ^ { t } \alpha _ { n } ^ { j } = - E _ { i j } \tilde { \alpha } _ { - n } ^ { j }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/487.jpg,"{ \hat { M } } ^ { a b } : = i { \pi } ^ { ( { A ^ { \prime } } } { \frac { \partial } { \partial { \pi } _ { { B ^ { \prime } } ) } } } \epsilon ^ { A B } + i { \bar { \pi } } ^ { ( { A } } { \frac { \partial } { \partial { \bar { \pi } } _ { { B ) } } } } \epsilon ^ { { A ^ { \prime } } { B ^ { \prime } } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/488.jpg,P \exp \oint _ { e q . } \{ \partial _ { i } S ( x ) \ S ^ { - 1 } ( x ) \} d x ^ { i } = - 1 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/489.jpg,"M ^ { 2 } ( q , g ) = M ^ { 2 } ( q ^ { 2 } + g ^ { 2 } ) = \langle \phi \rangle ^ { 2 } ( q ^ { 2 } + g ^ { 2 } ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/490.jpg,k _ { i } = { \kappa } _ { i } \pm i { \sigma } _ { i } ; { \sigma } _ { i } > 0 ; d k _ { i } = d { \kappa } _ { i }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/491.jpg,\mathcal { J } _ { 0 } = - \frac 3 { 4 R } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/492.jpg,"\phi _ { 0 } ( r , \theta ) = \exp \left[ - i p r \cos ( \theta ) \right] = \sum _ { l = - \infty } ^ { + \infty } ( - i ) ^ { | l | } J _ { | l | } ( p r ) \exp ( i l \theta ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/493.jpg,"S = \int d ^ { 2 } x \left[ { \frac 1 2 } { \partial } _ { \mu } { \phi } { \partial } ^ { \mu } { \phi } + { \frac 1 2 } { \lambda } _ { { \mu } { \nu } } \left( { \partial } ^ { \mu } { \phi } - { \epsilon } ^ { { \mu } { \sigma } } { \partial } _ { \sigma } { \phi } \right) \left( { \partial } ^ { \nu } { \phi } - { \epsilon } ^ { { \nu } { \rho } } { \partial } _ { \rho } { \phi } \right) \right] ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/494.jpg,{ \cal A } = { \frac { V } { 2 \pi } } ( 8 \pi ^ { 2 } \alpha ^ { \prime } ) ^ { - 1 / 2 } \int _ { 0 } ^ { \infty } d t \left( { \frac { \pi } { t } } \right) ^ { \frac { 9 } { 2 } } \left[ { \frac { f _ { 3 } ^ { 8 } ( q ) } { f _ { 1 } ^ { 8 } ( q ) } } - { \frac { f _ { 4 } ^ { 8 } ( q ) } { f _ { 1 } ^ { 8 } ( q ) } } \right]
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/495.jpg,"M ( t ) = \frac { 1 } { 6 } \ln \frac { K ( t ) } { L ( t ) } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/496.jpg,"e , r \in Z _ { 2 } : e ^ { 2 } = e , e r = r e = r , r ^ { 2 } = e ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/497.jpg,T _ { A B } { } ^ { C } = ( - 1 ) ^ { A ( B + N ) } E _ { B } { } ^ { N } E _ { A } { } ^ { M } T _ { M N } { } ^ { C }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/498.jpg,"V _ { \mathrm { d i p o l e } } = - { \frac { 1 5 } { 3 2 } } \pi ^ { 3 } i \bar { \Theta } _ { 1 } \Gamma ^ { 0 i j } \Theta _ { 1 } \bar { \Theta } _ { 2 } \Gamma ^ { 0 i k } \Theta _ { 2 } \partial _ { j } \partial _ { k } \left\{ { \frac { 1 } { r ^ { 7 } } } \right\} ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/499.jpg,T _ { 4 } = T _ { 2 } \frac { \mu } { \sqrt { \mu ^ { 2 } - \gamma ^ { 2 } } } - T _ { 1 } \frac { \gamma } { \sqrt { \mu ^ { 2 } - \gamma ^ { 2 } } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/500.jpg,"\tilde { \Phi } _ { 1 } = | \Phi | \cos \alpha \ , t i l d e { \Phi } _ { 2 } = | \Phi | \sin \alpha \ , \| \Phi | = \sqrt { \tilde { \Phi } _ { 1 } ^ { 2 } + \tilde { \Phi } _ { 2 } ^ { 2 } } = \sqrt { \Phi _ { 1 } ^ { 2 } + \Phi _ { 2 } ^ { 2 } } \ ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/501.jpg,"\left[ \bar { Q } Q + m ^ { 2 } \right] \tilde { f } _ { m } = 0 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/502.jpg,"D _ { i j , k l } ^ { a b , c d } = { \frac { Q } { N \sum _ { b = 0 } ^ { K - 1 } \tilde { B } ( b ) } } \sum _ { \tilde { m } = 0 } ^ { P - 1 } \tilde { B } ( i - j - Q \tilde { m } ) \mathrm { e } ^ { i { \frac { 2 \pi } { K } } ( a - c ) ( i - j - Q \tilde { m } ) } \delta _ { a b } \delta _ { c d } \delta _ { i l } \delta _ { j k } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/503.jpg,"+ { \frac { 1 } { 8 \pi } } \left[ c N \mu ^ { 2 } - \ln \mu ^ { 2 } \sum _ { i = 1 } ^ { N } m _ { v , i } ^ { 2 } \right] { \cal A } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/504.jpg,"\left[ \begin{array} { c c } { 0 } & { - \left( { \frac { 2 \pi n } { m _ { l } - m _ { r } } } \right) ^ { 2 } b _ { i } } \\ { b _ { i } } & { 0 } \\ \end{array} \right] , \left[ \begin{array} { c c } { 0 } & { - \left( { \frac { 2 \pi n } { m _ { l } - m _ { r } } } \right) ^ { 2 } b _ { i } ^ { * } } \\ { b _ { i } ^ { * } } & { 0 } \\ \end{array} \right]"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/505.jpg,"\hspace * { 1 . 7 5 i n } = - 4 \pi G \delta ( \sigma - X ) \epsilon _ { a } ^ { b } \frac { 1 } { i } \frac { \partial } { \partial q ^ { b } } \Psi ( \eta , q , X )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/506.jpg,"T _ { x } = p _ { x } + e B y / 2 , T _ { y } = p _ { y } - e B x / 2 , T _ { z } = p _ { z } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/507.jpg,"\lim _ { w \to + 0 } U ( \psi ) = \lim _ { w \to L - 0 } U ( \psi ) = 0 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/508.jpg,S _ { g r } = - { \frac { 1 } { 4 \pi G l ^ { 2 } } } \left[ V _ { R } - { \frac { A _ { R } l } { 2 } } \right] = - { \frac { l } { 4 G } } \left[ { \frac { 4 R } { ( 1 + R ) ^ { 2 } } } - 2 \ln { { \frac { 1 + R } { 1 - R } } } \right] .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/509.jpg,W \propto e ^ { \frac { i g ^ { 2 } ( N - 1 ) { \cal A } } { 4 } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/510.jpg,"x _ { 3 , 4 } = y _ { i } = 0 \quad , \quad x _ { 1 } ^ { 2 } + x _ { 2 } ^ { 2 } = \mu ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/511.jpg,"{ \cal L } = { \textstyle { \frac { 1 } { 4 } } } \sqrt { - h } [ { \cal R } _ { h } + { \textstyle { \frac { 1 } { 8 } } } h ^ { \bar { \mu } \bar { \nu } } \mathrm { T r } ( \partial _ { \bar { \mu } } { \cal M } { \bf L } \partial _ { \bar { \nu } } { \cal M } { \bf L } ) ] ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/512.jpg,C = P _ { \cal E } C P _ { \cal H } + P _ { \cal H } C P _ { \cal E } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/513.jpg,"V ^ { M } \partial _ { M } = \bar { V } ^ { M } \frac { \partial z ^ { L } } { \partial \bar { z } ^ { M } } \frac { \partial \bar { z } ^ { N } } { \partial z ^ { L } } \frac { \partial } { \partial \bar { z } ^ { N } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/514.jpg,\tilde { { \cal A } } ^ { \mu } = \tilde { A } ^ { \mu } - \frac { 1 } { 2 } \epsilon ^ { \mu \gamma \alpha \beta } \int _ { \tilde { P } } ^ { x } \partial _ { \alpha } A _ { \beta } d \xi _ { \gamma }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/515.jpg,E ( r ) = \frac { Q _ { E } } { r ^ { 2 } + r _ { o } ^ { 2 } } ; B ( r ) = \frac { Q _ { M } } { r ^ { 2 } + r _ { o } ^ { 2 } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/516.jpg,\zeta ( \lambda ) = \frac { c _ { - 1 } } { \lambda } + c _ { 0 } \hbar + c _ { 1 } \hbar ^ { 2 } \lambda + \cdots
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/517.jpg,\Psi ^ { \prime \prime } + [ 3 { \cal H } - 2 \frac { \varphi ^ { \prime \prime } } { \varphi ^ { \prime } } ] \Psi ^ { \prime } + [ 4 { \cal H } ^ { \prime } - 4 { \cal H } \frac { \varphi ^ { \prime \prime } } { \varphi ^ { \prime } } ] \Psi - \partial _ { \alpha } \partial ^ { \alpha } \Psi = 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/518.jpg,"f _ { 2 1 } ( L , m , d , z ) = \frac { 1 } { 2 } h ( d ) \int _ { m } ^ { \infty } d s ( s ^ { 2 } - m ^ { 2 } ) ^ { \frac { d - 3 } { 2 } } e ^ { - 2 z s } , \qquad"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/519.jpg,"Q ( \omega , T ) = \frac { g _ { s } \Omega _ { d - 2 } } { 4 \pi } \left( \frac { p } { h f } \right) ^ { d - 1 } \frac { \hbar \omega } { ( e ^ { \beta \hbar \omega } - 1 ) } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/520.jpg,H _ { 0 } = \sum _ { \kappa } \kappa ^ { 2 } \overline { { a } } ( \kappa ) a ( \kappa ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/521.jpg,\{ \xi _ { i } = 0 \} _ { 1 } ^ { r } \rightarrow \{ \Delta _ { i } \} _ { 1 } ^ { r } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/522.jpg,"\tilde { C } _ { \cal A } ^ { \prime } : = ( \tilde { \Phi } , \tilde { \Upsilon } )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/523.jpg,"\tilde { k } = \frac { k } { 2 } \left( \frac { W _ { 3 } } { 2 l G _ { 4 } } \right) ^ { 2 / 3 } , \qquad \tilde { \mu } = \left( \frac { W _ { 3 } } { 2 l G _ { 4 } } \right) ^ { 4 / 3 } \mu ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/524.jpg,\lambda _ { i j k } - \lambda _ { i j l } + \lambda _ { i k l } - \lambda _ { j k l } = 2 \pi n \nonumber
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/525.jpg,"\frac { 1 } { 2 } \sum _ { a } \dot { X } ^ { a } \dot { X } ^ { a } - \frac { 1 } { 2 } \sum _ { a } G _ { i j } [ D ^ { i } , X ^ { a } ] [ D ^ { j } , X ^ { a } ] +"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/526.jpg,"C _ { i j } = [ C _ { i } , C _ { j } ] + \frac { \partial C _ { i } } { \partial t _ { j } } - \frac { \partial C _ { j } } { \partial t _ { i } } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/527.jpg,z _ { 2 } = y _ { 2 } = \frac { \mu \Gamma ^ { 2 } ( \mu ) \eta _ { 1 } ^ { 2 } } { 4 \pi ^ { 2 \mu } } \left[ \Psi ( \mu ) + \frac { 2 } { ( \mu - 1 ) } \right]
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/528.jpg,S _ { E } ^ { v o l } = \sum _ { a } \frac { V _ { a } } { 4 G _ { d } } + \frac { \beta } { 1 6 \pi G _ { d } } \sum _ { a } \int _ { M _ { a } ^ { d - 2 } } F \wedge \Psi - \frac { \beta } { 8 \pi G _ { d } } \int _ { \partial \Sigma _ { \infty } } J _ { D } ^ { i } d \sigma _ { i } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/529.jpg,\oint _ { S _ { i } } { d \phi _ { i } } = 2 \pi .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/530.jpg,\tan
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/531.jpg,"{ \cal { H } } _ { 0 } = \frac { 1 } { 4 } ( { } ^ { * } H ^ { i j } + \frac { 1 } { 2 } P ^ { i j } ) ( { } ^ { * } H _ { i j } + \frac { 1 } { 2 } P _ { i j } ) - 2 { } ^ { * } H ^ { 0 i } { } ^ { * } H _ { 0 i } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/532.jpg,"\left( { \frac { b ^ { \prime } } { b } } \right) ^ { 2 } = { \frac { 8 \pi G } { 3 } } \left[ { \frac { 1 } { 2 } } \phi ^ { 2 } - V \right] + { \frac { 1 } { b ^ { 2 } } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/533.jpg,"2 \mathrm { I m } { \cal L } ^ { ( 1 ) } = ( 2 s + 1 ) \frac { ( e \epsilon ) ^ { 2 } } { ( 2 \pi ) ^ { 3 } } \sum _ { n = 1 } ^ { \infty } \frac { ( \pm 1 ) ^ { n + 1 } } { n ^ { 2 } } e ^ { - \pi n / \beta } , \qquad \beta = \frac { e \epsilon } { m ^ { 2 } } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/534.jpg,\frac { d \omega _ { i } } { d p } | _ { p = p _ { f } } > 0 \quad ( < 0 )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/535.jpg,1 = \int d \mu ( \lambda ) | \lambda > < \lambda |
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/536.jpg,"V | _ { C } ( - 1 ) = V | _ { C } \otimes { \cal O } _ { C } ( - 1 ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/537.jpg,"U _ { K } = \exp \left[ K , \overline { { \Delta } } \right]"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/538.jpg,d s ^ { 2 } = d r ^ { 2 } + \rho \lambda ^ { 2 } + r ^ { 2 } d \Omega _ { 5 } ^ { 2 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/539.jpg,"F = F ^ { ( 0 ) } + F ^ { ( 1 ) } = - S \left[ T U - \sum _ { i } ( V ^ { i } ) ^ { 2 } \right] + h ( T ^ { m } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/540.jpg,"L _ { - n _ { 1 } } ^ { \lambda _ { 1 } } . . . L _ { - n _ { p } } ^ { \lambda _ { p } } G _ { - r _ { 1 } } ^ { \rho _ { 1 } } . . . G _ { - r _ { q } } ^ { \rho _ { q } } \vert \chi _ { j } ^ { j } \rangle { } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/541.jpg,"\delta P _ { \mu ( 1 ) } ^ { A } = \frac { 1 } { 2 \pi \alpha ^ { \prime } } \sqrt { - \bar { G } } \left( ( \bar { D } _ { i j } ^ { A } \Phi _ { ( 1 ) } ^ { j } ) \bar { n } _ { \mu } ^ { i } + ( \bar { \Omega } _ { i } ^ { A B } - \bar { G } ^ { A B } \bar { \Omega } _ { i C } ^ { C } ) \Phi _ { ( 1 ) } ^ { i } \bar { x } _ { \mu , B } \right)"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/542.jpg,"\left( \hat { q } _ { i } ^ { a } \right) ^ { \dagger } = \hat { q } _ { i } ^ { a } , \left( \hat { p } _ { i } ^ { a } \right) ^ { \dagger } = \hat { p } _ { i } ^ { a } , \left[ \hat { q } _ { i } ^ { a } , \hat { p } _ { j } ^ { b } \right] = i \hbar \delta ^ { a b } \delta _ { i j } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/543.jpg,"{ \lbrack 4 \pi T \rbrack } ^ { - { \frac { D } { 2 } } } \mathrm { d e t } ^ { - { \frac { 1 } { 2 } } } \biggl [ { \frac { \mathrm { t a n } ( e F T ) } { e F T } } \biggr ] \quad . \,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/544.jpg,W ( A _ { g } ) \simeq \ln \det ( D _ { 0 } ^ { + } g ^ { - 1 } D ( A ) g ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/545.jpg,"x _ { 1 } ^ { 4 } = \phi \pm \sqrt { \phi ^ { 2 } - [ 1 + ( x _ { 3 } ^ { 2 } - \phi ) ^ { 2 } + ( x _ { 4 } ^ { 2 } - \phi ) ^ { 2 } + ( x _ { 5 } ^ { 2 } - \phi ) ^ { 2 } ] } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/546.jpg,"g ( z ) = \sum _ { i j } \frac { \sigma ( z + s _ { i j } ) } { \sigma ( z ) \sigma ( s _ { i j } ) } e ^ { - \frac { \zeta ( \pi ) } { \pi } z s _ { i j } } e ^ { i s _ { i j } \frac { z - \bar { z } } { \Delta - \overline { \Delta } } } Y _ { i j } E _ { i j } = \sum _ { i j } W ( z , s _ { i j } ) Y _ { i j } E _ { i j } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/547.jpg,"\Phi _ { 0 } = F ( 1 ) = F ( 0 ) + \sum _ { n = 1 } ^ { \infty } \frac { 1 } { n ! } \frac { d ^ { n } F } { d ^ { n } t } ( 0 ) \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/548.jpg,"\left( U _ { n } - 2 \eta + U _ { n } ^ { - 1 } \right) \Delta _ { F } ^ { n } = - \Gamma \delta _ { n } , \Gamma \equiv \beta ^ { - 1 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/549.jpg,"K ( x , x ^ { \prime } ; s ) = \sum _ { \sigma } \Psi _ { \sigma } ( x ) \Psi _ { \sigma } ^ { * } ( x ^ { \prime } ) e ^ { - s \sigma ^ { 2 } } \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/550.jpg,[ \frac { 1 } { u ^ { 3 } } \partial _ { u } ( u ^ { 3 } \partial _ { u } ) - \frac { N k ^ { 2 } } { u ^ { 2 } } - k ^ { 2 } - \frac { l ( l + 2 ) } { u ^ { 2 } } ] \tilde { \varphi } ( u ) = 0
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/551.jpg,"z _ { i } \rightarrow ( - 1 ) ^ { \epsilon _ { i } } z _ { i } + { \frac { 1 } { 2 } } \delta _ { i } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/552.jpg,\delta _ { \alpha \alpha ^ { \prime } } = \delta ^ { m _ { 1 } l _ { 1 } } \delta _ { m _ { 2 } l _ { 2 } } . . . \delta _ { m _ { n - 1 } l _ { n - 1 } } = \delta ^ { m _ { 1 } l _ { 1 } } \delta _ { a a ^ { \prime } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/553.jpg,"F = \hat { F } \frac { 1 } { 1 - \theta \hat { F } } , \hat { F } = \frac { 1 } { 1 + F \theta } F ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/554.jpg,"\tilde { P } _ { 0 } = j _ { 1 } = \hbar k _ { 0 } , \tilde { P } _ { 3 } = j _ { 2 } = \hbar k _ { 3 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/555.jpg,"\ddot { \phi } + 3 H \dot { \phi } = - m ^ { 2 } \phi \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/556.jpg,"L ( \lambda ) | a , \theta > = | a , \theta + \lambda >"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/557.jpg,X ^ { \mu } = x ^ { \mu } + p ^ { \mu } \tau + i \sum _ { n \neq 0 } \frac { 1 } { n } { \alpha } _ { n } ^ { \mu } e ^ { - i n \tau } \cos { n \sigma }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/558.jpg,"\langle P ^ { \prime } | J ^ { \mu } ( 0 ) | P \rangle = \bar { u } ( P ^ { \prime } ) \Big [ F _ { 1 } ( q ^ { 2 } ) \gamma ^ { \mu } + F _ { 2 } ( q ^ { 2 } ) { \frac { i } { 2 M } } \sigma ^ { \mu \alpha } q _ { \alpha } \Big ] u ( P ) \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/559.jpg,"\frac { 1 } { 2 \mu } P ^ { 2 } = \frac { 1 } { 2 \mu } \tilde { p } ^ { 2 } + \tilde { H } _ { I } ^ { ( q ) } ( \tilde { x } , \tilde { p } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/560.jpg,"\sigma _ { l } ^ { T } = \lim _ { k \rightarrow 0 } \rho _ { l } ^ { T } ( \omega , k ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/561.jpg,c _ { 2 } ( V ^ { 2 } ) - \frac { 1 } { 2 } c _ { 2 } ( T X ) = 9 6 F
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/562.jpg,D _ { \mu } D ^ { \mu } \varphi + m \varphi = 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/563.jpg,F _ { \mathrm { s } } [ f ( y ) ] = f ( y ) \left[ y f ^ { \prime } ( y ) - \frac { n } { 2 } f ( y ) \right] .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/564.jpg,"f _ { i + 1 } ( t , z ) = - 2 i ( m _ { i } z ^ { m _ { i } - 1 } t + h _ { i + 1 } ( z ) )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/565.jpg,"\chi _ { \alpha } ^ { A } ( F ) = \int _ { H } d z \int _ { N _ { A } } d n F ( z \xi _ { A } , z n z ^ { - 1 } ) \chi _ { \alpha } ( n ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/566.jpg,"h _ { \alpha \beta } = \partial _ { \alpha } X ^ { \mu } \partial _ { \beta } X ^ { \nu } \eta _ { \mu \nu } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/567.jpg,K ( u ) = V _ { 1 } ( u ) y _ { 1 } + V _ { 2 } ( u ) y _ { 2 } + V _ { 3 } ( u ) y _ { 3 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/568.jpg,"g _ { \mu \nu } = \eta _ { \mu \nu } + h _ { \mu \nu } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/569.jpg,"\eta = { \frac { \lambda ^ { 6 } } { \kappa ^ { 4 } } } = ( 4 \pi ) ^ { 5 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/570.jpg,"N _ { I J } = \bar { F } _ { I J } + 2 i \frac { ( I m F _ { I K } X ^ { K } ) ( I m F _ { J L } X ^ { L } ) } { ( X ^ { I } I m F _ { I J } X ^ { J } ) } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/571.jpg,\{ J _ { i j } \} = \left( \begin{array} { c c } { 0 } & { I } \\ { - I } & { 0 } \\ \end{array} \right) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/572.jpg,"\bar { Z } _ { n } = \int [ d \mu ( \tau , \epsilon ) ] _ { n } Z _ { n } \,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/573.jpg,\Psi = \frac { \Phi } { \left( e ^ { 2 \omega X } + e ^ { - 2 \omega T } \right) ^ { 1 / 4 } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/574.jpg,\lambda ^ { 2 } = \frac { \omega ^ { 2 } } { c ^ { 2 } } - k _ { z } ^ { 2 } { . }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/575.jpg,"X _ { 0 } ^ { A { A ^ { \prime } } } : = i { \sqrt 2 } ( \sigma ^ { A } \beta ^ { A ^ { \prime } } - \varsigma ^ { A } \alpha ^ { A ^ { \prime } } ) = - i { \sqrt 2 } ( { \bar { \sigma } } ^ { A ^ { \prime } } { \bar { \beta } } ^ { A } - { \bar { \varsigma } } ^ { A ^ { \prime } } { \bar { \alpha } } ^ { A } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/576.jpg,\psi _ { a } : { \cal M } _ { a } \to \tilde { { \cal M } } _ { a } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/577.jpg,"[ a _ { 1 } ( x ) , a _ { 2 } ( y ) ] = i { \frac { \hbar } { \mu } } \delta ( \vec { x } - \vec { y } ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/578.jpg,"\mathrm { G r } _ { 2 , 1 } = \left( \begin{array} { c c c c c } { \sqrt { Q } } & { 1 } & { 0 } & { \alpha _ { 1 } } \\ { 1 } & { \sqrt { Q } } & { 1 } & { z } \\ { 0 } & { 1 } & { \sqrt { Q } } & { 1 } \\ { \alpha _ { 1 } ^ { - 1 } } & { z } & { 1 } & { \sqrt { Q } } \\ \end{array} \right)"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/579.jpg,\rho _ { \pm } = \frac { \tilde { R } _ { \pm } } { r }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/580.jpg,< { \psi _ { F } } _ { \alpha _ { i } } | { \psi _ { F } } _ { \alpha _ { j } } > _ { t } = < \alpha _ { i } | \alpha _ { j } > = \delta _ { i j }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/581.jpg,"Q _ { n } ^ { + } = 2 ^ { - \frac n 2 } Z ^ { n } \theta ^ { + } , \qquad Q _ { n } ^ { - } = 2 ^ { - \frac n 2 } \bar { Z } ^ { n } \theta ^ { - } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/582.jpg,"d s ^ { 2 } = e ^ { - 2 k | y | - 2 c } \eta _ { \mu \nu } d x ^ { \mu } d x ^ { \nu } + d y ^ { 2 } . \,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/583.jpg,\delta v ^ { ( 4 ) } = { \textstyle \frac { m } { 2 } } \Delta ^ { ( 4 ) } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/584.jpg,1 - \frac { n _ { 0 } ( v _ { { \bf { q } } } q ^ { 2 } ) / m } { \omega ^ { 2 } } \{ 1 + \frac { 1 } { \omega ^ { 2 } } [ \frac { 3 } { 5 } ( q v _ { F } ) ^ { 2 } - \epsilon _ { { \bf { q } } } ^ { 2 } ] \} = 0
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/585.jpg,A _ { m } = \frac { 1 } { 4 } \sum _ { n = 1 } ^ { m - 1 } \sum _ { s = 1 } ^ { m - 1 } \langle 0 \mid { \alpha } _ { m - n } \cdot { \alpha } _ { n } { \alpha } _ { s - m } \cdot { \alpha } _ { - s } \mid 0 \rangle
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/586.jpg,\| \zeta \| ^ { 2 } = \zeta { \zeta } ^ { + } = ( \zeta ^ { 0 } ) ^ { 2 } - ( \zeta ^ { 1 } ) ^ { 2 } - ( \zeta ^ { 3 } ) ^ { 2 } - ( \zeta ^ { 4 } ) ^ { 2 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/587.jpg,\delta _ { \Lambda } \Phi = \sum _ { k = 1 } ^ { r } \ln \left| \Lambda _ { 1 } ^ { 1 } \Lambda _ { 2 } ^ { 2 } \cdots \Lambda _ { k } ^ { k } \right| ^ { s _ { k } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/588.jpg,"\langle \Omega | \left[ V ^ { \prime } ( \hat { M } ) - { \frac { \delta } { \delta \hat { M } } } \right] \cdot f ( \hat { M } ) | \Omega \rangle = 0 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/589.jpg,"\begin{array} { r l } { \displaystyle \Delta ^ { + } = } & { 1 + \displaystyle \frac { 1 } { 4 } \displaystyle \frac { ( \gamma / \pi ) ^ { 2 } } { 1 - \gamma / \pi } = \displaystyle \frac { 1 } { 2 } \left( \displaystyle \frac { 1 } { 2 R } + R \right) ^ { 2 } , } \\ { \Delta ^ { - } = } & { \displaystyle \frac { 1 } { 4 } \displaystyle \frac { ( \gamma / \pi ) ^ { 2 } } { 1 - \gamma / \pi } = \displaystyle \frac { 1 } { 2 } \left( \displaystyle \frac { 1 } { 2 R } - R \right) ^ { 2 } . } \\ \end{array}"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/590.jpg,"u _ { 2 } ^ { * } ( q ^ { + } , { \bf q } _ { \perp } ) = f ( q ^ { + } ) { \bf q } _ { \perp } ^ { 2 } , \zeta = { \frac { 1 } { \eta } } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/591.jpg,\exp \left( i \frac { e } { \hbar c } \oint \vec { A } \cdot d \vec { x } \right) = \exp \left( i \frac { e \Phi } { \hbar c } \right) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/592.jpg,"[ D , a ] = 0 , \qquad [ D , d ] = 0 , \qquad \{ D , b \} = 0 , \qquad \{ D , c \} = 0 ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/593.jpg,S _ { \rho } = \left( \begin{array} { c c } { - 1 } & { - n } \\ { 0 } & { - 1 } \\ \end{array} \right) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/594.jpg,\frac { \partial ( \eta ) } { \partial ( x ) } = \kappa ^ { n + 1 }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/595.jpg,( \triangle q ) ^ { 2 } ( \triangle p ) ^ { 2 } = \frac { \hbar ^ { 2 } } { 4 } + \frac { B ^ { 2 } ( t ) } { A ^ { 2 } ( t ) \xi ^ { 4 } ( t ) } = \frac { \hbar ^ { 2 } } { 4 } \frac { A ( t ) C ( t ) } { \kappa } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/596.jpg,"\iota ( \phi ) ( u ) = \langle \vartheta ( u + \cdot ) \vartheta ( u - \cdot ) , \phi \rangle ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/597.jpg,"\Omega = G ^ { - 1 } d G = i \Omega ^ { a } P _ { a } + i \Omega _ { a } ^ { b } P _ { b } ^ { a } + i \Omega _ { a _ { 1 } a _ { 2 } } ^ { b } P _ { b } ^ { a _ { 1 } a _ { 2 } } + . . . ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/598.jpg,"\Delta _ { B C _ { n } } = \Delta _ { L } \cup \Delta \cup \Delta _ { S } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/599.jpg,\chi _ { 0 } = \left( \frac { \l } { 2 \mu } \right) ^ { 1 / 2 } a .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/600.jpg,"S = { \frac { A } { 4 } } \sim \left( Z ( q ) \right) ^ { 3 / 2 } \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/601.jpg,"a ^ { \prime } = \frac { 2 R _ { g } ^ { 2 } W ( 1 - f ^ { 2 } ) \exp ( - 4 \Phi ) } { \Delta \sigma } + a _ { 1 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/602.jpg,"r _ { \delta } ( x ) = x / ( x + \delta ) \quad ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/603.jpg,{ \cal L } _ { \phi } = \int _ { \Sigma } Q ^ { 2 } ( { \cal T } ) \partial \varphi { \overline { \partial } \varphi } + \int _ { \Sigma } R ^ { ( 2 ) } Q ^ { 2 } ( { \cal T } ) \varphi + \dots
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/604.jpg,"i \overline { { \psi } } \gamma ^ { \mu } \psi \longleftrightarrow - \frac { 1 } { \sqrt { \pi } } \epsilon ^ { \mu \nu } \partial _ { \nu } \Lambda , i \overline { { \psi } } \gamma ^ { \mu } \gamma _ { 3 } \psi \longleftrightarrow \frac { 1 } { \sqrt { \pi } } \partial ^ { \mu } \Lambda ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/605.jpg,"{ \tilde { \Psi } } _ { L } \rightarrow \exp ( \frac { 1 } { 2 } \alpha ( x ) ) { \tilde { \Psi } } _ { L } , \qquad { \tilde { \overline { \Psi } } } _ { L } \rightarrow \exp ( \frac { 1 } { 2 } \alpha ( x ) ) { \tilde { \overline { \Psi } } } _ { L } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/606.jpg,S = \pi \prod _ { i = 1 } ^ { n } q _ { i } ^ { 2 / n } = \pi \prod _ { i = 1 } ^ { n } | \hat { q } _ { i } | ^ { 2 / n } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/607.jpg,A _ { \mu } \equiv \vec { A } _ { \mu } \cdot \vec { T } \equiv \sum _ { a } A _ { \mu } ^ { a } T ^ { a }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/608.jpg,"\mathrm { d i m . } { \cal M } ( \Sigma , \omega ) = \mathrm { d i m . } { \cal M } ( \Sigma ) + \mathrm { d i m . } { \cal M } ( \omega ) , { } \mathrm { d i m . } { \cal M } ( \omega ) = b _ { 1 } ( K ^ { \ast } ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/609.jpg,"\Lambda _ { 4 } = f ^ { \prime } f | _ { x _ { L } ^ { 5 } } ^ { x _ { R } ^ { 5 } } + \langle \Lambda _ { 4 } ( x ^ { 5 } ) \rangle ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/610.jpg,\Phi _ { \sigma } ( \varepsilon _ { \sigma } ) = \frac { \omega _ { \sigma } } { d ( \sigma ) } { \bf 1 }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/611.jpg,"\gamma _ { 1 , 1 } ^ { 6 } = 7 2 0 , \gamma _ { 2 , 1 } ^ { 6 } = 6 9 8 4 , \gamma _ { 3 , 1 } ^ { 6 } = 2 3 3 2 8 , \gamma _ { 4 , 1 } ^ { 6 } = 3 9 6 7 2 , \gamma _ { 5 , 1 } ^ { 6 } = 4 5 9 3 6 \nonumber"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/612.jpg,\frac { 1 } { g ( v ) ^ { 2 } } = \frac { L _ { 6 } ( v ) } { g _ { s } l _ { s } } \ \sim \ \log | v | \ .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/613.jpg,f _ { m } ^ { \mu } = \int f ^ { \mu } ( \kappa ) v _ { m } ( \kappa ) d \kappa .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/614.jpg,A ( \lambda ) = 2 ^ { - \frac { \mu } { 2 } } \left( \sqrt { 2 \theta _ { 1 } } \lambda \right) ^ { 2 \mu }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/615.jpg,"\tilde { W } [ \rho , G _ { 0 0 } ] = - \sum _ { j } \frac { c _ { j } } { 2 } \mathrm { T r } \ln \left( \frac { \tilde { \mathcal { O } } + \rho M _ { j } ^ { 2 } } { \tilde { \mathcal { O } } } \right) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/616.jpg,"{ \chi _ { A } = \psi _ { 9 } + \Gamma ^ { 9 } \Gamma ^ { 1 1 } \psi _ { 1 1 } , }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/617.jpg,"P _ { \alpha } ( t ) = P _ { \alpha } ( 0 ) = \int \varepsilon _ { k } k _ { \alpha } b _ { A } ^ { \ast } ( K ) b _ { A } ( K ) d K + O _ { 3 , 3 } , \qquad \alpha = 1 , 2 , 3"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/618.jpg,t r \{ \gamma _ { 5 } f ( \frac { ( \gamma _ { 5 } D ) ^ { 2 } } { M ^ { 2 } } ) \} \sim ( \frac { 1 } { a } ) ^ { 4 } f ( \frac { 1 } { ( a M ) ^ { 2 } } ) \rightarrow 0
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/619.jpg,"S _ { 1 } ^ { T D } = \beta \left. { \frac { \partial { W _ { 1 } ( \beta , r _ { B } ) } } { \partial \beta } } \right| _ { r _ { B } } - W _ { 1 } ( \beta , r _ { B } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/620.jpg,"V ( R ) = M _ { 0 } ^ { 2 } R + ( D - 2 ) ( E _ { C } ^ { ( 1 ) } + E _ { C } ^ { ( 2 ) } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/621.jpg,"d s _ { 7 } ^ { 2 } = G _ { m n } ( x , y ) d y ^ { m } d y ^ { n } = \sqrt { \Delta ( r , \theta ) a ( r ) } b ( r ) ^ { 2 } L ^ { 2 } d s _ { E L ( 7 ) } ^ { 2 } ( a ( r ) , b ( r ) ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/622.jpg,"K e ( q , h ; z ) = \frac { k ( q , h ) } { k ( - q , - h ) } K e ( - q , - h ; - z ) , \frac { k ( q , h ) } { k ( - q , - h ) } = e ^ { i \frac { \pi } { 2 } ( q + 1 ) }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/623.jpg,"c _ { 1 } ( t ) = \frac { 1 } { \sqrt { 1 - { \dot { \rho } } ^ { 2 } ( t ) } } \left( - \frac { 1 } { \rho ( t ) } + \frac { 1 } { 2 } \: \frac { { \ddot { \rho } } ( t ) } { 1 - { \dot { \rho } } ^ { 2 } ( t ) } \right) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/624.jpg,"\psi = e ^ { - i k r \cos ( \theta ^ { \prime } - \theta ) - i \alpha ( \theta ^ { \prime } - \theta ) } + \displaystyle \frac { e ^ { i k r } } { \sqrt { r } } f ( \theta ^ { \prime } - \theta ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/625.jpg,"\rho = \frac { \alpha ^ { 2 } \beta M ^ { 2 } } { 3 2 \pi ^ { 2 } r ^ { 4 } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/626.jpg,"S [ x , \xi ] = \int _ { 0 } ^ { T } d \tau ( - \frac { 1 } { 2 } \dot { x } ^ { 2 } + i \xi \dot { \xi } - i e F _ { \mu \nu } \xi ^ { \mu } \xi ^ { \nu } - \frac { 1 } { T } \dot { x } \xi \chi ) - i \xi ( 0 ) \xi ( T ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/627.jpg,"i \hbar \frac { d \psi ( t ) } { d t } = \left( H - i { \bf 1 } \Gamma \right) \psi ( t ) , H ^ { \dagger } = H ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/628.jpg,"\frac { ( \eta \cdot \zeta ) D _ { 5 } } { 2 P _ { + } } \chi _ { \eta } + \kappa _ { 5 } \frac { ( \eta \cdot \zeta ) ^ { 2 } } { 2 P _ { + } } B = 0 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/629.jpg,"S [ H \ , B ] = \int d ^ { 4 } x \left[ { \frac { 1 } { 1 2 } } H _ { \lambda \mu \nu } H ^ { \lambda \mu \nu } - { \frac { 1 } { 6 } } H ^ { \lambda \mu \nu } \partial _ { [ \lambda } B _ { \mu \nu ] } + { \frac { m ^ { 2 } } { 4 } } B _ { \mu \nu } B ^ { \mu \nu } \right]"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/630.jpg,\biggl ( \frac { S } { \Lambda ^ { 3 } } \biggr ) ^ { \frac { 2 N _ { c } - N _ { f } } { N _ { f } } } - \biggl ( \frac { S } { \Lambda ^ { 3 } } \biggr ) ^ { \frac { N _ { c } - N _ { f } } { N _ { f } } } + \frac { \Lambda ^ { 3 } } { m ^ { 2 } } = 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/631.jpg,"\left[ m \varphi _ { k } ( x ) , E _ { n } ^ { * } ( x ^ { \prime } ) \right] _ { t = t ^ { \prime } } = i \delta _ { k n } \delta ( \mathbf { x } - \mathbf { x } ^ { \prime } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/632.jpg,"\{ K ^ { a } ( x ) - i \partial _ { x } ^ { \mu } \frac \delta { \delta u ^ { a \mu } ( x ) } \} Z [ J _ { \mu } ^ { a } , \cdots , \zeta ] = 0"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/633.jpg,M _ { 1 } = - { \frac { 1 } { 4 \pi } } \int d ^ { 2 } x \left\lbrace { \frac { ( a - 1 ) } { 2 } } \partial _ { \mu } \theta \partial ^ { \mu } \theta + \theta \left\lbrack ( a - 1 ) \partial _ { \mu } A ^ { \mu } + \epsilon ^ { \mu \nu } \partial _ { \mu } A _ { \nu } \right\rbrack \right\rbrace
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/634.jpg,"\frac { 1 } { q ^ { + } } = \frac { 2 q ^ { - } } { q ^ { 2 } + \hat { q } ^ { 2 } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/635.jpg,"A _ { \alpha } ^ { \mu } : = \overline { { L } } _ { \alpha } ^ { i } L _ { i } ^ { \mu } = - \overline { { L } } _ { \alpha } ^ { a } L _ { a } ^ { \mu } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/636.jpg,\epsilon ^ { m n } \displaystyle \frac { \partial } { \partial x _ { m } } \left[ L _ { j k } ^ { n } \frac { \partial ^ { 2 } W } { \partial x _ { j } \partial x ^ { l } } + M _ { j l } ^ { n } \frac { \partial ^ { 2 } W } { \partial x ^ { k } \partial _ { j } } + \frac { i } { 2 } H ^ { n j } \frac { \partial ^ { 3 } W } { \partial x ^ { j } \partial x ^ { k } \partial x ^ { l } } \right] = 0
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/637.jpg,\partial _ { a } ( e ^ { - 2 \phi } ) = - \frac { 1 } { 2 } { H _ { a b } } ^ { b } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/638.jpg,"\phi _ { \eta } ( q _ { z } , q _ { 0 } ) = \left( { \frac { 1 } { \pi } } \right) ^ { 1 / 2 } \exp \left\{ - { \frac { 1 } { 2 } } \left( e ^ { - 2 \eta } q _ { u } ^ { 2 } + e ^ { 2 \eta } q _ { v } ^ { 2 } \right) \right\} ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/639.jpg,a _ { k } \Phi _ { \eta } = \sqrt { k \eta _ { k } } \Phi _ { \eta - e _ { k } } \mathrm { u n d } a _ { - k } \Phi _ { \eta } = \sqrt { k ( \eta _ { k } + 1 ) } \Phi _ { \eta + e _ { k } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/640.jpg,\xi _ { 2 } - \xi _ { 1 } = \xi _ { 4 } - \xi _ { 3 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/641.jpg,"\delta _ { \epsilon } \phi ^ { i } = \epsilon ^ { \alpha } R _ { \alpha } ^ { \ i } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/642.jpg,"H _ { \ell } = \frac { \phi ^ { 2 } } { 2 } 2 n = n ( 2 \pi N ) ^ { 2 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/643.jpg,\langle \Omega \rangle \sim \sum _ { m = 0 } ^ { \infty } a ^ { - m \gamma } \omega _ { m } ( z )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/644.jpg,"\int _ { 0 } ^ { \infty } d s \sin s f ( s / z , y ) = \sum _ { k = 0 } ^ { \infty } \int _ { - \pi } ^ { \pi } d s ( - \sin s ) f \left( \frac { \pi ( 2 k + 1 ) + s } z , y \right) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/645.jpg,"M _ { A D M } = { \frac { \Omega _ { 8 - p } } { 2 \kappa _ { 1 0 } ^ { 2 } } } ( 7 - p ) R _ { p } ^ { 7 - p } { \mathrm { V o l } } _ { p } \quad ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/646.jpg,\delta ^ { m } ( \vec { x } ) = \alpha _ { m } ^ { - 1 } \delta ( | \vec { x } | ^ { 2 } ) | \vec { x } | ^ { 2 - m } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/647.jpg,Y _ { \kappa \lambda \mu } = Y _ { \kappa \lambda \mu } ( \Omega ) \equiv e ^ { - 3 \Omega } b _ { \kappa } ^ { \alpha } b _ { \lambda } ^ { \beta } b _ { \mu } ^ { \gamma } H _ { \alpha \beta \gamma } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/648.jpg,"e ^ { 2 \pi i \alpha _ { j } } \neq 1 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/649.jpg,"V _ { c } ^ { \prime } ( x ) = \frac { 1 } { T _ { c } } ( x ^ { 3 } - 4 c _ { 1 } x ^ { 2 } + 2 c _ { 2 } x + 8 c _ { 1 } ) , \quad T _ { c } = 1 + 4 c _ { 1 } ^ { 2 } ; \qquad V _ { c } ( 0 ) = 0 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/650.jpg,"\widetilde { v } ( q ) = \widetilde { v } ( 0 ) - \alpha q ^ { 2 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/651.jpg,"p = - q + f + \frac { 1 } { 4 } \log 3 , \qquad \qquad x = 3 q + 2 f - \frac { 1 } { 4 } \log 1 2 ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/652.jpg,\langle r _ { > } \rangle \sim \sum _ { n = 1 } ^ { \infty } \frac { 1 } { n } \langle N _ { n } \rangle .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/653.jpg,\sqrt { - G } { \cal R } _ { G } = \sqrt { - g } { \cal C } ^ { \frac { 3 } { 2 } } \left[ { \cal R } _ { g } - 4 { \frac { { \cal C } ^ { \prime \prime } } { \cal C } } + \left( { \frac { { \cal C } ^ { \prime } } { \cal C } } \right) ^ { 2 } \right] .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/654.jpg,"\begin{array} { c c c } { \phi _ { 1 } = 3 D A _ { 1 } = 3 D A _ { 2 } = 3 D 0 } & { , } & { \phi _ { 2 } ( x ) = 3 D \phi _ { 2 } ( x _ { 3 } , x _ { 4 } = ) } \\ { A _ { 3 } ( x ) = 3 D A _ { 3 } ( x _ { 3 } , x _ { 4 } ) } & { ; } & { A _ { 4 } ( x ) = 3 D A _ { 4 } ( x _ { 3 } , x _ { 4 } ) } \\ \end{array}"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/655.jpg,\mathcal { A } ^ { S O ( 3 ) } \equiv \left( \begin{array} { c c } { \mathcal { A } _ { i } \frac { \sigma _ { i } } { 2 } } & { 0 } \\ { 0 } & { \mathcal { A } _ { i } \frac { \sigma _ { i } } { 2 } } \\ \end{array} \right) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/656.jpg,"S _ { i n t } = 2 \pi \sigma ^ { i j k } \int \sqrt { G } d z d ^ { d } p d ^ { d } q d ^ { d } k \delta ( p + q + k ) \phi _ { i } ( p , z ) \phi _ { j } ( q , z ) \phi _ { k } ( k , z )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/657.jpg,m u _ { + } ^ { + } { u _ { + } ^ { + } } ^ { \dagger } \gamma ^ { 4 } = \frac { 1 } { 2 } [ m \cdot 1 - m \sinh { ( w ) } n ^ { i } \gamma ^ { i } + m \cosh { ( w ) } \gamma ^ { 4 } ] + \hspace { 4 c m }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/658.jpg,"\frac { A } { 2 \pi } \int d ^ { 2 } x \epsilon ^ { \mu \nu } \partial _ { \mu } \omega _ { \nu } + \frac { B } { 2 \pi } \int d ^ { 2 } x \epsilon ^ { \mu \nu } \partial _ { \mu } a _ { \nu } = ( 2 - 2 g ) A + \frac { B V } { 2 \pi } = N ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/659.jpg,S = { \cal C S } \left( \frac { C + A } { 2 } \right) - { \cal C S } \left( \frac { C - A } { 2 } \right) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/660.jpg,m _ { 0 } \equiv \left| H _ { 0 } \right| = N \frac { V ^ { ( N ) } } { \overline { { V } } _ { 0 } ^ { ( N - 1 ) } } = \left( \prod _ { i = 1 } ^ { N } m _ { i } \right) \sqrt { \frac { D ^ { ( N ) } } { \Lambda ^ { ( N ) } } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/661.jpg,"\tilde { T } _ { \mu \nu } ( k ) = \left( \frac { k _ { \mu } k _ { \nu } } { k ^ { 2 } } - g _ { \mu \nu } \right) \Pi ( k ^ { 2 } ) - \frac { 1 } { 2 \pi } g _ { \mu \nu } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/662.jpg,{ \cal L } ^ { ( 3 - + ) } = - \alpha \{ \partial ^ { * 2 } ( { \cal A } _ { -- } - i \partial _ { - } { \cal A } _ { - } ^ { \prime } ) h + \mathrm { c . c . } \} { \cal A } _ { + + } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/663.jpg,{ \cal P } _ { n } \approx \frac { \left[ 2 \sqrt { T ^ { 2 } - 4 d } + 4 d - 1 \right] ^ { n + \frac 1 2 } + ( - 1 ) ^ { n } \left[ 2 \sqrt { T ^ { 2 } - 4 d } - 4 d + 1 \right] ^ { n + \frac 1 2 } } { \sqrt { \pi n } ( 1 + 2 T + 4 d ) ^ { n + \frac 1 2 } \left( T ^ { 2 } - 4 d \right) ^ { \frac 1 4 } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/664.jpg,"\int _ { 0 } ^ { \infty } d p p ^ { 2 } \left[ \hat { \Pi } ( p ^ { 2 } ) - \frac { e ^ { 2 } } { 8 p } \right] = 0 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/665.jpg,"\left( d , c \right) = \left( 1 0 , 0 \right) , \left( 9 , 1 \right) , \left( 8 , 2 \right) , \left( 6 , 4 \right)"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/666.jpg,p _ { e f f } ( \phi ) = \frac { 1 } { 4 } \left( 1 + \frac { b _ { k } } { b _ { g } } \right) \dot { \phi } ^ { 2 } - \frac { \Delta ^ { 2 } } { 1 6 b _ { g } M ^ { 4 } } \dot { \phi } ^ { 4 } e ^ { 2 \alpha \phi / M _ { p } } - \frac { M ^ { 4 } } { 4 b _ { g } } e ^ { - 2 \alpha \phi / M _ { p } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/667.jpg,\Big [ { \frac { M \omega _ { D } } { 2 } } \Big ( - 1 + { \sqrt { 1 + { \frac { ( D - 1 ) Q ^ { 2 } } { 2 ( D - 2 ) M ^ { 2 } } } } } \Big ) \Big ] ^ { \frac { 1 } { D - 2 } } \le a \le \infty .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/668.jpg,"\Gamma d ^ { p + 1 } \xi = - e ^ { - \phi } { \cal L } _ { D B I } ^ { - 1 } e ^ { \cal F } \wedge X | _ { v o l } , \qquad X = \oplus _ { n } \Gamma _ { ( 2 n ) } K ^ { n } I ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/669.jpg,"f \star g = \exp \Bigg [ \hbar \Bigg ( \frac { \partial } { \partial q } \frac { \partial } { \partial \tilde { p } } - \frac { \partial } { \partial p } \frac { \partial } { \partial \tilde { q } } \Bigg ) \Bigg ] f ( { \bf x } ) g ( { \bf \tilde { x } } ) \vert _ { { \bf x } = { \bf \tilde { x } } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/670.jpg,"d e g ( J ^ { + } ( n ) ) = + 1 \ , \ d e g ( J ^ { 0 } ( n ) , J _ { 1 } ^ { 0 } ( n ) , K ) = 0 \ , \ d e g ( J ^ { - } ( n ) ) = - 1 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/671.jpg,"\hat { E } ( x ) | 0 \rangle = 0 , \quad \hat { \Pi } _ { i } ( x , y ) | 0 \rangle = 0 , \quad i = 1 , 2 , 3 ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/672.jpg,"r _ { i } ^ { 2 } = r _ { 0 } ^ { 2 } \sinh ^ { 2 } \alpha _ { i } = \sqrt { Q _ { i } ^ { 2 } + { \frac { r _ { 0 } ^ { 4 } } { 4 } } } - { \frac { r _ { 0 } ^ { 2 } } { 2 } } , i = 1 , 5 , K ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/673.jpg,"\tilde { R } ( \tilde { \rho } ) \mid 0 \rangle = R ( \rho ) \mid 0 \rangle , \langle 0 \mid \tilde { R } ( \tilde { \rho } ) = \langle 0 \mid R ( \rho ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/674.jpg,"n _ { \alpha , \beta } = - n _ { - \alpha , - \beta } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/675.jpg,"r = 1 , \quad n = 3 , \quad b - a = 4 , \quad \lambda = \frac { 3 } { 2 } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/676.jpg,"G _ { F } ( k _ { 1 , } k _ { 2 } , . . . , k _ { n } ) = Z _ { F } ^ { \frac n 2 } G _ { R } ( k _ { 1 , } k _ { 2 } , . . . , k _ { n } )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/677.jpg,"\frac { \mathrm { d } A _ { 1 } } { \mathrm { d } t } = \{ A _ { 1 } , A _ { 0 } \} ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/678.jpg,"\left[ \frac { \partial ^ { 2 } } { \partial t ^ { 2 } } - \vec { \nabla } ^ { 2 } + m ^ { 2 } \right] \hat { \phi } ( x ^ { \mu } ) = 0 \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/679.jpg,i \left< \bar { A } _ { \mu } ^ { i } \bar { A } _ { \nu } ^ { j } \tilde { \bar { C } } ^ { a } \tilde { C } ^ { b } \right> _ { \mathrm { b a r e } } = - 2 g ^ { 2 } f ^ { a i c } f ^ { c j b } g _ { \mu \nu } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/680.jpg,"r _ { H } \approx \frac { 1 } { 1 6 } 3 ^ { 3 / 8 } 2 ^ { 1 / 4 } \left( 3 3 5 1 7 9 7 + ( 1 7 1 ) ( 2 6 5 9 ) \sqrt { 5 7 } \right) ^ { 1 / 8 } A ^ { - 1 / 8 } r _ { 0 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/681.jpg,P _ { \pm } ^ { \mu } = \sum _ { - \infty } ^ { + \infty } \ \alpha _ { n } ^ { \mu } e ^ { - i n \sigma ^ { \pm } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/682.jpg,"\left( - \frac { 1 } { 2 \mu } \frac { d ^ { 2 } } { d x ^ { 2 } } - \frac { \mu } { 2 R ^ { 2 } } x ^ { 2 } \right) \psi _ { n } ( x ) = e _ { n } \psi _ { n } ( x ) ; \quad E = \sum _ { i = 1 } ^ { N } e _ { n _ { i } } , \quad \Psi _ { f } = \bigwedge _ { i = 1 } ^ { N } \psi _ { n _ { i } }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/683.jpg,( P Q R S U V \vert \vert P Q R S U V > = N ^ { - 1 / 2 } ( P Q R S U V ) \times M ( P Q R S U V ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/684.jpg,E _ { b } = \left[ \frac { \sin ( z / 2 + 3 \pi \nu / 4 ) } { \sin ( z / 2 + \pi \nu / 4 ) } \right] ^ { 1 / \nu } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/685.jpg,C _ { 4 } = \int X \psi _ { 4 } ^ { \star } d \tau = \int s n ^ { 2 } [ b ( k ) \tau ] X d \tau - \int X d \tau \frac { \triangle _ { 1 } + \triangle _ { 2 } } { 3 k ^ { 2 } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/686.jpg,\omega + ( - 1 ) ^ { s + 1 } d \theta = - { \frac { \alpha } { 2 } } ( q ^ { 2 } ) _ { \rho } ^ { \prime } e ^ { ( - 1 ) ^ { s } { \frac { \rho } { \alpha } } } d \phi
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/687.jpg,e ^ { A _ { i j } } = { \frac { ( k _ { i } - k _ { j } ) ^ { 2 } } { ( k _ { i } + k _ { j } ) ^ { 2 } } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/688.jpg,D ^ { \rho } h ^ { \mu \nu } = 0 \Longleftrightarrow S _ { b c } ^ { a } = 0
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/689.jpg,\hat { A } _ { \mu } ^ { I } = - \frac { \hat { \eta } _ { \mu \nu } ^ { + } } 2 \partial _ { \nu } \ln \frac { \rho ^ { 2 } } { r ^ { 2 } + \rho ^ { 2 } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/690.jpg,d \mu = d ^ { 4 } x d u u _ { 1 } { } ^ { i } u _ { 1 } { } ^ { j } u _ { 1 } { } ^ { k } u _ { 1 } { } ^ { l } D _ { i j } \bar { D } _ { k l }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/691.jpg,"- \left( \frac { \theta } { 8 \pi ^ { 2 } } \right) ^ { 2 } \sum _ { i = 1 } ^ { 3 } \partial _ { i } \phi \partial _ { i } \phi ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/692.jpg,"\begin{array} { r c l } { \delta C } & { = } & { \left( \Lambda ^ { ( \cdot ) } + m \lambda \right) e ^ { B } , } \\ { } & { } & { } \\ { G } & { = } & { d C - d B C + \frac { m } { 2 } e ^ { B } . } \\ { } & { } & { } \\ \end{array}"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/693.jpg,F = V _ { p + 1 } ( 8 \pi ^ { 2 } \alpha ^ { \prime } ) ^ { - \frac { p + 1 } { 2 } } \int _ { 0 } ^ { \infty } \frac { d \tau } { \tau } \tau ^ { - \frac { p + 1 } { 2 } } e ^ { - \frac { y ^ { 2 } \tau } { 2 \pi \alpha ^ { \prime } } } \left( f _ { 1 } ( e ^ { - \pi \tau } ) \right) ^ { - 2 4 } =
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/694.jpg,"\zeta _ { 1 , 2 } = \frac { 1 } { 2 } \left[ k - 3 h \pm \sqrt { ( k - 3 h ) ^ { 2 } + 8 b ( k - h ) - 4 k h } \right]"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/695.jpg,"K _ { _ { I < J , K < L } } ^ { I J , K L } = - 3 \eta ^ { I K } \eta ^ { J L } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/696.jpg,"\dot { p } _ { \mu } \circ \delta q ^ { \mu } = \frac { 1 } { 2 } \dot { q } ^ { \mu } ( \partial _ { \alpha } g _ { \mu \nu } \delta q ^ { \alpha } ) \dot { q } ^ { \nu } - \delta q ^ { \mu } \partial _ { \mu } U _ { q } + \frac { 1 } { 2 } [ \delta q ^ { \mu } , \dot { g } _ { \mu } ]"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/697.jpg,"( 1 , 0 ; 0 , 0 , 0 , 0 ) , \quad ( 0 , 1 / 2 ; 2 , 0 , 0 , 0 ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/698.jpg,"P = \mathrm { d i a g } ( + 1 , + 1 , + 1 , + 1 , + 1 ) , P ^ { \prime } = \mathrm { d i a g } ( - 1 , - 1 , - 1 , + 1 , + 1 ) . \,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/699.jpg,"\delta _ { \epsilon } B _ { a } ^ { \mu \nu } = \varepsilon ^ { \mu \nu \lambda \rho } \partial _ { \lambda } \epsilon _ { \rho a } , \delta _ { \epsilon } A _ { \mu } ^ { a } = 0 , \delta _ { \epsilon } \varphi _ { a } = \partial ^ { \mu } \epsilon _ { a \mu } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/700.jpg,"F _ { t } ^ { ( 1 ) } ( s ) = \sum _ { k } \frac { ( - t ) ^ { k } } { k ! } \zeta _ { A } ( s - k ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/701.jpg,m ^ { 2 } \varphi = - \partial _ { \mu } \epsilon ^ { \mu \nu \sigma \tau } H _ { \nu \sigma \tau } + J \ .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/702.jpg,P ( \partial { \cal M } _ { p } ) = ( - ) ^ { D - p + 1 } d P ( { \cal M } _ { p } ) \ .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/703.jpg,\partial ^ { M } \partial _ { M } A _ { M _ { 1 } \cdots M _ { p + 1 } } = J _ { M _ { 1 } \cdots M _ { p + 1 } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/704.jpg,"\chi _ { 2 } ^ { i } ( F , G ; { \bf p ^ { \prime } , q } ) = - \frac { 1 } { 1 + \mu } \frac { q ^ { i } } { 1 2 \pi ^ { 2 } } \tilde { f } ( { \bf p ^ { \prime } } ) \tilde { g } ( { \bf - p ^ { \prime } - q } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/705.jpg,"G ( r , r ^ { \prime } ) = \left( \begin{matrix} { a ( r , r ^ { \prime } ) } & { b ( r , r ^ { \prime } ) } \\ { c ( r , r ^ { \prime } ) } & { d ( r , r ^ { \prime } ) } \\ \end{matrix} \right)"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/706.jpg,"x _ { , 0 } ^ { \mu } = ( 1 , 0 , 0 , 0 ) , \hspace * { 5 m m } x _ { , 1 } ^ { \mu } = ( 0 , x ^ { i } ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/707.jpg,H _ { r } = \int d ^ { 2 } x [ \frac { 1 } { 2 } ( \epsilon ^ { i j } \partial _ { i } B _ { j } ) ^ { 2 } - \frac { 1 } { 2 } m ^ { 2 } B _ { i } B ^ { i } ]
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/708.jpg,"U ( \vec { x } , \vec { x } + \vec { \epsilon } ) = e ^ { i e \vec { \epsilon } \cdot \vec { A } ( \vec { x } ) }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/709.jpg,"x _ { | \alpha | } ( u , w ) = { \frac { \sigma ( w - u ) } { \sigma ( w ) \sigma ( u ) } } , \quad \mathrm { f o r a l l r o o t s } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/710.jpg,"g _ { p } = \frac { 1 } { \sqrt { 2 } \kappa _ { 0 } } \int _ { S ^ { p + 2 } } G _ { p + 2 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/711.jpg,{ \frac { d { \bf B } } { d t } } = - ( X _ { \bf A } { \bf B } ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/712.jpg,"u _ { p } z _ { m a x } = \chi _ { _ { 2 , p } }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/713.jpg,< n | m > \rightarrow \oint _ { C } \frac { d z } { 2 \pi i } \sqrt { \frac { [ m ] ! } { [ n ] ! } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/714.jpg,D _ { z ^ { a } } \phi = \partial _ { z ^ { a } } \phi - \phi \star \mathcal { B } _ { z ^ { a } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/715.jpg,"\left\{ R , \pi _ { R } \right\} _ { P b } = - 1 , \left\{ \varphi , \pi _ { \varphi } \right\} _ { P b } = - 1 ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/716.jpg,\Gamma _ { 2 } ^ { i } = \frac { g } { m ^ { 2 } - p ^ { 2 } } \Gamma _ { 1 } A _ { i j } ^ { - 1 } \left[ 1 \right] ^ { j } \ .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/717.jpg,- \partial _ { \rho } ^ { 2 } \chi + \frac { 2 } { \rho ^ { 2 } } \chi - \frac { \Lambda ^ { 2 } } { k ^ { 2 } } ( 1 - \frac { l ( l + 1 ) k ^ { 2 } } { E ^ { 2 } } ) \chi = 0
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/718.jpg,d s ^ { 2 } = r ^ { 2 } ( - d t ^ { 2 } + d x _ { \parallel } ^ { 2 } ) + { \frac { d r ^ { 2 } } { r ^ { 2 } } } + d \Omega _ { 5 } ^ { 2 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/719.jpg,"\alpha = \mu - 1 + \frac { 1 } { 2 } \eta , \beta = 1 - \eta - \chi"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/720.jpg,"{ \cal B } _ { I _ { 1 } . . . I _ { d } } = k \epsilon _ { I _ { 1 } . . . I _ { d } } H _ { 2 } ^ { - 1 } , G = d { \cal B } , ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/721.jpg,"t = 3 E \tau , r = c o n s t . = 3 M , \theta = \pm \frac { E \tau } { \sqrt { 3 } M } + \theta _ { 0 } , \varphi = \sigma ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/722.jpg,\hat { a } _ { a } ^ { \dagger } A _ { c b } ^ { a b } \hat { a } ^ { c } + \hat { a } _ { a } ^ { \dagger } A _ { b d } ^ { a b } \hat { a } ^ { d } + \hat { a } _ { b } ^ { \dagger } A _ { c a } ^ { a b } \hat { a } ^ { c } + \hat { a } _ { a } ^ { \dagger } A _ { a d } ^ { a b } \hat { a } ^ { d }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/723.jpg,\widetilde { S } _ { N G } = \widetilde { \alpha } \int \left[ d ^ { 2 } z \right] \left( \left| \psi _ { 0 } \right| ^ { 2 } + \left| \varphi _ { 0 } \right| ^ { 2 } \right) ^ { 2 }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/724.jpg,"\chi ( L _ { C } ) = h ^ { 0 } ( C , L _ { C } ) - h ^ { 1 } ( C , L _ { C } ) = \deg ( L _ { C } ) + 1 - g ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/725.jpg,T _ { i } ^ { ( 2 ) } = \pi _ { i } ^ { ( 2 ) } + \frac { m ^ { 2 } } { 2 \nabla ^ { 4 } } \Bigl ( \partial _ { i } A _ { 0 } - \dot { A } _ { i } \Bigr ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/726.jpg,\sum _ { i = 1 } ^ { m - 1 } \frac { 1 } { \prod _ { j \neq i } ^ { m - 1 } ( x _ { i } - x _ { j } ) ( x _ { m } - x _ { i } ) } - \frac { 1 } { \prod _ { j \neq m } ^ { m } ( x _ { m } - x _ { j } ) }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/727.jpg,\bar { \Sigma } _ { \alpha \beta } = - \tilde { \bar { \Sigma } } _ { \alpha \beta }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/728.jpg,"\Phi ^ { A } = \{ A ^ { \mu i } , X ^ { i } , C _ { i } \} \mathrm { a n d } \Phi _ { A } ^ { \star } = \{ A ^ { \mu i \star } , X _ { i } ^ { \star } , C ^ { i \star } \} ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/729.jpg,"[ X _ { A B } , X _ { C D } ] = g _ { B C } X _ { A D } - g _ { A C } X _ { B D } - g _ { B D } X _ { A C } + g _ { A D } X _ { B C } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/730.jpg,"f ( r , s , n , k ) = \left\{ \begin{array} { l l } { \prod _ { m = 0 } ^ { 2 r - n } ( r - m - n - ( k + 2 ) s ) , } & { 1 \leq n \leq 2 r , } \\ { 1 , } & { n \geq 2 r + 1 . } \\ \end{array} \right."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/731.jpg,e ^ { 2 i \varphi _ { ( + ) } } = - \frac { e } { | e | }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/732.jpg,\mathcal { M } ( I _ { \pm } ) \equiv \mathcal { M } _ { a _ { \pm } } ^ { \prime } \cap \mathcal { M }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/733.jpg,\Gamma _ { N \bar { N } M } = 3 g _ { q \bar { q } M } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/734.jpg,"e ^ { 2 } A _ { c r } ^ { 2 } = { \frac { 1 } { 3 } } \left( \delta m _ { e } ^ { ( 1 ) ^ { 2 } } + \delta m _ { e } ^ { ( 2 ) ^ { 2 } } \right) = { \frac { m _ { s } ^ { 2 } } { 3 } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/735.jpg,S _ { \infty } = - 3 \pi ^ { 2 } r _ { c } ^ { 2 } \ell ( 1 - e ^ { - 2 y _ { 0 } / \ell } ) + 4 \pi ^ { 2 } \rho _ { * } ^ { 2 } y _ { 0 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/736.jpg,F _ { i j } = \sum _ { k = 1 } ^ { [ \frac { n } { 2 } ] } H _ { k } ( \delta _ { i } ^ { k } \delta _ { j } ^ { n + 1 - k } - \delta _ { j } ^ { k } \delta _ { i } ^ { n + 1 - k } )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/737.jpg,"\hat { \Delta } = \left\{ - \theta , - \Delta , k , \Delta , \theta \right\} \oplus \mathrm { o t h e r s t a g e s } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/738.jpg,"\left\{ \mathrm { e } ^ { - \frac { A } { 2 } } \not { \partial } _ { x } + \Gamma ^ { r } \left( \partial _ { r } + { \frac { D _ { 1 } } { 4 } } A ^ { \prime } + { \frac { D _ { 2 } } { 4 } } B ^ { \prime } \right) + \mathrm { e } ^ { - { \frac { B } { 2 } } } \not { \Delta } _ { y } \right\} \Psi = 0 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/739.jpg,"\pi _ { S _ { \mathrm { N S } } } \circ \varrho _ { V } \approx \pi _ { S _ { \mathrm { R } } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/740.jpg,"T _ { S } : \chi _ { D } \rightarrow \chi _ { D } ^ { \prime } = \Big [ p _ { 0 } + Q F ( p , x , \vec { \xi } )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/741.jpg,"\{ Q _ { 1 } , Q _ { 1 } \} = \{ Q _ { 2 } , Q _ { 2 } \} = \tilde { H } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/742.jpg,"{ \{ x ^ { \alpha } , x ^ { \beta } \} } _ { G B } = \Omega ^ { \alpha \beta } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/743.jpg,"\phi ( z , \bar { z } ) = { \mathrm e } ^ { - i \pi / 4 } \sum _ { k = 0 } ^ { \infty } \sum _ { l = 0 } ^ { \infty } \left[ d _ { k l } z ^ { 1 + 4 k } ( z \bar { z } ) ^ { l } + e _ { k l } { \bar { z } } ^ { 3 + 4 k } ( z \bar { z } ) ^ { l } \right] ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/744.jpg,\frac { p } { 2 } \left[ 2 \left( 3 - q \right) - p \right] H _ { I } = m _ { 0 } \sum _ { j = 1 } ^ { N } \left( \frac { m _ { 0 } } { \vert E _ { j } \vert } - \frac { \vert E _ { j } \vert } { m _ { 0 } } \right) + 2 p H _ { 4 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/745.jpg,"\sin f \sim \rho , \qquad \qquad \rho \ll 1 ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/746.jpg,"f _ { \mu } { } ^ { a } = \frac { 1 } { 2 4 } \varepsilon ^ { a b c d e } \Omega _ { \mu } { } ^ { b c d e } , \qquad \eta ^ { a } = \frac { 1 } { 2 4 } \varepsilon ^ { a b c d e } \eta _ { b c d e }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/747.jpg,"F ^ { ( 2 ) } ( r , \xi ) = \frac { 1 } { 2 \pi } \int d \omega d k \exp ( - i \omega \xi ^ { 0 } + i k \xi ^ { 3 } ) f ( r , k , \omega ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/748.jpg,"j _ { \mu } ( z ; x , y ) = ( \partial _ { \mu } ^ { z } + \gamma _ { 5 } \widetilde \partial _ { \mu } ^ { z } ) \left[ D _ { F } ( z - x ) - D _ { F } ( z - y ) \right]"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/749.jpg,"J ^ { \mu \nu } = - \left( x ^ { \mu } p ^ { \nu } - x ^ { \nu } p ^ { \mu } + \frac { i } { 2 } [ \xi ^ { \mu } , \xi ^ { \nu } ] _ { - } \right)"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/750.jpg,"B ( t ) = \sum _ { n = 1 } ^ { t } b ( n ) = t ( 1 + \epsilon _ { B } ( t ) ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/751.jpg,{ \frac { 4 \sigma } { 3 a ^ { 2 } ( t ) \dot { a } ( t ) } } \quad \le \quad 1 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/752.jpg,"\{ \gamma ^ { \mu } , \gamma ^ { \nu } \} = 2 g ^ { \mu \nu } , \gamma ^ { \mu } \gamma ^ { \nu } = g ^ { \mu \nu } - i \varepsilon ^ { \mu \nu \delta } \gamma _ { \delta } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/753.jpg,\bar { J } ( \bar { z } ) \bigr | _ { \partial \Sigma } = R J ( z ) \bigr | _ { \partial \Sigma } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/754.jpg,"q \rightarrow q ^ { \omega } , p \rightarrow p ^ { \omega }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/755.jpg,"B _ { \varphi } ^ { \prime } = - \frac { 1 } { E \Psi } ( 1 + E B _ { \varphi } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/756.jpg,"d s ^ { 2 } = - e ^ { - M ( u , v ) } d u d v + e ^ { - U ( u , v ) } \left( e ^ { V ( u , v ) } d x ^ { 2 } + e ^ { - V ( u , v ) } d y ^ { 2 } \right)"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/757.jpg,\langle \varphi ^ { 2 } ( x ) \rangle = \int d ^ { 3 } p \left[ | \psi _ { 0 } ( z _ { 0 } ) | ^ { 2 } | \chi _ { 0 } | ^ { 2 } + \int _ { - \frac { H } { \Delta + 2 } } ^ { \infty } d m | \psi _ { m } ( z _ { 0 } ) | ^ { 2 } | \chi _ { m } | ^ { 2 } \right] .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/758.jpg,"H ^ { ( 0 ) } = E [ \phi _ { 0 } , g ( \vec { k } ) ] ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/759.jpg,"( { \bf x } t \vert { \bf x } ^ { \prime } t ^ { \prime } ) = \frac { 1 } { \sqrt { 2 \pi i \epsilon \hbar / M } ^ { D } } \prod _ { n = 1 } ^ { N } \left[ \int _ { - \infty } ^ { \infty } d x _ { n } \right] \prod _ { n = 1 } ^ { N + 1 } K _ { 0 } ^ { \epsilon } ( \Delta { \bf x } _ { n } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/760.jpg,m ^ { 2 } - 1 + \pi \beta \cot \pi \beta = 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/761.jpg,"P _ { + l } = \{ a = \sum _ { i = 1 } ^ { n - 1 } a _ { i } \omega _ { i } \in P ; a _ { i } \ge 0 , \sum _ { i = 1 } ^ { n - 1 } a _ { i } \le r - n \} ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/762.jpg,"\xi ^ { i } = x ^ { i } , \quad r = c o n s t , \quad y ^ { a ^ { \prime } } = c o n s t , \quad \Theta = 0 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/763.jpg,"\langle \mathrm { e } ^ { \varphi ( \cdot , t ) } \rangle = \mathrm { e } ^ { \langle \varphi ( \cdot , t ) \rangle }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/764.jpg,\nabla _ { M } \equiv \partial _ { M } + \frac { 1 } { 4 } \omega _ { M } ^ { a b } \Gamma _ { a b } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/765.jpg,"| M _ { i _ { i } } \dots M _ { i _ { n } } \rangle \equiv \hat { M } _ { i _ { i } } \dots \hat { M } _ { i _ { n } } | \Omega \rangle ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/766.jpg,E _ { { \cal B } \left( X \right) } = \sum _ { b \in z _ { \max } \left( X \right) } n \left( b \right) \cdot e _ { { \cal B } \left( X \right) } \left( b \right) \quad .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/767.jpg,S _ { e f f } = - \mu _ { 3 } \int d ^ { 4 } x \sqrt { - \det { g _ { \mu \nu } \partial _ { \alpha } x ^ { \mu } \partial _ { \beta } x ^ { \nu } } } + \mu _ { 3 } \int C _ { 4 }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/768.jpg,S _ { E H } = \frac { \kappa _ { B } } { \tilde { G } } \frac { A } { 4 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/769.jpg,"e ^ { \lambda \varphi ( \tau , \sigma ) } = \sum _ { n = 0 } ^ { \infty } \frac { ( - \mu ^ { 2 } ) ^ { n } } { n ! } \frac { \Gamma ( 2 \lambda + n ) } { \Gamma ( 2 \lambda ) } Z ^ { ( \lambda , n ) } ( \tau , \sigma )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/770.jpg,"\frac { d \langle H _ { t o t } \rangle } { d t } = 0 , \frac { \delta S _ { t o t } } { \delta \theta _ { i } ( x ) } = 0 \ldots"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/771.jpg,\dot { P } _ { i ^ { \prime } } = - \frac { 1 } { 2 m } \partial _ { i ^ { \prime } } \tilde { g } ^ { j ^ { \prime } k ^ { \prime } } P _ { j ^ { \prime } } P _ { k ^ { \prime } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/772.jpg,"Z = T r \exp [ - \beta \epsilon _ { k } ( \bar { \Phi } _ { 1 , k } \Phi _ { 1 , k } + \bar { \Phi } _ { 2 , k } \Phi _ { 2 , k } ) ] \exp [ \beta \mu ( \bar { \phi } _ { 1 , k } \phi _ { 1 , k } + \bar { \phi } _ { 2 , k } \phi _ { 2 , k } ) ] ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/773.jpg,f ^ { i } = f _ { { \hat { \alpha } } { \hat { \beta } } } ^ { i } { \hat { e } } ^ { \hat { \alpha } } \wedge { \hat { e } } ^ { \hat { \beta } } = 2 { \hat { e } } ^ { 5 } \wedge { \hat { e } } ^ { i } + \varepsilon _ { i j k } { \hat { e } } ^ { j } \wedge { \hat { e } } ^ { k }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/774.jpg,X ( \theta ) = \frac { \cos ( 2 Q P \theta ) } { \left[ \sinh ( 2 \pi b P ) \sinh ( 2 \pi P / b ) \right] ^ { 1 / 2 } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/775.jpg,\eta _ { \underline { { a b } } } V _ { m } ^ { \underline { { b } } } \eta ^ { i \ell _ { 1 } } \epsilon ^ { m \ell _ { 2 } \dots \ell _ { d } } \epsilon _ { \ell _ { 1 } \dots \ell _ { d } } + 2 ( d ! ) a _ { 1 } \eta _ { \underline { { a b } } } \Pi _ { j } ^ { \underline { { b } } } h ^ { i j } = 0
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/776.jpg,"( t , t ) ^ { 2 } \mapsto ( s _ { 1 } , s _ { 1 } ) ^ { 2 } = \mid \mid s ( A ) \mid \mid = \int t r ( F + * F ) ^ { 2 } = \int t r ( F ^ { + } ) ^ { 2 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/777.jpg,D = { \frac { P J \left( M + \Sigma / \sqrt { 3 } \right) } { \left( M - \Sigma / \sqrt { 3 } \right) ^ { 2 } - P ^ { 2 } } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/778.jpg,"g _ { \mu \nu } = h _ { \mu \nu } - u _ { \mu } u _ { \nu } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/779.jpg,{ \frac { 1 } { 4 \pi ^ { 2 } } } \int _ { M } F _ { A _ { n } } \wedge F _ { A _ { n } } = 2 n ^ { 2 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/780.jpg,\Delta { \cal A } = \frac { 1 } { 2 } ( 1 + g ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/781.jpg,"F _ { \mu \nu } ^ { a } = - 4 \eta _ { \mu \nu } ^ { a } \frac { \rho ^ { 2 } } { [ ( x - x _ { 0 } ) ^ { 2 } + \rho ^ { 2 } ] ^ { 2 } } \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/782.jpg,"c _ { l , m } = q ^ { m - l } i \tau _ { l } ^ { 2 } \tau _ { l } ^ { 1 } + q ^ { l - m } i \tau _ { m } ^ { 2 } \tau _ { m } ^ { 1 } - \eta ^ { m - l } i \tau _ { l } ^ { 2 } \tau _ { m } ^ { 1 } - \eta ^ { l - m } i \tau _ { m } ^ { 2 } \tau _ { l } ^ { 1 } \,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/783.jpg,\int _ { 0 } ^ { \infty } \frac { d t } { 2 t } \mathrm { S t r } e ^ { - 2 \pi \alpha ^ { \prime } t H }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/784.jpg,"U = \frac { 1 } { N ^ { 2 } } \sum _ { x } \mathcal { U } ( x ) \Delta ( x ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/785.jpg,"\Pi _ { a } ^ { + } = \partial _ { a } X ^ { + } , \Pi _ { a } ^ { i } = \partial _ { a } X ^ { i } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/786.jpg,K _ { 1 / 2 } ( x ) = \sqrt { \frac { \pi } { 2 x } } e ^ { - x }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/787.jpg,"\mathcal { C } _ { 1 } = \int d t G ( x _ { 1 } , t _ { 1 } ; 0 , t ) G ( 0 , t ; x _ { 2 } , t _ { 2 } )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/788.jpg,"K [ \tau ; A _ { 2 } , A _ { 1 } ] \equiv \left< A _ { 2 } \left| e ^ { - H \tau } P \right| A _ { 1 } \right> ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/789.jpg,"\psi _ { \pm } ^ { \mu , j } ( \sigma , \tau ) = \frac { 1 } { \sqrt 2 } \sum _ { r \in Z + \frac { 1 } { 2 } } b _ { r } ^ { \mu , j } e ^ { - i r ( \tau \pm \sigma ) }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/790.jpg,"{ \partial } ^ { 2 } { \varphi } _ { 0 } ( t , x ) = 0 , \varphi _ { 0 } ( t , x ) = c _ { 1 } ( t ) + c _ { 2 } ( t ) x ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/791.jpg,"\xi _ { \tilde { \alpha } } ^ { a } \left( \tau \right) = X _ { i } ^ { M } \left( \Gamma _ { M } \kappa ^ { i a } \right) _ { \tilde { \alpha } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/792.jpg,"f _ { S c h } ( r ) = 1 - \frac { 2 M } { r } , \ h _ { S c h } ( r ) = 1 / f _ { S c h } ( r ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/793.jpg,\frac { X ^ { 0 } } { X ^ { 1 } } = \frac { Y ^ { 0 } } { Y ^ { 1 } } = \frac { 1 } { \sqrt { 2 } } e ^ { - 4 \hat { \phi } } =
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/794.jpg,\theta _ { a } ^ { i } \theta _ { b } ^ { j } + \theta _ { b } ^ { j } \theta _ { a } ^ { i } = 0
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/795.jpg,\delta L = \int _ { \Sigma } { \cal L } ( x ) \delta x _ { \mu } d \sigma _ { \mu } + \int _ { \Omega } \delta { \cal L } ( x ) d ^ { 4 } x \quad .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/796.jpg,"< j _ { \mu } > ^ { ( 2 ) } = \alpha _ { \mu } ( s _ { 2 } ) \left. \mathrm { t r } \left\{ \Delta ^ { ( 2 ) } ( x , x ^ { \prime } ) \right\} \right| _ { x = x ^ { \prime } } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/797.jpg,"F _ { 2 r + 1 } ^ { M } = V _ { B } ^ { M } \oplus V _ { B } ^ { M - 2 } \oplus \cdots V _ { B } ^ { 1 } ( V _ { B } ^ { 0 } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/798.jpg,"\Theta _ { [ 1 / 2 ] } = \left[ \begin{array} { c c c } { 0 } & { { } } & { - 1 } \\ { 1 } & { { } } & { 0 } \\ \end{array} \right] , \Theta _ { [ 1 ] } = \left[ \begin{array} { c c c c c } { 0 } & { { } } & { 0 } & { { } } & { 1 } \\ { 0 } & { { } } & { - 1 } & { { } } & { 0 } \\ { 1 } & { { } } & { 0 } & { { } } & { 0 } \\ \end{array} \right] \quad ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/799.jpg,"\omega \subset \{ 1 , 2 , . . . , n \} , \# \omega = r < n"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/800.jpg,g _ { 0 0 } \approx - ( 1 + F ^ { 2 } r ^ { 2 } + \ldots ) \ .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/801.jpg,_ { g h } = - i \ln { \it d e t } \left( g _ { \mu \nu } \nabla ^ { 2 } + R _ { \mu \nu } \right) - i \ln { \it d e t } \left( ( f _ { 1 } + f _ { 2 } + 4 f _ { 3 } ) g _ { \mu \nu } ( - g ) ^ { \alpha } \right)
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/802.jpg,U \simeq \frac { m _ { 1 } ^ { 8 } } { m _ { 2 } ^ { 4 } } e ^ { - 2 ( \beta - \alpha ) \phi / M _ { p } } \qquad a s \qquad \beta \phi \gg M _ { p } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/803.jpg,{ \cal P } ^ { - 1 } b _ { q } ^ { E } { \cal P } = \sum _ { t = - 1 } ^ { \infty } E _ { q t } ( { \cal P } ) b _ { t } ^ { E }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/804.jpg,"- 1 < \epsilon < 0 , \cos \rho \le - \epsilon ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/805.jpg,\ddot { \varphi } _ { c } + 3 \frac { \dot { R } } { R } \dot { \varphi } _ { c } + ( m ^ { 2 } + 3 \lambda \langle \hat { \phi } _ { f } ^ { 2 } \rangle ) \varphi _ { c } + \lambda ( \varphi _ { c } ^ { * } \varphi _ { c } ) \varphi _ { c } = 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/806.jpg,\lambda = \biggl ( { \frac { 2 \pi } { m T } } \biggr ) ^ { \frac { 1 } { 2 } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/807.jpg,f ( R ) = \frac { R ^ { 2 } } { \left[ ( R ^ { 2 } + 2 m \sinh ^ { 2 } \alpha _ { 1 } ) ( R ^ { 2 } + 2 m \sinh ^ { 2 } \alpha _ { 2 } ) ( R ^ { 2 } + 2 m \sinh ^ { 2 } \alpha _ { 3 } ) \right] ^ { \frac 1 3 } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/808.jpg,"g _ { [ m , n ] } ( k ) = \left\{ \begin{array} { l l } { g _ { m , n } ( k ) } & { \mathrm { i f } m \leq n } \\ { g _ { n , m } ( k ) } & { \mathrm { i f } m > n } \\ \end{array} \right. ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/809.jpg,"a \star b ( u , v ) = \sum _ { n m } \frac { 1 } { N } T r ( \hat { Z } _ { n m } \hat { a } \hat { b } ) Z _ { n m } ( u , v ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/810.jpg,\int _ { C _ { 2 } } B + i J = { \frac { \int _ { \gamma } \Omega } { \int _ { \gamma _ { 0 } } \Omega } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/811.jpg,\phi ( x ) \star \delta ( x - y ) = \delta ( x - y ) \star \phi ( y )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/812.jpg,"U ( x ) = V \exp ( i { \bf \Theta } ( x ) \cdot { \bf \sigma } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/813.jpg,g ( x ) = h \left( \sqrt { 2 } t ^ { - 1 / 4 } ( t - x ) \right) = h ( y )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/814.jpg,{ \cal P } _ { \pm } = \frac { 1 } { 2 } \left( 1 \pm { \mathrm e } ^ { - { \mathrm i } \pi S } ( { \cal R } _ { 3 } ) ^ { 2 } \right)
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/815.jpg,"\hat { G } [ x , y ; E ] = \frac { e ^ { - \sqrt { 2 E } | x - y | } } { \sqrt { 2 E } } - \frac { \hat { v } ( E ) } { \sqrt { 2 E } ( \sqrt { 2 E } + \hat { v } ( E ) ) } e ^ { - \sqrt { 2 E } ( | x | + | y | ) } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/816.jpg,| \alpha ( t ) | ^ { 2 } - | \beta ( t ) | ^ { 2 } = 1 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/817.jpg,{ \frac { d \zeta } { d \varphi } } = A [ 1 - \varphi ^ { 2 } - { \frac { \epsilon } { 2 } } { \frac { 1 - \zeta ^ { 2 } } { 1 - \varphi ^ { 2 } } } + { \frac { \epsilon ^ { 2 } } { 8 } } { \frac { ( 1 - \zeta ^ { 2 } ) ^ { 2 } } { ( 1 - \varphi ^ { 2 } ) ^ { 3 } } } + \cdots ] .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/818.jpg,"T _ { \mu \nu } = F _ { \mu \rho } F _ { \nu \sigma } g ^ { \rho \sigma } - \frac { 1 } { 4 } g _ { \mu \nu } F ^ { 2 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/819.jpg,"\frac { \delta ^ { 2 } \widehat { \Gamma } _ { k } [ \phi , \varphi ] } { \delta \phi \delta \phi } { \Big | } _ { \varphi = \phi } = \frac { \delta ^ { 2 } \Gamma _ { k } [ \phi ] } { \delta \phi \delta \phi } + R _ { k } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/820.jpg,\Gamma ^ { M } D _ { M } \chi - \frac 1 { 1 2 } H _ { M N P } \Gamma ^ { M N P } \chi = 0
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/821.jpg,M = M _ { 0 } + M _ { 1 } Y + M _ { 2 } [ I ( I + 1 ) - \frac { 1 } { 4 } Y ^ { 2 } ] - M _ { 3 } S ( S + 1 )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/822.jpg,\Phi ^ { v } ( v ) \Phi ^ { u } ( v ) = \Phi ^ { w } ( w ) \Phi ^ { v } ( w ) = \Phi ^ { u } ( u ) \Phi ^ { w } ( u )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/823.jpg,* V _ { \it 3 } = * \hat { T } _ { \it 3 } = \pm i g f ( r ) \tilde { T } _ { \it 3 } \wedge \chi _ { \it 4 } \
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/824.jpg,T _ { \pm \pm } = { \frac { 1 } { 2 } } \left( \Pi \mp \partial _ { - } \Phi \right) ^ { 2 }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/825.jpg,S = \int d ^ { 5 } \sigma ( - \sqrt { - \mathrm { d e t } ( G _ { \mu \nu } + \cal F _ { \mu \nu } ) } + \frac { 1 } { 2 } \tilde { H } ^ { \mu \nu } ( F _ { \mu \nu } - 2 \partial _ { \mu } A _ { \nu } ) )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/826.jpg,"\fbox { \displaystyle \partial _ { z } S + \partial _ { \bar { z } } \bar { S } = - { \cal H } , \quad \partial _ { \varphi } S = p , \quad \partial _ { \varphi } \bar { S } = \bar { p } . } \vspace { 2 m m }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/827.jpg,{ \cal L } _ { \pm } ^ { M W Y } = \sum _ { k = 0 } ^ { \infty } \left[ \mp \dot { \phi } _ { k } \phi _ { k } ^ { \prime } - { \cal G _ { \pm } } \phi _ { k } ^ { 2 } - 2 \phi _ { k } ^ { \prime } \sum _ { m = 1 } ^ { k - 1 } \left( \dot { \phi } _ { m } + { \cal G _ { \pm } } \phi _ { m } ^ { \prime } \right) \right]
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/828.jpg,d = - 8 c _ { 2 } ( E ) - 3 ( 1 - b _ { 1 } ( X ^ { 4 } ) + b _ { 2 } ^ { - } ( X ^ { 4 } ) ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/829.jpg,"\left\{ F , G \right\} ^ { ( \eta , E ) } = \frac { \partial _ { r } F } { \partial \eta ^ { A } } E ^ { A B } \frac { \partial _ { l } G } { \partial \eta ^ { B } } = \left\{ F , G \right\} ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/830.jpg,"| \Xi ^ { \psi } \rangle \star | \Xi ^ { \psi } \rangle = | \Xi ^ { \psi } \rangle ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/831.jpg,\frac { 1 } { 2 } \widehat { \chi } _ { q } \left( \tau \right) \left( \widehat { \chi } _ { p } \left( \frac { \tau } { 2 } \right) - \widehat { \chi } _ { p } \left( \frac { \tau + 1 } { 2 } \right) \right)
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/832.jpg,"\delta \tilde { \pi } _ { \alpha } = - ( F _ { 0 } + h G _ { 0 } ) \tau _ { \alpha } = 0 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/833.jpg,"o _ { A } \iota ^ { A } = \overline { { ( \bar { o } _ { B ^ { \prime } } \bar { \iota } ^ { B ^ { \prime } } ) } } = \chi ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/834.jpg,"\widetilde { \Omega } _ { i } ^ { ( 1 ) } ( x ) = \int d ^ { 3 } y X _ { i j } ( x , y ) \Phi ^ { j } ( y ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/835.jpg,"2 \hat { H } = F ( \hat { u } , \hat { r } ) + 1 - 2 M _ { 0 } / \hat { r }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/836.jpg,"- 4 \left( \stackrel { \circ } { P } _ { A B C D , a } + \frac { 3 } { 2 } \stackrel { \circ } { P } _ { [ C D , a } C _ { A B ] } \right) C ^ { D L } \gamma ^ { a } \gamma ^ { 0 } - 3 \stackrel { \circ } { T } _ { [ A B } \delta _ { C ] } ^ { L } \gamma ^ { a b } = 0 ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/837.jpg,{ \cal L } _ { \mathrm { N L S M } } = - { \frac { 1 } { 1 - | T | ^ { 2 } } } \partial _ { \mu } T ^ { * } \partial ^ { \mu } T - \left( 1 - | T | ^ { 2 } \right) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/838.jpg,\left< f i e l d s \right> = \int _ { M ^ { + } } \ \left[ ( f i e l d s ) \ e ^ { - S _ { \mathrm { T Y M } } } \right] _ { z e r o - m o d e } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/839.jpg,"\Biggl | \frac { \Delta T _ { 1 } } { { ( T _ { 1 } ) } _ { 0 } } \Biggr | , \Biggl | \frac { \Delta T _ { 2 } } { { ( T _ { 1 } ) } _ { 0 } } \Biggr | \geq \frac { ( 2 q _ { 0 } ) ^ { - 1 / 2 } } { ( T _ { 1 } ) _ { 0 } } 1 0 ^ { - 4 }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/840.jpg,"g ^ { i j } \partial _ { i } Z \partial _ { j } Z = g ^ { i j } t ^ { I } { } _ { , i } t ^ { J } { } _ { , j } q _ { I } q _ { J } \equiv \Pi ^ { I J } q _ { I } q _ { J } = 0 \ ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/841.jpg,"\hat { A } _ { j k } = \omega _ { j k } \quad , \quad \hat { c } _ { j k } = \Omega _ { j k } \quad , \quad \hat { B } _ { j k } = \varepsilon _ { i j k } e ^ { i } \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/842.jpg,"L = \int d ^ { p } x { \cal L } , { \cal L } = 1 - \sqrt { 1 + ( \partial _ { i } y ) ^ { 2 } } - \Sigma _ { p } r _ { 0 } ^ { p - 1 } y \delta ( { \bf r } )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/843.jpg,"\gamma _ { 1 i } ^ { a } \equiv \epsilon _ { 0 i j k } \pi ^ { a j k } \approx 0 , \gamma _ { 2 i } ^ { a } \equiv \frac { 1 } { 2 } \epsilon _ { 0 i j k } F ^ { a j k } - \partial _ { i } \pi ^ { a } \approx 0 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/844.jpg,V _ { 1 } \approx - \frac { \Gamma ( 5 ) \zeta ( 5 ) } { 2 ^ { 1 0 } \pi ^ { 2 } L ^ { 5 } } \quad \mathrm { f o r } \quad L \ll 1 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/845.jpg,"{ \mathcal { F } _ { B } ^ { 0 0 } } = { \frac { 1 } { 2 } } \oint { d } \hat { s } ( \xi ) d \hat { s } ( \xi ^ { \prime } ) { \hat { H } _ { D } ^ { 0 0 } } ( \xi ) { \hat { G } _ { k } } ( \xi , \xi ^ { \prime } ) { \hat { H } _ { D } ^ { 0 0 } } ( \xi ^ { \prime } ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/846.jpg,"\tilde { \partial } { } _ { \alpha \beta } = \frac { \partial } { \partial { \tilde { x } ^ { \alpha \beta } } } , \quad D _ { \alpha } ^ { ( \tilde { \tau } ) } = \frac { \partial } { \partial \tilde { \tau } ^ { \alpha } } + \frac { i } { 2 } \tilde { \tau } ^ { \beta } \frac { \partial } { \partial { \tilde { x } ^ { \alpha \beta } } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/847.jpg,{ \cal S } ( \tilde { A } ^ { ( n ) } ) = \frac { 2 \pi ^ { 2 } n ^ { 2 } } { V e ^ { 2 } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/848.jpg,- Y = \frac { 1 } { 3 } Q _ { 1 } + \frac { 1 } { 2 } Q _ { 2 } + \sum _ { i _ { 1 } } Q _ { i _ { 1 } } + \sum _ { j _ { 1 } } Q _ { j _ { 1 } } + \sum _ { k _ { 1 } } Q _ { k _ { 1 } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/849.jpg,"[ W _ { Z } ] = \frac { 1 } { 2 } q _ { * } [ W ] ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/850.jpg,H ( \Theta ) = \int d x [ \pi _ { \sigma } ^ { 2 } + ( \partial _ { 1 } \sigma ) ^ { 2 } + { \frac { 1 + a } { \tilde { \alpha } } } g ^ { 2 } ( \sigma - \Theta ) ^ { 2 } ] .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/851.jpg,"\Lambda = \frac { k _ { 5 } ^ { 2 } } 2 \left( \Lambda _ { 5 } + \frac { k _ { 5 } ^ { 2 } \lambda ^ { 2 } } 6 \right) , \qquad k _ { 4 } ^ { 2 } = \frac { k _ { 5 } ^ { 4 } \lambda } 6 ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/852.jpg,\Sigma _ { 0 } = { \Sigma } _ { \mathrm { i n v } } + { \Sigma } _ { g f }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/853.jpg,"p = { \frac { A _ { H } } { 4 l _ { P } ^ { 2 } } } { \frac { \beta _ { 0 } } { \beta } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/854.jpg,"S _ { H } [ x , p ] = \int d t \Big \{ p \frac { d x } { d t } - \frac { p ^ { 2 } } { 2 } - V ( x ) \Big \} ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/855.jpg,"F ( i , j , n , r ) = i ! j ! / [ n + r - i ) ! ( n + s - r - j ) ! ]"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/856.jpg,p ^ { + } = \sum _ { i } \frac { N _ { i } } { g _ { i } ^ { 2 } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/857.jpg,M ^ { \dagger } = \left( \begin{array} { c c } { 1 } & { 0 } \\ { Y } & { 1 } \\ \end{array} \right) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/858.jpg,"U ( s ; \beta ) v = \sum _ { t \sim s } E _ { t } ^ { ( \beta ) } ( z ) \otimes R _ { t } ^ { ( \beta ) } v ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/859.jpg,{ \bar { \psi } } ( z ) \equiv e ^ { i q } e ^ { \pi ( 0 ) \ln z } e ^ { \sum _ { n > 0 } \frac { A ^ { \dag } ( n ) } { \sqrt { n } } z ^ { n } } e ^ { - \sum _ { n > 0 } \frac { a ( n ) } { \sqrt { n } } z ^ { - n } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/860.jpg,L _ { 3 } = \left( \begin{matrix} { 0 } & { - i } & { 0 } & { 0 } \\ { i } & { 0 } & { 0 } & { 0 } \\ { 0 } & { 0 } & { 0 } & { 0 } \\ { 0 } & { 0 } & { 0 } & { 0 } \\ \end{matrix} \right) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/861.jpg,"\beta - \beta _ { \mathrm { c } } \sim \delta \ln \delta , \qquad \langle 0 | H | 0 \rangle \sim \delta ^ { 2 } \ln \delta ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/862.jpg,\left( \begin{array} { c c } { \lambda } & { S } \\ { A } & { - \lambda ^ { t } } \\ \end{array} \right)
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/863.jpg,"( \Gamma _ { d i v } ^ { ( n ) } , S ) = \sigma \Gamma _ { d i v } ^ { ( n ) } = 0 ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/864.jpg,\omega ^ { \prime } = 2 f _ { t t } d f _ { t x } \wedge d f _ { t t } + \frac { 3 } { 2 } d f _ { x } \wedge d f _ { t x }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/865.jpg,d _ { p } = 2 ^ { 7 - 2 p } \pi ^ { \frac { 9 - 3 p } { 2 } } \Gamma ( \frac { 7 - p } { 2 } )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/866.jpg,{ \cal G } ^ { a } ( { \bf r } ) = D _ { i } ^ { a } \Pi _ { i } ^ { a } ( { \bf r } ) = \partial _ { i } \Pi _ { i } ^ { a } ( { \bf r } ) + g f ^ { a b c } A _ { i } ^ { b } ( { \bf r } ) \Pi _ { i } ^ { c } ( { \bf r } ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/867.jpg,"\frac { \partial } { \partial T _ { k } } d S = d \Omega _ { k } , \frac { \partial } { \partial \bar { T } _ { k } } d S = d \tilde { \Omega } _ { k } , \frac { \partial } { \partial X } d S = d \Omega _ { 0 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/868.jpg,"\begin{array} { r l } { \displaystyle \Delta _ { \pm } } & { = \displaystyle \frac { c } { 2 4 } \pm \left( I _ { H } ^ { \pm } - 2 I _ { S } ^ { \pm } - I _ { C } ^ { \pm } - I _ { W } ^ { \pm } \right) + \displaystyle \frac { 1 } { 2 \pi } \Sigma _ { \pm } } \\ { } & { \mp \displaystyle \frac { 1 } { 2 \pi } \displaystyle \int _ { - \infty } ^ { \infty } \displaystyle \frac { d x } { 2 \pi } \varphi _ { \pm } ^ { , } ( x ) { \cal Q } _ { \pm } ( x ) \: , } \\ \end{array}"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/869.jpg,{ \cal R } = \int d x \biggl \{ \bigl [ ( D _ { \mu } \phi ) ^ { * } \gamma ^ { \mu } + N \phi ^ { * } \gamma ^ { 5 } - { \frac { i } { \kappa } } \phi ^ { * } ( | \phi | ^ { 2 } - v ^ { 2 } ) \bigr ] \gamma ^ { 0 } \psi \biggr \} .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/870.jpg,\begin{array} { l } { S _ { a 0 } ^ { a } | \Omega \rangle = p | \Omega \rangle } \\ { \ } \\ { S _ { a 0 } ^ { a } | \bar { \Omega } \rangle = - \bar { p } | \bar { \Omega } \rangle } \\ \end{array}
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/871.jpg,"\beta F \left( \beta \right) = \int E \left( \beta \right) + C ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/872.jpg,S = \frac { k } { 4 \pi } \int d ^ { 2 } z \left( E _ { \mu \nu } ( r ) \partial r ^ { \mu } \bar { \partial } r ^ { \nu } + F ( r ) \partial x _ { + } \bar { \partial } x _ { - } \right) + \frac { 1 } { 4 \pi } \int d ^ { 2 } z \sqrt { g } R \Phi ( r ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/873.jpg,\bar { f } _ { i j } \dot { q } _ { j } - { \frac { \partial V } { \partial q _ { i } } } = 0
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/874.jpg,e ^ { \prime } = \frac { e } { ( 1 - 2 x \gamma + \gamma ^ { 2 } x ^ { 2 } ) ^ { 2 } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/875.jpg,"d s ^ { 2 } = - d t ^ { 2 } + v _ { i } a ^ { 2 } ( t _ { 0 } ) d t d X ^ { i } + a ^ { 2 } ( t ) ( d X ^ { i } ) ^ { 2 } , \qquad \mathrm { f o r } \qquad t > t _ { 0 }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/876.jpg,2 \lambda _ { \gamma } \lambda _ { \delta } P ^ { \gamma \delta } { } _ { \alpha \beta } - \lambda _ { \gamma } F ^ { \gamma } { } _ { \alpha \beta } - K _ { \alpha \beta } = 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/877.jpg,"{ \mathrm { g } _ { 6 } = \mathrm { g } _ { 2 } ^ { - 1 / 3 } = e ^ { - \phi _ { 0 } / 3 } , }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/878.jpg,3 0 Z = \exp \int d ^ { 4 } x N ^ { 2 } F ( \theta / N ) \equiv \exp [ - \int d ^ { 4 } x W ( \theta ) ] .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/879.jpg,\tau \rightarrow \tau + 1
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/880.jpg,"S [ h _ { g } , X ] = \frac { 1 } { 4 \pi \alpha ^ { \prime } } \int \sqrt { h } h ^ { a b } \partial _ { a } X ^ { \mu } \partial _ { b } X ^ { \mu }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/881.jpg,"( n _ { e } , n _ { m } ) \longrightarrow ( n _ { e } + 2 n _ { m } , n _ { m } ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/882.jpg,"{ \frac { [ n ^ { \prime } ] _ { 0 } } { n _ { 0 } b _ { 0 } } } = - { \frac { 8 \pi G _ { 5 } } { 3 c ^ { 4 } } } ( \sigma - 3 \wp - 2 \varrho c ^ { 2 } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/883.jpg,S _ { 1 2 } = \frac { 3 ( \mathrm { \boldmath \sigma } ^ { ( 1 ) } \cdot { \bf r } ) ( \mathrm { \boldmath \sigma } ^ { ( 2 ) } \cdot { \bf r } ) } { r ^ { 2 } } - \mathrm { \boldmath \sigma } ^ { ( 1 ) } \cdot \mathrm { \boldmath \sigma } ^ { ( 2 ) }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/884.jpg,g _ { 4 } ( A - B ) \bar { H } ^ { 2 } + \bar { g } _ { 4 } ( A + B ) H ^ { 2 }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/885.jpg,\Psi \rightarrow \Psi _ { 0 } ( x ) \exp ( \pm i \int \sqrt { k ^ { 2 } + \frac { m ^ { 2 } } { H ^ { 2 } \eta ^ { 2 } } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/886.jpg,\partial _ { \mu } A ^ { \mu } { } ^ { a } ( x ) - g f ^ { a b i } a _ { \mu } ^ { i } ( x ) A ^ { \mu } { } ^ { b } ( x ) : = ( D _ { \mu } [ a ] A ^ { \mu } ) ^ { a } = 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/887.jpg,"\frac { M _ { m p } ^ { 2 } ( K ) } { K } = \frac { M _ { p _ { 1 } } ^ { 2 } ( n ) } { n } + \frac { M _ { p _ { 2 } } ^ { 2 } ( K - n ) } { K - n } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/888.jpg,S = i m \bar { \Psi } \Psi + \beta \bar { \Psi } \Gamma _ { \mu } \Psi \bar { \Psi } \Gamma _ { \mu } \Psi
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/889.jpg,"[ \xi , \eta ] = 3 D a d _ { r _ { + } ( \xi ) } ^ { \ast } \eta - a d _ { r _ { - } ( \eta ) } ^ { \ast } \xi"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/890.jpg,"{ [ } \stackrel { 1 } { \bar { j } } ( \bar { x } _ { 1 } ) , \stackrel { 2 } { \bar { u } } ( \bar { x } _ { 2 } ) ] = \delta ( \bar { x } _ { 1 2 } ) \stackrel { 2 } { \bar { u } } ( \bar { x } _ { 2 } ) C \ ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/891.jpg,\exp \left( i p _ { \mu } X ^ { \mu } \right) \rightarrow \hat { v } _ { p } = \hat { h } ^ { k _ { 2 } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/892.jpg,"{ \prod } _ { \mu \nu \rho , \alpha \beta \gamma } ^ { ( 3 ) } = \sum _ { \mathrm { s y m m } } \left[ \pi _ { \mu \alpha } \pi _ { \nu \beta } \pi _ { \rho \gamma } - \frac { 3 } { 5 } \pi _ { \mu \nu } \pi _ { \alpha \beta } \pi _ { \rho \gamma } \right] ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/893.jpg,"S = - \frac { 1 } { g ^ { 2 } } T r \left( \frac { 1 } { 4 } [ A _ { \mu } , A _ { \nu } ] [ A _ { \mu } , A _ { \nu } ] + 8 \alpha ^ { 2 } A _ { \mu } A _ { \mu } \right) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/894.jpg,Q ( s ) = \sum _ { n } \frac { 1 } { 2 \Gamma ( s ) } \sqrt { \frac { b } { a } } \int _ { 0 } ^ { \infty } d t e ^ { - t \left( c - \frac { b ^ { 2 } } { 8 a } \right) } t ^ { s - 1 } K _ { \frac { 1 } { 4 } } \left( \frac { b ^ { 2 } t } { 8 a } \right)
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/895.jpg,M _ { 1 } = M _ { 2 } = E _ { 0 } = y _ { 0 } = k \quad ; \quad k \ge 1 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/896.jpg,"\Delta S _ { \mathrm { c l } } = { \frac { { \cal A } _ { i I } ^ { \prime } } { 2 \pi } } \int d ^ { 2 } z \partial Z ^ { i } \bar { \partial } \bar { Z } ^ { I } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/897.jpg,"\psi = ( \varphi _ { 0 } + e _ { 1 } \varphi _ { 1 } ) + e _ { 2 } ( \varphi _ { 2 } + e _ { 1 } \varphi _ { 3 } ) + e _ { 4 } ( \varphi _ { 4 } + e _ { 1 } \varphi _ { 5 } ) + e _ { 6 } ( \varphi _ { 6 } + e _ { 1 } \varphi _ { 7 } ) \quad ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/898.jpg,"[ \hat { K } _ { 3 } , \Phi _ { k } ] = k \Phi _ { k } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/899.jpg,"\{ Q _ { B } , \eta _ { 0 } \} = 0 , \quad Q _ { B } ^ { 2 } = \eta _ { 0 } ^ { 2 } = 0 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/900.jpg,x ^ { \mu } ( t ) = { \hat { x } } ^ { \mu } ( t ) + \delta x ^ { \mu } ( t )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/901.jpg,"\tilde { \alpha } ( \xi _ { 1 } , \xi _ { 2 } ) = \int d \lambda _ { 1 } d \lambda _ { 2 } \quad \psi _ { \lambda _ { 1 } , \lambda _ { 2 } } ^ { m l } ( \xi _ { 1 } , \xi _ { 2 } ) \quad \alpha ( \lambda _ { 1 } , \lambda _ { 2 } ) \quad ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/902.jpg,"c B _ { x } = - \beta E _ { y } , \quad c B _ { y } = \beta E _ { x } , \quad c B _ { z } = 0 ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/903.jpg,Y ( \rho ) = 4 e ^ { 2 h ( \rho ) } + \left( a ( \rho ) - 1 \right) ^ { 2 } = 4 \rho \tanh \rho \quad
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/904.jpg,\mu ^ { 2 } ( \phi _ { 0 } ) = m ^ { 2 } + { \frac { \lambda } { 2 } } \phi _ { 0 } ^ { 2 } + { \frac { \lambda } { 2 } } I _ { 0 } ^ { 2 } ( \mu )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/905.jpg,"\left( - \nabla ^ { 2 } + U ^ { \prime \prime } ( \varphi ) \right) \psi _ { n } = \lambda _ { n } \psi _ { n } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/906.jpg,"\mathrm { \frac { 1 } { 2 } } ( S _ { m } , S _ { m } ) ^ { a } + V _ { m } ^ { a } S _ { m } = i \hbar \Delta ^ { a } S _ { m } , \qquad \mathrm { \frac { 1 } { 2 } } \{ S _ { m } , S _ { m } \} _ { \alpha } + V _ { \alpha } S _ { m } = i \hbar \Delta _ { \alpha } S _ { m } ;"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/907.jpg,\langle \bar { \psi } ( x ) \psi ( x ) \bar { \psi } ( \tilde { x } ) \psi ( \tilde { x } ) \rangle _ { w } \cong - { \frac { \langle 1 \rangle _ { w } } { ( 4 \pi ) ^ { 2 } } } { \frac { \vert \tilde { x } - x _ { o } \vert ^ { 4 } } { r _ { o } ^ { 4 } } } { \frac { 2 } { \vert x - x _ { o } \vert ^ { 4 } } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/908.jpg,P _ { \tilde { e } } ( \vec { x } ) = \mathrm { e } ^ { i \tilde { e } A _ { 0 } ( \vec { x } ) / T }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/909.jpg,\gamma _ { a \dot { b } } ^ { m } v _ { m } = v _ { 1 ^ { \prime } } + v _ { 0 ^ { \prime } } \equiv v _ { + }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/910.jpg,"{ \bf \Omega } \wedge { \bf \Omega } = \sum _ { m , n = 2 } ^ { \infty } \Big [ { \frac { \partial { B } _ { n } } { \partial t _ { m } } } - { \frac { \partial { B } _ { m } } { \partial t _ { n } } } + \{ { B } _ { n } , { B } _ { m } \} \Big ] d \lambda \wedge d x \wedge d t _ { m } \wedge d t _ { n }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/911.jpg,\phi _ { 1 } = \frac { \lambda } { m ^ { 2 } } { \bigg [ } \left( \frac { 1 } { 2 \sqrt { 3 } } + \frac { 3 } { 4 \pi } \right) \frac { 1 } { \cosh ^ { 2 } ( m x / 2 ) } - \frac { \sqrt { 3 } } { 4 } ( m \partial _ { m } + 2 \lambda \partial _ { \lambda } ) { \bigg ] } \phi _ { \mathrm { k i n k } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/912.jpg,"\delta _ { \lambda } S _ { m i n } = ( S _ { m i n } , S _ { m i n } ) \cdot \lambda = 0 ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/913.jpg,W _ { \mathrm { t r e e } } = { \frac { 1 } { 3 } } h _ { \alpha \beta \gamma } ( M ^ { i } ) Q ^ { \alpha } Q ^ { \beta } Q ^ { \gamma } + { \frac { 1 } { 3 } } h _ { i \alpha \beta } ( M ^ { i } ) Q _ { \mathrm { h i d } } ^ { \alpha } Q _ { \mathrm { h i d } } ^ { \beta } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/914.jpg,"P W = \{ q \in { \bf R } ^ { r } | \ \rho \cdot q > 0 , \quad \rho \in \Pi \} ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/915.jpg,{ \cal M } \sim \Big ( A + B q ^ { 2 } + \ldots + \alpha \kappa ^ { 4 } \frac 1 { q ^ { 2 } } + \beta _ { 1 } \kappa ^ { 4 } \ln ( - q ^ { 2 } ) + \beta _ { 2 } \kappa ^ { 4 } \frac { m } { \sqrt { - q ^ { 2 } } } + \ldots \Big )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/916.jpg,\gamma _ { 5 } D + D \gamma _ { 5 } = a D \gamma _ { 5 } D g ( \gamma _ { 5 } D )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/917.jpg,G _ { - { \frac { 2 } { 3 } } } ^ { - } = G _ { - { \frac { 2 } { 3 } } } ^ { + } { G _ { 0 } ^ { + } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/918.jpg,E _ { k } ( T ) = ( 1 / 2 ) \hbar \omega _ { k } + \frac { \hbar \omega _ { k } } { \exp ( \beta \hbar \omega _ { k } ) - 1 } = \frac { \hbar \omega _ { k } } { 2 } \mathrm { c o t h } \left[ \frac { \beta \hbar \omega _ { k } } { 2 } \right] .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/919.jpg,"\left[ F , G \right] _ { D } = \left[ F , G \right] _ { P B }"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/920.jpg,T ^ { \mu \nu } = + \frac { 2 } { \sqrt { \gamma } } \frac { \delta I } { \delta \gamma _ { \mu \nu } }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/921.jpg,"\beta \left( U _ { n } - 2 \eta + U _ { n } ^ { - 1 } \right) G _ { N M } ^ { n m } = - \delta _ { n - m } , M < n < N ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/922.jpg,\dot { x } = \left[ \frac { \i } { \hbar } \left( \xi ^ { 4 } - q ^ { 4 } \right) + q \left( \xi ^ { 2 } + q ^ { 2 } \right) p { \mit \Lambda } ^ { 2 } \right] K ^ { 2 }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/923.jpg,"D ^ { + + } \rightarrow \nabla ^ { + + } = D ^ { + + } + i g V ^ { + + } ( x _ { A } , \theta ^ { + } , \bar { \theta } ^ { + } , u )"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/924.jpg,"L _ { \Sigma + } = \epsilon ^ { \mu \nu \rho \sigma } \bigg [ \dots + \bigg ( C - { \frac { B ^ { 2 } } { 4 A } } \bigg ) \Sigma _ { \mu \nu } ^ { + a b } \Sigma _ { \rho \sigma a b } ^ { + } - { \frac { B E } { 2 A } } G _ { \mu \nu } ^ { + a b } \Sigma _ { \rho \sigma a b } ^ { + } + \dots \bigg ] ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/925.jpg,"{ \hat { \cal A } } = \sum _ { n = 0 } ^ { \infty } g _ { s t r i n g } ^ { - { \cal \xi } } { \hat { \cal A } } ^ { n } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/926.jpg,S = \int _ { \tau ^ { \prime } } ^ { \tau ^ { \prime \prime } } d \tau \left( p _ { \mu } \dot { x } ^ { \mu } - N { \cal H } _ { 0 } \right) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/927.jpg,\rho ^ { - 1 } { \frac { d } { d \rho } } \left( \left( \rho ^ { 4 } - b ^ { 4 } \right) \rho { \frac { d f } { d \rho } } \right) - k ^ { 2 } f = 0
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/928.jpg,\frac { 1 } { 2 \pi } c ^ { ( f ) } : e ^ { \mp i 2 \sqrt { \pi } \sqrt { \frac { \pi } { \pi + g N } } U _ { 1 f } \Phi ^ { ( 1 ) } ( x ) } : _ { M ^ { ( 1 ) } } \prod _ { I = 2 } ^ { N } : e ^ { \mp i 2 \sqrt { \pi } U _ { I f } \Phi ^ { ( I ) } ( x ) } : _ { M ^ { ( I ) } } e ^ { \pm i \frac { \theta } { N } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/929.jpg,\frac { 1 } { \sqrt { - G } } \partial _ { \tau } ( \sqrt { - G } G ^ { \tau \tau } \partial _ { \tau } \Phi ) + \frac { 1 } { \sqrt { - G } } \partial _ { \xi } ( \sqrt { - G } \partial _ { \xi } \Phi ) - 2 \lambda ( \Phi ^ { 2 } - v ^ { 2 } ) \Phi = 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/930.jpg,"\delta y _ { 1 2 } ^ { \mu } = e _ { 1 2 } ^ { \mu } , \qquad \delta \bar { y } _ { 1 2 } ^ { \mu } = \bar { e } _ { 1 2 } ^ { \mu } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/931.jpg,\int d ^ { 3 } x \ f * g = \int d ^ { 3 } x \ f g
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/932.jpg,"c _ { 1 } \left\{ A ( \lambda ) \Theta ( \alpha _ { 1 } ) - B ( \lambda ) \Theta ( \alpha _ { 3 } ) \right\} + c _ { 2 } \left\{ C ( \lambda ) \Theta ( \alpha _ { 2 } ) - D ( \lambda ) \Theta ( \alpha _ { 3 } ) \right\} = 0 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/933.jpg,d s ^ { 2 } = d \sigma ^ { 2 } + b ^ { 2 } ( \sigma ) ( - d t ^ { 2 } + \cosh ^ { 2 } t d \Omega _ { 2 } ^ { 2 } ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/934.jpg,\langle { \cal E } _ { d } | { \cal \vec { E } } _ { d } \rangle = \langle { \cal \vec { E } } _ { d } | { \cal E } _ { d } \rangle = 1
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/935.jpg,"\{ \phi , \chi \} ( x ) \equiv \phi ( x ) * \chi ( x ) - \chi ( x ) * \phi ( x ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/936.jpg,\left( \partial _ { \mu } \partial _ { \nu } \phi \right) A _ { \mu } A _ { \nu } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/937.jpg,O \equiv \partial ^ { 2 } + 2 B \cdot \partial + B ^ { 2 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/938.jpg,"\lambda = 6 \frac { \kappa ^ { 2 } } { \tilde { \kappa } ^ { 4 } } , \Lambda = \frac { 4 \pi } { \tilde { M } _ { p } ^ { 3 } } \left[ \tilde { \Lambda } + \left( \frac { 4 \pi } { 3 \tilde { M } _ { p } ^ { 3 } } \right) \lambda ^ { 2 } \right]"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/939.jpg,"\frac { d E } { d t } = \frac { 8 { \cal G } } { 5 } m ^ { 2 } l ^ { 4 } \omega ^ { 6 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/940.jpg,\alpha r = \cosh \left( \alpha \frac { d } { 2 } \right)
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/941.jpg,"z _ { \min } \left( b \right) < z \quad ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/942.jpg,"< \vec { e } , \vec { m } | \vec { e } , \vec { m } > = \sum _ { \vec { k } } e ^ { 2 \pi i \frac { \vec { k } \cdot \vec { e } } { N } } W ( \vec { k } , \vec { m } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/943.jpg,L = \alpha ( m + \bar { m } ) + \beta ( n + \bar { n } ) + \frac { h } { 2 } ( p + \bar { p } ) + q + \bar { q } \ .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/944.jpg,\beta / | \alpha ^ { ( 1 ) } | \sim 1 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/945.jpg,{ \frac { d ^ { 2 m + 1 } } { d w ^ { 2 m + 1 } } } w ^ { 2 m + 2 n + 1 } \mid _ { w = 1 } = { \frac { ( 2 ( m + n + 1 ) ) ! } { ( 2 n + 1 ) ! } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/946.jpg,\tilde { T } d \tilde { S } + T d S + \tilde { \phi } d Q + \phi d Q = 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/947.jpg,v - v _ { 0 } ^ { I I } = - \frac { p _ { x } } { p _ { v } } ( x - x _ { 0 } ^ { I I } ) - \frac { p _ { y } } { p _ { v } } y - y _ { 0 } ^ { I I } +
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/948.jpg,\psi _ { n } ^ { ( m ) } ( \xi ) = ( m \sqrt { \xi } ) ^ { 1 - n / 2 } Z _ { 1 - n / 2 } ( i m \sqrt { \xi } )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/949.jpg,"V _ { \parallel } = \frac { 1 - 2 ( \dot { f } - H f ) ^ { 2 } } { 1 - ( \dot { f } - H f ) ^ { 2 } } \dot { H } + \frac { 2 } { f ^ { 2 } } \frac { ( 1 + H f ( \dot { f } - H f ) ) ^ { 2 } } { 1 - ( \dot { f } - H f ) ^ { 2 } } + 2 H ^ { 2 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/950.jpg,"{ \cal H } ( x ) = { \frac { 1 } { 2 m } } \left| ( i \hbar \partial _ { i } - { \frac { e } { c } } A _ { i } ^ { [ 1 ] } ( x ) ) \psi ^ { ( 1 ) } ( x ) \right| ^ { 2 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/951.jpg,"\delta x ^ { R } ( \tau , \sigma ) = \sum _ { n } [ A _ { n } ^ { R } e ^ { - i ( n \sigma + \omega _ { n } \tau ) } + \tilde { A } _ { n } ^ { R } e ^ { - i ( n \sigma - \omega _ { n } \tau ) } ] ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/952.jpg,\mathrm { s i n h } \ \frac { 3 } { 2 } H _ { \infty } t _ { \Lambda } = 1
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/953.jpg,"{ \cal Z } = \int { \cal D } \psi ^ { * } { \cal D } \psi { \cal D } { \cal A } _ { \mu } e ^ { i S } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/954.jpg,e ^ { 2 \phi } = ( { \frac { Q } { \pi ^ { 5 } R _ { \infty } ^ { 8 } } } ) ^ { 2 } \cos ^ { 2 } \big [ { \frac { 3 } { 2 } } \cos ^ { - 1 } ( { \frac { R _ { \infty } } { R } } ) ^ { 8 } \big ] .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/955.jpg,2 I ^ { A } \epsilon = i \delta \Phi ^ { * } \sigma ^ { A } d \Phi - i d \Phi ^ { * } \sigma ^ { A } \delta \Phi
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/956.jpg,"e \sim 0 . 0 8 3 5 1 \approx 1 . 5 6 6 \times 1 0 ^ { - 1 9 } \mathrm { c o u l o m b } \approx 0 . 9 7 7 5 e _ { \mathrm { e x p } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/957.jpg,S _ { 0 } = - \frac { 1 } { 2 } \int _ { | k | < \Lambda } \frac { d ^ { D } k } { ( 2 \pi ) ^ { D } } k ^ { 2 } \phi ( - k ) \phi ( k ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/958.jpg,X = \ \left( \begin{matrix} { x } & { \lambda } \\ { \pi } & { y } \\ \end{matrix} \right)
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/959.jpg,"\Delta \phi _ { - } = 2 \sqrt { \frac { 2 - k ^ { 2 } } { 1 - k ^ { 2 } } } \Pi ( \frac { - k ^ { 2 } } { 1 - k ^ { 2 } } , k ) \in ] \pi , \sqrt { 2 } \pi ["
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/960.jpg,\delta \ddot { \phi } _ { \vec { k } } + 2 \frac { \dot { a } } { a } \delta \dot { \phi } _ { \vec { k } } + k ^ { 2 } \delta \phi _ { \vec { k } } = 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/961.jpg,"G _ { 1 6 } ( x _ { p } ) = \langle \prod _ { p = 1 } ^ { 1 6 } g _ { _ { Y M } } ^ { 2 } \widehat \Lambda _ { \alpha _ { p } } ^ { A _ { p } } ( x _ { p } ) \rangle _ { _ { K = 1 } } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/962.jpg,"u ^ { \prime } = e ^ { \eta } u , \qquad v ^ { \prime } = e ^ { - \eta } v ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/963.jpg,\hat { \Pi } _ { b } ( p ^ { 2 } ) = - 2 + \sqrt { 1 - q } \log \left| \frac { q - 1 - \sqrt { 1 - q } } { q - 1 + \sqrt { 1 - q } } \right| - i \pi \sqrt { 1 - q } \Theta ( 1 - q ) .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/964.jpg,A = i Q \frac { B } { A } \sin \chi \psi d \chi .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/965.jpg,"P V = k T \langle N \rangle [ 1 - \eta ( p , q ) { \frac { h ^ { 2 } } { 2 m \pi k T } } { \frac { \langle N \rangle } { A } } + . . . ] ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/966.jpg,"\Phi _ { \xi } ( s _ { 2 } , s _ { 1 } ) = P _ { s } \exp i g \int _ { s _ { 1 } } ^ { s _ { 2 } } A _ { \mu } ( \xi ( s ) ) \dot { \xi } ^ { \mu } ( s ) d s"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/967.jpg,"e ^ { - \Gamma _ { e f f } ( A ) } = \int { \cal D } \psi { \cal D } \bar { \psi } \exp { ( - \int d ^ { 2 n } x \bar { \psi } i D _ { + } \psi ) } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/968.jpg,{ \cal X } ^ { ( p ) m } = - ( f ^ { \prime } / 2 f ) { \cal X } ^ { 0 } x ^ { m }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/969.jpg,d \hat { s } ^ { 2 } = - d \eta ^ { 2 } + g ( r ( \eta ) ) ( d \vec { x } ) ^ { 2 }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/970.jpg,"[ L _ { m } ^ { \alpha } , \Phi _ { \beta _ { 1 } \beta _ { 2 } } ^ { 2 } ( z ; q ) ] \"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/971.jpg,\Gamma _ { a i b } : = \left( X _ { i } R R ^ { T } \right) _ { a b } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/972.jpg,"[ L , M ] _ { \beta , \gamma } = \sum _ { \kappa \in \Delta } \left( L _ { \beta , \kappa } M _ { \kappa , \gamma } - M _ { \beta , \kappa } L _ { \kappa , \gamma } \right) : \quad \beta , \gamma , \kappa \in \Delta ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/973.jpg,"e _ { k } = \tilde { e } _ { k } + \tilde { e } _ { 4 } - { \textstyle { \frac { 1 } { 2 } } } \tilde { e } \qquad ( 1 \leq k \leq 3 ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/974.jpg,"\omega \equiv { \frac { 3 \pi } { \mathrm { l n } 2 } } \simeq 1 3 . 6 \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/975.jpg,"W _ { 2 } = H ^ { 1 } ( d P _ { 9 } , { \cal O } _ { d P _ { 9 } } ( 6 \sigma | _ { d P _ { 9 } } - F ) ) ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/976.jpg,\int { \cal D } Q { \cal D } c { \cal D } { \bar { c } } \exp \! \left[ \frac { i } { 2 g _ { 0 } ^ { 2 } } S ^ { \mathrm { d i a m } } \right] = \left( \mathrm { d e t } ^ { - 1 / 2 } D ^ { 2 } [ B ] \right) ^ { D - 2 } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/977.jpg,\psi = \sum _ { m = - N } ^ { \infty } ( - i ) ^ { m + \alpha } J _ { m + \alpha } ( r ^ { \prime } ) e ^ { i m \phi } + \sum _ { m = - N - 1 } ^ { - \infty } ( - i ) ^ { - ( m + \alpha ) } J _ { - ( m + \alpha ) } ( r ^ { \prime } ) e ^ { i m \phi } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/978.jpg,{ \hat { \cal P } } _ { ( 0 ) } { } ^ { \hat { \imath } } = { \textstyle \frac { 1 } { 2 \pi \alpha ^ { \prime } T _ { M 2 } \sqrt { | \hat { \gamma } | } } } { \hat { P } } _ { ( 0 ) } { } ^ { \hat { \imath } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/979.jpg,"\times \exp \bigg \{ \sum _ { \stackrel { i , j = 1 } { i \neq j } } ^ { N } \left[ \sqrt { \frac { \alpha ^ { \prime } } { 2 } } p ^ { ( i ) } + \alpha _ { 1 } ^ { ( i ) } V _ { i } ^ { \prime } ( 0 ) \partial _ { z _ { i } } + \bar { \alpha } _ { 1 } ^ { ( i ) } \bar { V } _ { i } ^ { \prime } ( 0 ) \partial _ { \bar { z } _ { i } } \right]"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/980.jpg,\left[ 2 ^ { 5 - d } \sum _ { { \bf P } ( i ) } \prime \prod _ { i } ^ { d } { \frac { 2 c o s \pi z _ { i } } { 2 s i n \pi z _ { i } } } \right] ^ { 2 }
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/981.jpg,"[ g , L _ { \omega _ { \alpha } } ] = [ g , \Lambda _ { \omega _ { \alpha } } ] = 0 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/982.jpg,\frac { d } { d s } \widetilde { x } ( s ) = \frac { d } { d s } \biggl ( \phi ( s ) ^ { - 1 } \sigma ( q ( s ) ) \biggr ) = \phi ^ { - 1 } ( - \dot { \phi } \phi ^ { - 1 } \sigma + \dot { \sigma } )
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/983.jpg,"\tau = \frac { \tau _ { 0 } + k } { 2 N - 2 } , k = 0 , \cdots 2 N - 1 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/984.jpg,"T ( z ) { \cal O } ( 0 , 0 ) = \frac { h } { z ^ { 2 } } { \cal O } ( 0 , 0 ) + \frac { 1 } { z } \partial { \cal O } ( 0 , 0 ) + \ldots \ ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/985.jpg,"{ \cal L } \Psi = 0 , \bar { \cal L } \Psi = 0 , { \frac { \partial \Psi } { \partial t _ { k } } } + { \cal A } _ { k } \Psi = 0 ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/986.jpg,"\overline { { u ( \tau ) } } = u ( - \bar { \tau } ) , \qquad u ( \tau + 1 ) = - u ( \tau ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/987.jpg,E _ { m \bar { m } } = { \frac { 2 ^ { 7 } \sqrt { Q } \pi ^ { 1 / 2 } } { \Gamma ( 1 / 4 ) ^ { 2 } } } { \frac { \log { ( L _ { 0 } / L ) } } { L } } \int _ { 1 } ^ { \infty } d y \ { \frac { y ^ { 2 } } { \sqrt { y ^ { 4 } - 1 } } } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/988.jpg,"[ \hat { \Pi } , \hat { M } ] = P _ { \Omega } = | \Omega \rangle \langle \Omega | ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/989.jpg,"{ \cal L } _ { L i o u v i l l e } = \Phi ( R [ g ] + a ^ { 2 } ) \sqrt { \det g } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/990.jpg,"G ( r , \theta , \varphi ; r _ { o } , \theta _ { o } , \varphi _ { o } ) = \sum _ { l = 0 } ^ { \infty } R _ { l } ( r , r _ { o } ) P _ { l } ( c o s \gamma ) \,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/991.jpg,"M _ { B P S } ^ { 2 } = e ^ { - \phi _ { \infty } } ( \vec { P } ^ { T } { \cal M } _ { + } \vec { P } + \vec { Q } ^ { T } { \cal M } _ { + } \vec { Q } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/992.jpg,"N _ { f } = b ^ { + } b ^ { - } = \sigma _ { - } \sigma _ { + } = \frac { 1 } { 2 } ( 1 - \sigma _ { 3 } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/993.jpg,\Gamma _ { \mathit { e f f } } [ \phi ] = - i \mathrm { T r } \ln { \left[ 1 - g \gamma _ { 5 } \phi ( \hat { x } ) S ( \hat { p } ) \right] } .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/994.jpg,\sum _ { n } n \omega _ { n } \sum _ { R = 1 } ^ { 2 } A _ { n } ^ { R } \tilde { A } _ { - n } ^ { R } = 0 .
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/995.jpg,"f ( A ) = F ( A _ { \gamma _ { 1 } } , \dots , A _ { \gamma _ { n } } ) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/996.jpg,"F \colon \rho _ { 1 } \otimes \rho _ { 2 } \to \rho _ { 3 } \otimes \rho _ { 4 } ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/997.jpg,"\mathrm { t r i r e s } \left( \bar { \Phi } _ { A } ^ { ( 3 ) } \right) = \left( g h _ { 1 } \left( \Phi ^ { A } \right) + 1 , g h _ { 2 } \left( \Phi ^ { A } \right) + 1 , g h _ { 3 } \left( \Phi ^ { A } \right) \right) ,"
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/998.jpg,"{ \cal L } _ { Y M } ^ { ( 1 ) } ( D \rightarrow 4 , 2 ) = \frac { \hbar g ^ { 2 } } { 3 2 \pi ^ { 2 } ( 4 - D ) } \left( \frac { 1 1 } { 3 } C + \frac { 1 } { 6 } T _ { s } - \frac { 4 } { 3 } T _ { f } \right) F _ { \mu \nu } ^ { a } F _ { \mu \nu } ^ { a } ."
+/Users/lyz/Work/八斗学院/Week10/LaTeX_OCR/999.jpg,a _ { i j } = \left( \begin{array} { c c } { 2 } & { - 2 } \\ { - 2 } & { 2 } \\ \end{array} \right)

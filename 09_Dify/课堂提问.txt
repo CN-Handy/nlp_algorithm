@@ -1,0 +1,113 @@
+【作业1】大家通过本地 或 docker 安装dify，对比下工作流和对话流的使用。
+
+【作业2】使用dify搭建一个穿衣智能指南，输入天气、温度、湿度，让大模型给出穿衣建议。
+
+【作业3】创建一个知识库，上传一些文档，在dify实现基于文档的问答。
+
+
+- 老师 我作业里面的接口用的是get请求的，get接口请求大语言模型的tools和prompt是不是，接口设计有问题，
+国内不太遵守restful风格，get post delete patch。
+
+绝大部分使用get post居多：get 是获取资源，get user info。其他非获取资源的接口都可以post。
+
+
+- 老师，dify和coze哪个用得更多些，这两个有区别吗？
+国内dify 多一些，dify开源早，生态好。
+
+
+- dify本地部署卡在端口占用，怎么处理比较好
+修改 .env 启动的配置文件（很容易出错），建议你关闭之前的占用端口应用
+
+
+- 老师 dify不同工作区，应用之间会互相干扰吗？
+相同工作区 内 应用理论上不干扰。不同相同工作区 内 应用理论上不干扰。
+
+工作区是一个逻辑概念，主要做权限管理，没有其他用途。
+
+- 老师，后面会教大模型项目的部署吗？
+之前见过 vllm sglang的部署qwen的过程
+
+
+docker compose up -d[+] Running 11/11 ! sandbox        Interrupted  这个报错是不是被墙了：Error response from daemon: failed to resolve reference "docker.io/langgenius/dify-api:1.9.1": failed to do request: Head "https://registry-1.docker.io/v2/langgenius/dify-api/manifests/1.9.1": dialing registry-1.docker.io:443 container via direct connection because disabled has no HTTPS proxy: connecting to registry-1.docker.io:443: dial tcp 202.160.128.210:443: connectex: A connection attempt failed because the connected ....
+拉 docker 镜像失败，修改docker源
+
+- 老师 dify不是有云服务版本么 可以不下载到本地运行吗 就使用云服务版本
+企业没有这么用的，私有化部署多一些
+
+- 老师，qwen agent好用吗
+qwen 通用版本（tools功能）， 更新比较快
+
+- 老师 docker pulling时候需要外网么
+不需要，但推荐配置国内的docker源
+
+- 老师为啥我的探索里只有几个
+需要链接外网
+
+- 上周的作业是否可以使用小尺寸本地部署开源的大模型 有哪些小尺寸的大模型可以推荐
+如果需要大模型 有一定的tools能力，推荐7b 或更大大模型
+
+- 老师 添加提示窗的提示词是每次运行都发送嘛
+
+
+- dify可以做智能客服吗？如何实现
+如何使用chatflow 搭建智能客服
+
+流程：
+    用户提问
+    用户提问分类 -》销售问题，售后问题，退款问题
+    不同的提问检索不同的知识库 -》 回答
+
+- 老师，工作流那里写好了流程后想要试运行一下，会出现一个用户提问和和Bot聊天，这两个有什么区别分别怎么填最好呢
+
+- 聊天助手 agent 文本生成应用是不是就是dify预先定义的几种 工作流和chatflow的实现
+
+【聊天助手 / 文本生成助手 / agent】 视为 chatflow 或 workflow 的实现
+
+
+- dify的托管
+
+有ui界面 可以 使用； 可以api 进行访问
+
+
+- 假如今后要以dify或者coze做开发找工作，应该达到一个什么要求，比如是否有一些复杂项目需要学习掌握的
+
+行业对大家的要求，不是开发dify 或 coze（需求很少），是使用dify 或 coze 做开发（做应用）。
+
+掌握dify的架构，dify做ai应用的逻辑，dify的部署和运维。
+
+
+
+- 老师超大文本(运行数据) ai的token不够的情况下，应该怎么才能让ai理解此运行数据并且分析(最好不分段)
+
+qwen-long 模型，输入长度更长
+
+
+
+- 节点的返回结果之间有交互的怎么处理呢，对于一个复杂任务如何分解任务，才能达到理想的效果呢？，分解任务这块有没有什么原则或者方法，以及什么时候用哪些功能？
+
+    dify ： 输入 -》 逻辑 -》 输出
+    节点的交互： 逻辑判断 或 变量控制
+    多次调试dify 看看是否达到要求
+    需要基于任务的拆分，拆分到不可拆分为止
+
+- 如果生成的文本长度超出了大模型的输出限制，怎么才能让他循环续写，并且把最终总的结果输出？
+    提问 -》 大模型 -》 大纲 -》 代码节点 -》 10部分
+        -》 列表节点，每个部分调用大模型生成 -》内容转换 -》 回答
+
+- 老师，dify性能不太好是不是基本都是小企业在用？
+    bat头条 互联网公司，都有dify类似的服务
+    全民ai（产品经历直接用dify搭建ai应用，java程序员用dify搭建ai应用）
+
+- dify的UI感觉不太友好，该如何调优界面？
+    需要前端源码
+
+- dify里面的模型接入，我上传了api key后，显示未授权，这个授权的怎么处理呢
+
+
+很多企业 把 dify当作 大模型开发平台，开发ai应用
+    如果使用dify，接受优缺点
+
+- 本地化部署dify后上传的知识库是在本地还是在dify的云端
+
+
+- 老师，是不是可以通过做一个解析DSL文件自动生成python代码的代码，这样就不用手写代码了
